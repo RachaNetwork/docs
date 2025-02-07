@@ -148,15 +148,21 @@ RACHA se compromete a hacer cumplir el Manual de Ética entre
 
 sus usuarios.
 
+
 Los usuarios deben observar y cumplir en todo caso:
+
 
 ❖ Las normas y procedimientos descritos en este manual de ética. 
 
+
 ❖ Las legislación vigente en cada lugar y en cada momento.
+
 
 ❖ Los principios fundamentales de RACHA.
 
+
 Nos permitimos para concluir este Manual de Ética transcribir una cita sobre lo que es la Ética, que seguro nos influirá a todos: 
+
 
 “Un hombre sin ética es una bestia salvaje suelta en este mundo”. Albert Camus 
 
