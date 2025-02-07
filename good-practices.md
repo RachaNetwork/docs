@@ -1,12 +1,6 @@
 ## INSTRUMENTO DE
 
-# BUENAS PRÁCTICAS
-
-EN PREVENCIÓN
-
-DEL LAVADO DE
-
-ACTIVOS
+# BUENAS PRÁCTICAS EN PREVENCIÓN DEL LAVADO DE ACTIVOS
 
 FLORIDA, A 1 DE MARZO DE 2024
 
@@ -87,6 +81,3 @@ Así, dicho precepto precisa que también estarán sujetos a la obligación de d
 Como colofón, y haciendo alusión a una realidad de los nuevos tiempos, resulta preciso hacer notar que, un papel de especial relevancia en materia de prevención del blanqueo de capitales,viene a ser el tratamiento responsable de las transacciones llevadas a cabo mediante criptoactivos, respecto de las cuales la diligencia debe ser máxima en orden a prevenir situaciones constitutivas de posible blanqueo de capitales. A tales efectos, se prestará especial atención a lo dispuesto en la Resolución General 994/2024, publicada en el Boletín Oficial de la República Argentina, al mismo tiempo que sancionó normas de lavado, en concordancia con los estándares emitidos por el GAFI (Grupo de Acción Financiera Internacional), organismo intergubernamental de prevención del lavado de dinero 
 
 En virtud de dicha Resolución, se crea un Registro de Proveedores de Servicios de Activos Virtuales, al que las empresas y personas físicas que operen con criptomonedas deberán inscribirse en un plazo de 45 días. El mencionado registro abarcará a todas las personas físicas y jurídicas que utilicen páginas web, redes sociales u otros medios para dirigir su oferta y/o publicidad a residentes en Argentina, que cuenten con un cierto volumen de operaciones en el país o que utilicen cualquier tecnología para recibir fondos localmente de residentes en Argentina. 
-
-
-
