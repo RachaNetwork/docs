@@ -2,56 +2,6 @@
 
 ## FLORIDA,A 1 DE MARZO DE 2024
 
-INDICE
-
-A)y A1).-EXPOSICIÓN DE MOTIVOS Y CONTENIDO DEL MANUAL DE 
-
-ÉTICA-------------------------------------------------Pág. 3
-
-B).-ACERCA DE RACHA-----------------------------------Pág. 4
-
-C).- LA ÉTICA DEL USUARIO DE RACHA--------------------Pág. 5
-
-D).-OBLIGACIONES ÉTICAS DE LOS USUARIOS DE RACHA-------------
-
----------------------------------------------------Págs.5 y 6
-
-E).- INFORMACIÓN SOBRE EL DOWNLINE------------------Págs.6 y 7
-
-F).- SECRETO COMERCIAL DE RACHA--------------------------Pág.7
-
-G).-COMPETENCIA DESLEAL--------------------------------Pág.7
-
-H).- PROTECCIÓN DE LA IMAGEN DE RACHA------------------------
-
----------------------------------------------------Págs. 7 y 8
-
-I).- UTILIZACIÓN DEL CORREO ELECTRÓNICO CON FINES COMERCIALES-
-
--------------------------------------------------------Pág. 8 
-
-J).- EXHIBICIONES Y FERIAS---------------------------Pág. 8
-
-K).- PROPAGANDA Y UTILIZACIÓN DE INTERNET-------Págs. 8 y 9
-
-L).- DECLARACIÓN DE LUCRO Y DIVULGACIÓN DEL PLAN DE 
-
-COMPENSACION------------------------------------------Pág.9 
-
-M).- RESCISIÓN DEL CONTRATO DE USARIO DE RACHA POR VIOLACIÓN 
-
-DEL CÓDIGO ÉTICO----------------------------------Págs. 9 y 10
-
-N).- NOVACIONES DE LAS NORMAS DE RACHA-----------------------
-
------------------------------------------------------Págs. 10
-
-O).-APARICIONES PÚBLICAS Y CONTACTO CON LA PRENSA------Pág.10
-
- 
-
-EPÍLOGO-----------------------------------------------Pág. 11
-
 A).-EXPOSICIÓN DE MOTIVOS
 
 Elaborar un código de ética tiene como vocación fundamental establecer un "iter", esto es, sendero o camino con la finalidad de ayudar al usuario de RACHA a desenvolverse dentro de la legalidad de la práctica del marketing multinivel. La transparencia en las acciones y el respeto en las relaciones comerciales de distribución son las premisas que orientan este documento, por lo tanto antes de iniciar la conquista del éxito con sus negocios en RACHA, lea atentamente y comprenda cuáles son las prácticas deseables en la realización de sus negocios a partir de ahora. 
@@ -200,24 +150,13 @@ sus usuarios.
 
 Los usuarios deben observar y cumplir en todo caso:
 
-<!-- ❖  -->
-![](https://web-api.textin.com/ocr_image/external/6f0c4425ce0fb64d.jpg)
-
 ❖ Las normas y procedimientos descritos en este manual de ética. 
 
-<!-- ❖  -->
-![](https://web-api.textin.com/ocr_image/external/cdf4c97d0f85a890.jpg)
-
 ❖ Las legislación vigente en cada lugar y en cada momento.
-
-<!-- ❖  -->
-![](https://web-api.textin.com/ocr_image/external/981a00c92b14fdcb.jpg)
 
 ❖ Los principios fundamentales de RACHA.
 
 Nos permitimos para concluir este Manual de Ética transcribir una cita sobre lo que es la Ética, que seguro nos influirá a todos: 
 
 “Un hombre sin ética es una bestia salvaje suelta en este mundo”. Albert Camus 
-
-
 
