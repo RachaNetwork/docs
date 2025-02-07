@@ -164,5 +164,5 @@ Los usuarios deben observar y cumplir en todo caso:
 Nos permitimos para concluir este Manual de Ética transcribir una cita sobre lo que es la Ética, que seguro nos influirá a todos: 
 
 
-“Un hombre sin ética es una bestia salvaje suelta en este mundo”. Albert Camus 
+“Un hombre sin ética es una bestia salvaje suelta en este mundo”. Albert Camus.
 
