@@ -144,9 +144,7 @@ Si el usuario deseare dirigirse a la prensa deberá contar en todo caso con la a
 
 ## EPÍLOGO
 
-RACHA se compromete a hacer cumplir el Manual de Ética entre
-
-sus usuarios.
+RACHA se compromete a hacer cumplir el Manual de Ética entre sus usuarios.
 
 
 Los usuarios deben observar y cumplir en todo caso:
