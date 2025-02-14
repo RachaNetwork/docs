@@ -60,7 +60,7 @@ y medio con ningún proveedor de RACHA, excepto en los eventos patrocinados por 
 
 ## G).-COMPETENCIA DESLEAL
 
-Todos los usuarios tienen prohibido llevar a cabo conductas que sean contrarias a la legislación sobre competencia desleal.
+Todos los usuarios tienen prohibido llevar a cabo conductas que sean contrarias a la legislación sobre competencia desleal. Es un requisito indispensable actuar dentro del marco legal y operar siempre bajo principios de competencia leal, garantizando prácticas comerciales éticas y alineadas con la normativa vigente.
 
 ## H).- PROTECCIÓN DE LA IMAGEN DE RACHA
 
