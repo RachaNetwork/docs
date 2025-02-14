@@ -14,19 +14,9 @@ Este manual contiene una serie de recomendaciones sencillas y fácilmente compre
 
 ## B).-ACERCA DE RACHA”
 
-RACHA constituye un modelo de negocio incluido dentro de la industria de venta directa y mercadeo en red o "network marketing". 
+RACHA es un proyecto ambicioso hecho realidad, el cual, en un ámbito internacional, siendo su misión generar recompensas reales y distribuirlas de manera equitativa entre los participantes, contando con el respaldo de STT, el cual actúa como sello y garantía de la calidad de todo el proceso.
 
-RACHA es un proyecto ambicioso hecho realidad, el cual, en un ámbito internacional, siendo su misión la compra de máquinas de minería a diferentes proveedores en Asia y su operación logística hasta la granja de minería. 
-
-Racha tiene un contrato de Hosting con un tercero propietario de la granja de minería por el que a cambio de su alojamiento,custodia, explotación y mantenimiento éste se queda el 33% de las recompensas de la minería en concepto de remuneración. 
-
-Las máquinas están conectadas al pool de mienros facilitados por f2pool ( proveedor muy reconocido). Ese pool de minería paga las recompensas a los usuarios como Racha determina. 
-
-Racha es propietaria de las máquinas. F2pool en caso de que el usuario adquiera un paquete de mínimo 2000 usdt(precio actual de una máquina ) pagará directamente al usuario sin pasar por racha. En caso de paqutes más pequeños f2pool abona la recompensa a un wallet determinado para recibir recompensas del pool y de ahí se distribuye a los usuarios según sus paquetes, demostrando transparencia y trazable en la bockchain por lo que es absolutamente confiable que el pago proviene del minado 
-
-Los usuarios no tienen propiedad sobre la máquinas sino derechos proporcional a su paquete de esas recompensas del pool. 
-
-Racha ha convertido ese % de derechos de minería que son abonados en bitcoin a través de f2pool en un fijo diario en usdts proporcional a su paquete, con algunos matices que ya profundizaremos en un equivalente diario a un 10% mensual de la cantidad invertida en su paquete. Donde el 75% será para el usuario y el 25% irá al plan de compensación. 
+En este modelo de negocio, los resultados íntegros se reparten de la siguiente forma: el 60% se asigna al SOCIO que decide participar en el modelo de negocio comprando los contratos de compromiso de pago de la empresa denominados "PARTICIPACIONES", mientras que el 40% corresponde a RACHA. Este último porcentaje se distribuye entre el equipo validado de distribuidores y afiliados (28,8%), destinándose el sobrante a cubrir los gastos humanos y operativos de la organización (11,2%). Es importante destacar que el reparto se ejecuta una vez se alcanza un porcentaje determinado del valor total de las participaciones de los clientes.  Modelo y porcentajes podrán ser modificados con el tiempo por motivos de seguridad, impulso comercial u otros factores; comunicando RACHA en tal caso, las modificaciones oportunas, en tiempo y forma, a través de los canales de la empresa.
 
 ## C).- LA ÉTICA DEL USUARIO DE RACHA
 
@@ -36,11 +26,11 @@ Queremos implantar a nivel internacional un decálogo de buenas prácticas comer
 
 I. Proteger la reputación de RACHA, así como de sus productos y marcas. 
 
-II. Evitar cualquier conducta que pueda ser perjudicial para la reputación de RACHA, de sus productos y sus marcas. 
+II. Evitar cualquier conducta que pueda ser perjudicial para la reputación de RACHA, de sus productos y sus marcas. Fomentar acciones que fortalezcan la reputación de RACHA, de sus productos y de sus marcas.
 
 III. Ser profesional en el abordaje de sus negocios y tratar a los demás distribuidores independientes, clientes y usuarios de RACHA, con respeto y con educación en todas las relaciones.
 
-IV. Abstenerse de practicar cualquier acto o cualquier tipo de conducta engañosa, falsa, maleducada, desleal, antiética e inmoral. 
+IV. Abstenerse de practicar cualquier acto o cualquier tipo de conducta engañosa, falsa, maleducada, desleal, antiética e inmoral. Actuar siempre con honestidad, respeto, lealtad y ética, manteniendo una conducta transparente, educada y alineada con los valores de RACHA.
 
 V. Respetar los esfuerzos honestos de los demás distribuidores independientes y no adoptar prácticas de reclutamiento antiético. 
 
