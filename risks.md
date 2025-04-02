@@ -30,7 +30,7 @@ En relación con los riegos derivados de la iliquidez, resulta preciso hacer not
 
 ## Riesgos en el uso de criptoactivos como medio de pago:
 
-Pese a que existen desde hace más de una década, la aceptación de las criptomonedas como medio de pago es aún muy limitada, lo que contrasta con otros muchos desarrollos digitales que han tenido una aceptación generalizada en mucho menos tiempo. Es necesario recordar que no existe obligación de aceptar Bitcoin o cualquier otro criptoactivo como medio de pago de deudas u otras obligaciones. El futuro Reglamento de MICA no prevé que esto vaya a cambiar. 
+Pese a que existen desde hace más de una década, la aceptación de las criptomonedas como medio de pago es aún muy limitada, lo que contrasta con otros muchos desarrollos digitales que han tenido una aceptación generalizada en mucho menos tiempo. Es necesario recordar que no existe obligación de aceptar Bitcoin o cualquier otro criptoactivo como medio de pago de deudas u otras obligaciones. El Reglamento de MICA no prevé que esto vaya a cambiar. 
 
 Además, dada su elevada volatilidad, las criptomonedas no cumplen adecuadamente las funciones de unidad de cuenta y depósito de valor. 
 
@@ -40,7 +40,7 @@ En muchas ocasiones, los distintos actores implicados en la emisión, custodia y
 
 algunos casos, incluso, no es posible su localización, por lo que la resolución de cualquier conflicto podría resultar costosa y quedar fuera del ámbito de competencia de las autoridades españolas. 
 
-En definitiva, al conocer los riesgos inherentes a las inversiones en criptoactivos, el cuenta participe los asume plenamente, liberando a Minexcorp S.L. de cualquier responsabilidad derivada de los mismos. 
+En definitiva, al conocer los riesgos inherentes a las inversiones en criptoactivos, el cuenta participe los asume plenamente, liberando a RACHA de cualquier responsabilidad derivada de los mismos. 
 
 
 
