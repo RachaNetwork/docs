@@ -48,7 +48,7 @@ Usted puede eliminar y bloquear todas las cookies de este sitio, pero parte del 
 
 Si tiene cualquier duda acerca de nuestra política de cookies, puede contactar con esta página web a través de la dirección de correo electrónico 
 
-gonzalow@racha.network
+info@racha.network
 
 
 
