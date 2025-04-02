@@ -36,9 +36,7 @@ A continuación puede acceder a la configuración de los navegadores webs más f
 
 • Safari http://support.apple.com/kb/HT1677?viewlocale=es_ES
 
-• Google 
-
-Chrome https://support.google.com/chrome/answer/95647?hl=es
+• Google Chrome https://support.google.com/chrome/answer/95647?hl=es
 
 ## Cookies de terceros
 
