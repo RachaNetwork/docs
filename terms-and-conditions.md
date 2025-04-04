@@ -43,7 +43,7 @@ El usuario de RACHA (AM RACHA)declara en este acto que conoce los productos desc
 LA EMPRESA comercializará los productos bajo el nombre comercial y marca registrada denominada literalmente RACHA (AM RACHA), cuya imagen, símbolo, letras y logotipos, han sido registrados como marca, siendo los que se exhiben a continuación: 
 
 
-![](https://web-api.textin.com/ocr_image/external/fa3c5bed2d7f7c07.jpg)
+![](https://raw.githubusercontent.com/RachaNetwork/docs/refs/heads/master/racha-logo.png)
 
 ## 5).- DECLARACIÓN RESPONSABLE DEL USUARIO DE RACHA (AM RACHA).-
 
