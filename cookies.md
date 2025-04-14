@@ -47,7 +47,7 @@ A continuación puede acceder a la configuración de los navegadores webs más f
 
 ---
 
-## Cookies de terceros: Advertencia sobre eliminar cookies
+## Advertencia sobre eliminar cookies de terceros
 
 Usted puede eliminar y bloquear todas las cookies de este sitio, pero parte del sitio no funcionará o la calidad de la página web puede verse afectada.
 
