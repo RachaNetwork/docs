@@ -80,15 +80,15 @@ RACHA STT LLC., no permite que un usuario apertura más de una cuenta a su nombr
 
 EL USUARIO, a partir del momento de la firma del presente contrato, de modo presencial o electrónico, inicia una relación jurídico-contractual únicamente con la sociedad mercantil RACHA STT LLC. 
 
-8).- DURACIÓN DEL CONTRATO.-
+## 8).- DURACIÓN DEL CONTRATO.-
 
 El presente contrato es de naturaleza indefinida, siempre que el USUARIO cumpla con las cláusulas de este contrato, asícomo con los demás documentos descritos en la cláusula cuarta. 
 
-9).- RESCISIÓN DEL CONTRATO POR VOLUNTAD DEL USUARIO.-
+## 9).- RESCISIÓN DEL CONTRATO POR VOLUNTAD DEL USUARIO.-
 
 EL USUARIO puede rescindir el presente contrato de distribución en cualquier momento, siempre que lo haga con 30días de antelación en relación al término pretendido, a través de comunicación escrita dirigida al domicilio social por alguno de los medios que dejen constancia fehaciente de su recepción por parte de LA EMPRESA, esto es, correo certificado con acuse de recibo, burofax o telegrama. 
 
-9).- CAUSAS OBJETIVAS DE RESCISIÓN DEL CONTRATO A INSTANCIA DE LA EMPRESA.- 
+## 10).- CAUSAS OBJETIVAS DE RESCISIÓN DEL CONTRATO A INSTANCIA DE LA EMPRESA.- 
 
 ❖​ El incumplimiento de cualquier de las cláusulas del presente contrato. 
 
@@ -104,45 +104,39 @@ EL USUARIO puede rescindir el presente contrato de distribución en cualquier mo
 
 ❖​ No atender a los requerimientos efectuados por LA EMPRESA en relación con informaciones o con conductas inapropiadas. 
 
-​ Cualquiera otra conducta del USUARIO que por su entidad sea constitutiva de delito leve o grave. 
+Cualquiera otra conducta del USUARIO que por su entidad sea constitutiva de delito leve o grave. 
 
-En los supuestos de rescisión del presente contrato por la
+En los supuestos de rescisión del presente contrato por la concurrencia de alguna de las causas anteriores, el USUARIO perderá todos los derechos derivados del presente contrato,incluido el del cobro de comisiones, las cuales quedarán retenidas por LA EMPRESA. 
 
-concurrencia de alguna de las causas anteriores, el USUARIO
-
-perderá todos los derechos derivados del presente contrato,incluido el del cobro de comisiones, las cuales quedarán retenidas por LA EMPRESA. 
-
-## 10.- EFECTOS DE LA RESCISIÓN DEL CONTRATO.-
+## 11).- EFECTOS DE LA RESCISIÓN DEL CONTRATO.-
 
 La rescisión del presente contrato por cualesquiera de sus causas de resolución, motivará la pérdida definitiva sin derecho ni acción de reclamación alguna de todos los derechos del USUARIO, no pudiendo continuar en modo alguno con la promoción de los productos y/o servicios de LA EMPRESA. 
 
 El USUARIO Y LA EMPRESA pactan expresamente que en los supuestos de rescisión del contrato el USUARIO no podráexigir en ningún comisión o bonificación, ni indemnización por clientela alguna resultantes de su actuación como USUARIO. 
 
-## 11).- PROHIBICIÓN DE CESIÓN DEL CONTRATO.-
+## 12).- PROHIBICIÓN DE CESIÓN DEL CONTRATO.-
 
 EL USUARIO tiene la prohibición de ceder, en todo o en parte su posición contractual, bajo pena de nulidad del presente instrumento contractual. 
 
-12).- NO EXCLUSIVIDAD.-
+## 13).- NO EXCLUSIVIDAD.-
 
 EL USUARIO no adquiere por medio del presente contrato ninguna reserva o exclusividad de actuación comercial, razón por la cual LA EMPRESA podrá formalizar con terceros,contratos iguales o semejantes al presente y/o prestar directamente los servicios relativos al objeto de este contrato. 
 
-13).- RESPONSABILIDAD DEL USUARIO.-
+## 14).- RESPONSABILIDAD DEL USUARIO.-
 
-En el desarrollo de la actividad de distribución de los productos o servicios a los consumidores finales, el USUARIO tiene el deber de procurar la satisfacción íntegra del consumidor, siendo personal y exclusivamente responsable del cumplimiento de las normas establecidas en la legislación relativa a la defensa del consumidor. En consecuencia, EL USUARIO acepta la responsabilidad civil derivada de los daños y perjuicios que a LA EMPRESA se le irroguen, como consecuencia de la imprudencia, impericia o negligencia del USUARIO como 
+En el desarrollo de la actividad de distribución de los productos o servicios a los consumidores finales, el USUARIO tiene el deber de procurar la satisfacción íntegra del consumidor, siendo personal y exclusivamente responsable del cumplimiento de las normas establecidas en la legislación relativa a la defensa del consumidor. En consecuencia, EL USUARIO acepta la responsabilidad civil derivada de los daños y perjuicios que a LA EMPRESA se le irroguen, como consecuencia de la imprudencia, impericia o negligencia del USUARIO como consecuencia de la distribución de los productos objeto del presente contrato. 
 
-consecuencia de la distribución de los productos objeto del presente contrato. 
-
-14).- OFERTA A TERCEROS DEL PLAN DE COMPESACIÓN DE RACHA (AM RACHA).- 
+## 15).- OFERTA A TERCEROS DEL PLAN DE COMPESACIÓN DE RACHA (AM RACHA).- 
 
 EL USUARIO puede reclutar nuevos usuarios dentro del plan de actuación estipulado por LA EMPRESA. En cualquier caso, EL USUARIO será responsable de formarles y supervisarles a su costa para garantizar que su actuación sea desarrollada de acuerdo con los principios éticos, políticas de procedimientos y postulados del presente contrato,manteniéndose siempre una buena y constructiva relación entre todos los usuarios. 
 
 El nuevo USUARIO reclutado deberá firmar el correspondiente contrato de distribuidor independiente. 
 
-15).- PROHIBICIONES ABSOLUTAS.-
+## 16).- PROHIBICIONES ABSOLUTAS.-
 
 Queda absolutamente prohibido que el USUARIO desarrolle acciones abusivas y/o inadecuadas de captación de otros usuarios. LA EMPRESA supervisará que la competencia entre USUARIOS sea adecuada y adoptará en caso contrario las medidas en Derecho que resulten procedentes. 
 
-## 16).- ACTIVIDADES SUJETAS A APROBACIÓN POR LA EMPRESA.-
+## 17).- ACTIVIDADES SUJETAS A APROBACIÓN POR LA EMPRESA.-
 
 EL USUARIO necesitará aprobación previa y por escrito de LA EMPRESA para llevar a cabo cualquiera de las siguientes actividades: 
 
@@ -156,7 +150,7 @@ EL USUARIO necesitará aprobación previa y por escrito de LA EMPRESA para lleva
 
 ❖​ EL USUARIO se compromete a no registrar por sí o por medio de terceros ninguna marca que pueda competir directa o indirectamente con las marcas de LA EMPRESA, o cualquier marca o patente que pueda competir directa o indirectamente o sea confundible con las marcas y patentes de LA EMPRESA, bajo pena de resolución contractual e indemnización de daños y perjuicios. 
 
-## 17).- INFORMACIÓN AL USUARIO.-
+## 18).- INFORMACIÓN AL USUARIO.-
 
 EL USUARIO dispondrá de toda la información relativa a las instrucciones sobre los procedimientos de compras, ventas,lucros, abono de comisiones, entregas, cancelaciones, plan de compensación y todos los datos relevantes a través de la dirección web: https://racha.network/ 
 
@@ -172,13 +166,13 @@ LA EMPRESA nunca compensa a sus USUARIOS por el simple hecho de patrocinar a otr
 
 Las condiciones, productos y servicios objeto del contrato,esquemas comerciales y sistemas de compensación de empresas de marketing directo no están sujetos a la revisión y aprobación previa por parte de un organismo público. 
 
-## 18).- ABONO DE RECOMPENSAS.-
+## 19).- ABONO DE RECOMPENSAS.-
 
 EL USUARIO percibirá las recompensas a que tenga derecho en los plazos de pago indicados por LA EMPRESA. 
 
 El usuario podrá solicitar la liquidación de sus participaciones compradas, quedando éstas inactivas desde el envío de dicha solicitud. LA EMPRESA ofrecerá por las mismas una tasación basada en criterios de liquidez y disponibilidad de sus proveedores y productos. En todo caso, si la compra a liquidar no ha cumplido el mínimo de permanencia de 25ciclos, se aplicará una penalización del 20% sobre dicha tasación. El usuario será informado a través de los canales de LA EMPRESA del plazo disponible para la aceptación del valor tasado. En caso de no aceptación por parte del usuario de la tasación ofrecida, las compras objeto de la misma continuarán activas a todos los efectos. 
 
-## 19).- DERECHO SUPLETORIO.-
+## 20).- DERECHO SUPLETORIO.-
 
 Las presentes condiciones generales de la contratación se regirán por las cláusulas que constan a lo largo del presente documento, así como por los demás documentos descrito en la cláusula cuarta. 
 
@@ -190,7 +184,7 @@ Todas las comunicaciones y notificaciones contractuales se
 
 harán efectivas en las direcciones indicadas, obligándose aquellas a comunicar recíprocamente cualquier alteración a las direcciones referidas, en el plazo de 15 días a computar desde que se produzca el cambio de domicilio, bajo pena de que se consideren como válidamente efectuadas todas las comunicaciones dirigidas a las direcciones indicadas, aunque las partes no las reciban. 
 
-22).- TRATAMIENTO Y PROTECCIÓN DE DATOS DE CARÁCTER PERSONAL.-
+## 22).- TRATAMIENTO Y PROTECCIÓN DE DATOS DE CARÁCTER PERSONAL.-
 
 La política de LA EMPRESA cumple estrictamente con lo dispuesto en la LEY DE PROTECCIÓN DE LOS DATOS PERSONALES de la República Argentina de 19 de septiembre de 2018 número INLEG-2018- 46290265-APN-PTE, que tiene por objeto la protección integral de los datos personales a fin de garantizar el ejercicio pleno de los derechos de sus titulares, de conformidad a lo establecido en el artículo 43,párrafo tercero, de la CONSTITUCIÓN NACIONAL y los Tratados de Derechos Humanos en los que la REPÚBLICA ARGENTINA sea parte. 
 
@@ -206,9 +200,7 @@ Los datos personales recogidos en las webs se deberán tratar de acuerdo con lo 
 
 Los usuarios pueden ejercitar los derechos de oposición,acceso e información, rectificación, cancelación y revocación de su autorización a la utilización de sus datos personales. 
 
-En cualquier momento el DISTRIBUIDOR INDEPENDIENTE podráejercitar sus derechos de acceso, rectificación o cancelación en relación con dichos datos, dirigiendo su solicitud a la dirección del titular de los ficheros (la sociedad mercantil RACHA STT LLC).Puede encontrar información para el ejercicio de sus derechos en la legislación de protección de datos de Florida (Florida Data Privacy Law,https://www.flsenate.gov/Session/Bill/2023/262/BillText/er/PD F). 
-
-de cualquier litigio en relación con los términos de este contrato, a su validez, interpretación y cumplimiento,las partes acuerdan que serán competentes los Juzgados y Tribunales de Florida (Estados Unidos de América), con renuncia expresa a cualquier otro fuero. 
+En cualquier momento el DISTRIBUIDOR INDEPENDIENTE podráejercitar sus derechos de acceso, rectificación o cancelación en relación con dichos datos, dirigiendo su solicitud a la dirección del titular de los ficheros (la sociedad mercantil RACHA STT LLC).Puede encontrar información para el ejercicio de sus derechos en la legislación de protección de datos de Florida (Florida Data Privacy Law,https://www.flsenate.gov/Session/Bill/2023/262/BillText/er/PD F). de cualquier litigio en relación con los términos de este contrato, a su validez, interpretación y cumplimiento,las partes acuerdan que serán competentes los Juzgados y Tribunales de Florida (Estados Unidos de América), con renuncia expresa a cualquier otro fuero. 
 
 Cualquier cuestión de índole legal que el distribuidor independiente desee plantear a LA EMPRESA, podráformularla mediante correo electrónico a la siguiente dirección: info@racha.network 
 
@@ -216,11 +208,11 @@ Cualquier cuestión de índole legal que el distribuidor independiente desee pla
 
 Con la firma de las presentes condiciones generales de la contratación, el distribuidor independiente reconoce a todos los efectos legales que: 
 
-a)​Entiendo que estoy suscribiendo un contrato legalmente vinculante compuesto por el presente contrato,sus cláusulas, la Política de Procedimientos, el Plan de compensación, el documento de prevención del blanqueo de capitales, y el Manual de Ética, así como que he leído y comprendido y que acepto cada uno de estos documentos. 
+a)​ Entiendo que estoy suscribiendo un contrato legalmente vinculante compuesto por el presente contrato,sus cláusulas, la Política de Procedimientos, el Plan de compensación, el documento de prevención del blanqueo de capitales, y el Manual de Ética, así como que he leído y comprendido y que acepto cada uno de estos documentos. 
 
-b)​Toda la información que facilito a LA EMPRESA es precisa y completa. 
+b) ​Toda la información que facilito a LA EMPRESA es precisa y completa. 
 
-c)​Dispongo de capacidad legal bastante para contratar y para ejercer como USUARIO. 
+c)​ Dispongo de capacidad legal bastante para contratar y para ejercer como USUARIO. 
 
 d).- Que el distribuidor independiente está suscribiendo un contrato electrónico. 
 
