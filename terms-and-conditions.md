@@ -50,17 +50,15 @@ LA EMPRESA comercializará los productos bajo el nombre comercial y marca regist
 
 El USUARIO declara que ha leído, entiende y acepta sin ambages:
 
- La totalidad del clausulado del presente contrato,además de, 
+La totalidad del clausulado del presente contrato,además de, 
 
- Los términos de que consta el Manual de Ética.
+- Los términos de que consta el Manual de Ética.
 
-El contenido íntegro de las políticas de procedimientos.
+- El contenido íntegro de las políticas de procedimientos.
 
-​ El documento de prevención del blanqueo de capitales.
+- ​El documento de prevención del blanqueo de capitales.
 
- Las condiciones generales y especiales del Plan de compensación, al que puede tener acceso a través de la dirección web: 
-
-## https://racha.network/
+- Las condiciones generales y especiales del Plan de compensación o referidos, al que puede tener acceso a través de la dirección web: https://racha.network/
 
 EL USUARIO acepta expresamente las modificaciones futuras del presente contrato, así como de los demás documentos que se citan en la presente cláusula, prestando libremente en este momento su expreso consentimiento. Dichas modificaciones serán en todo caso publicadas en la página web de LA EMPRESA con una antelación mínima de 5 días naturales. 
 
