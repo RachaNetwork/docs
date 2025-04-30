@@ -1,116 +1,110 @@
-## INSTRUMENTO DE BUENAS PRÁCTICAS EN PREVENCIÓN DEL LAVADO DE ACTIVOS
+## BEST PRACTICES INSTRUMENT FOR ANTI-MONEY LAUNDERING PREVENTION
 
-FLORIDA, A 1 DE MARZO DE 2024
+FLORIDA, MARCH 1, 2024
 
-Resulta preciso hacer notar a todas las personas físicas o jurídicas que participen en el modelo de negocio denominado RACHA(AM RACHA), que resulta imperativo que den cumplimiento a la totalidad del cuerpo legislativo nacional y comunitario de prevención del blanqueo de capitales. 
+It is important to note to all individuals or legal entities participating in the business model known as RACHA (AM RACHA) that it is imperative to comply with all national and community legislation on anti-money laundering prevention.
 
-Para ello ponemos a su disposición el presente instrumento de prevención del blanqueo de capitales. 
+To this end, we provide you with this anti-money laundering prevention instrument.
 
-El blanqueo de capitales puede definirse de forma consensuada como un proceso que, básicamente, consiste en dar una apariencia de licitud a los bienes que proceden de una actividad delictiva haciéndolos aparecer como de lícita obtención; en otros términos, se trata de incorporar al tráfico económico legal los bienes obtenidos mediante la comisión de delitos. Del mismo modo, hay coincidencia respecto de señalar que, para lograr tal objetivo, los bienes atraviesan distintas fases, aceptándose usualmente la definición elaborada por el Grupo de Acción Financiera Internacional (GAFI) que distingue tres. 
+Money laundering can be consensually defined as a process that essentially involves giving a lawful appearance to assets derived from criminal activity, making them appear as legally obtained; in other words, it involves integrating assets obtained through criminal offenses into the legal economic flow. Similarly, there is consensus in identifying three phases in this process, as commonly defined by the Financial Action Task Force (FATF):
 
-➢ La primera de ellas, conocida como sustitución o colocación, se caracteriza por la transformación de unos bienes en otros con el fin de evitar sospechas acerca de su procedencia o de facilitar su manejo. 
+➢ The first phase, known as placement, is characterized by transforming assets to avoid suspicion about their origin or to facilitate their handling.
 
-➢ En la segunda fase, ocultación o transformación, se pretende borrar el rastro de la previa sustitución que ha tenido lugar. 
+➢ The second phase, layering, aims to obscure the trail of the previous placement.
 
-➢ Por último, cuando los bienes aparecen ya totalmente desvinculados de su origen ilícito, estaríamos ante la tercera de las etapas, que recibe el nombre de reinversión o integración y en la que los bienes son incorporados al flujo económico legal. Ni que decir tiene que no en todos los casos de blanqueo concurren las tres etapas; ni tampoco, cuando se dan, siguen la secuenciación descrita. Lo que sí parece incuestionable es que cuanto más avanzado esté el proceso legitimador más difícil ha de resultar su persecución. 
+➢ Finally, when the assets appear completely disconnected from their illicit origin, we reach the third stage, known as integration, where the assets are incorporated into the legal economic flow. It should be noted that not all money laundering cases involve all three stages; nor do they necessarily follow the described sequence. What is certain is that the more advanced the legitimization process, the more challenging its prosecution becomes.
 
-Dicho lo anterior, resulta necesario incidir en que nuestros distribuidores independientes sean conocedores de la legislación española y comunitaria en materia de prevención del blanqueo de capitales: 
+Given this, it is necessary to emphasize that our independent distributors must be aware of Spanish and community legislation on anti-money laundering prevention:
 
-# Marco legal para el lavado de dinero en Florida
+# Legal Framework for Money Laundering in Florida
 
-El marco legal para el lavado de dinero en Florida se describe en Estatuto de Florida Sección 896.101, también conocida como Ley de Lavado de Dinero de Florida. Este estatuto clasifica las actividades de lavado de dinero según la cantidad de dinero involucrada y especifica la intención requerida para una condena. La ley prohíbe:
+The legal framework for money laundering in Florida is outlined in Florida Statute Section 896.101, also known as the Florida Money Laundering Act. This statute classifies money laundering activities based on the amount of money involved and specifies the intent required for a conviction. The law prohibits:
 
-- Transacciones financieras que promueven el crimen organizado  
-- Transporte de instrumentos monetarios o fondos para promover el crimen organizado  
-- Realizar transacciones financieras que involucren el producto de actividades ilegales
+- Financial transactions that promote organized crime  
+- Transportation of monetary instruments or funds to promote organized crime  
+- Conducting financial transactions involving proceeds from illegal activities
 
-Las actividades ilegales que normalmente generan fondos sujetos a lavado de dinero incluyen delitos de cuello blanco, tráfico de drogas, delitos cibernéticos y más. Las sanciones por lavado de dinero en Florida son severas y las consecuencias aumentan con la cantidad de dinero involucrada en las actividades de lavado.
+Illegal activities that typically generate funds subject to money laundering include white-collar crimes, drug trafficking, cybercrimes, and more. Penalties for money laundering in Florida are severe and escalate with the amount of money involved.
 
-El enfoque de Florida para penalizar el lavado de dinero está estructurado para reflejar la gravedad del delito, centrándose en la cantidad blanqueada durante un período de 12 meses. Las sanciones se clasifican de la siguiente manera:
+Florida's approach to penalizing money laundering is structured to reflect the severity of the offense, focusing on the amount laundered over a 12-month period. Penalties are classified as follows:
 
-- **Delito grave de primer grado**: Las transacciones por un total de 100,000 dólares o más pueden conllevar hasta 30 años de prisión.  
-- **Delito grave de segundo grado**: Para transacciones por un total de entre 20,000 y 100,000 dólares, el infractor puede enfrentarse a hasta 15 años de prisión.  
-- **Delito grave de tercer grado**: Las transacciones de más de $300 pero menos de $20,000 pueden resultar en hasta 5 años de prisión.  
+- **First-degree felony**: Transactions totaling $100,000 or more can result in up to 30 years in prison.  
+- **Second-degree felony**: For transactions totaling between $20,000 and $100,000, the offender may face up to 15 years in prison.  
+- **Third-degree felony**: Transactions exceeding $300 but less than $20,000 can lead to up to 5 years in prison.  
 
-Más allá de la prisión, los condenados pueden enfrentarse a fuertes multas, que pueden ascender a 250,000 dólares o el doble del valor de la cantidad blanqueada en el caso de una primera infracción. Para infracciones posteriores, las multas pueden elevarse hasta 500,000 dólares o cuatro veces el valor de la transacción, lo que sea mayor. Además, se puede imponer una multa civil de $25,000 o el valor de las transacciones, el que sea mayor.
+Beyond imprisonment, convicted individuals may face hefty fines, which can amount to $250,000 or double the value of the laundered amount for a first offense. For subsequent offenses, fines can rise to $500,000 or four times the value of the transaction, whichever is greater. Additionally, a civil fine of $25,000 or the value of the transactions, whichever is greater, may be imposed.
 
 ---
 
-## 🏛️ Regulación a nivel Federal
+## 🏛️ Federal Regulation
 
-Desde una perspectiva Federal resulta precisa mencionar la Ley de Información sobre Divisas y Transacciones Extranjeras, también conocida como “Ley de Secreto Bancario” (BSA), que se remonta a la década de 1970 y fue la primera legislación de referencia que se formó para evitar que los delincuentes ocultaran el origen de las ganancias delictivas a través de los bancos y otras instituciones financieras. La ley obligaba a las instituciones financieras a cooperar con el gobierno contra las sospechas de blanqueo de capitales. La BSA es la normativa más importante de Estados Unidos contra el blanqueo de capitales. Los bancos y otras instituciones financieras deben asegurarse de cumplir con las obligaciones que implica la BSA.
+From a federal perspective, it is necessary to mention the Currency and Foreign Transactions Reporting Act, also known as the "Bank Secrecy Act" (BSA), which dates back to the 1970s and was the first reference legislation formed to prevent criminals from hiding the origin of criminal proceeds through banks and other financial institutions. The law required financial institutions to cooperate with the government against suspected money laundering. The BSA is the most important regulation in the United States against money laundering. Banks and other financial institutions must ensure compliance with the obligations imposed by the BSA.
 
-La BSA pretende ayudar a la lucha contra el blanqueo de capitales y garantizar que los bancos y las instituciones financieras no se utilicen como instrumentos para facilitarlo. En virtud de la BSA, las entidades deben detectar y vigilar las posibles actividades de blanqueo de capitales y comunicarlas a las autoridades para que adopten medidas coercitivas. La legislación también se convirtió rápidamente en una herramienta para seguir e interceptar la financiación del terrorismo.
+The BSA aims to aid in the fight against money laundering and ensure that banks and financial institutions are not used as tools to facilitate it. Under the BSA, entities must detect and monitor potential money laundering activities and report them to authorities for enforcement actions. The legislation also quickly became a tool to track and intercept terrorist financing.
 
-La Ley de Secreto Bancario es administrada por la Red de Aplicación de los Delitos Financieros, o FinCEN, que impone a las instituciones financieras diversas obligaciones de cumplimiento. Para cumplir con estas obligaciones, la alta dirección debe asegurarse de que conoce en detalle la propia legislación.
+The Bank Secrecy Act is administered by the Financial Crimes Enforcement Network (FinCEN), which imposes various compliance obligations on financial institutions. To meet these obligations, senior management must ensure they are well-versed in the legislation.
 
-Para lograr el cumplimiento de la BSA, las instituciones financieras deben navegar por una serie de requisitos reglamentarios que se centran en informar a las autoridades, cooperar con ellas y crear controles internos contra el blanqueo de capitales. Ese proceso implica las siguientes consideraciones importantes: un programa de cumplimiento de la Lucha contra el Blanqueo de Capitales y la Financiación del Terrorismo y los requisitos de notificación y mantenimiento de registros.
+To achieve BSA compliance, financial institutions must navigate a series of regulatory requirements focused on reporting to authorities, cooperating with them, and creating internal controls against money laundering. This process involves the following key considerations: an Anti-Money Laundering and Counter-Terrorism Financing (AML/CTF) compliance program and reporting and record-keeping requirements.
 
-### 📌 Programa de cumplimiento AML/CTF
+### 📌 AML/CTF Compliance Program
 
-La BSA exige a las instituciones financieras que desarrollen un programa contra el blanqueo de capitales (AML). Un programa eficaz de cumplimiento de la BSA-AML/CTF debe adaptarse a las necesidades únicas de la institución financiera a la que sirve, incluido el perfil de riesgo al que se enfrenta. Los principales elementos de un programa de cumplimiento ALD/CFT son los siguientes:
+The BSA requires financial institutions to develop an anti-money laundering (AML) program. An effective BSA-AML/CTF compliance program should be tailored to the unique needs of the financial institution it serves, including the risk profile it faces. The main elements of an AML/CTF compliance program are as follows:
 
-- **Sistemas y controles internos**: Un programa de cumplimiento ALD/CFT debe construirse en torno a un conjunto de políticas y procedimientos escritos diseñados para ayudar a los empleados a detectar y controlar las actividades de blanqueo de capitales y los delitos financieros.  
-- **Oficial de cumplimiento**: Se debe nombrar a un empleado principal para supervisar el desarrollo y la aplicación del programa de su institución. Además de supervisar los controles internos, el Oficial de Cumplimiento es responsable de organizar auditorías y exámenes independientes del programa de cumplimiento ALD/CFT de sus instituciones.  
-- **Formación sobre la BSA**: La formación básica sobre el cumplimiento de la BSA-AML debe impartirse a todos los empleados. Los empleados con un mayor nivel de responsabilidad pueden necesitar una formación o certificación avanzada.  
-- **Auditorías independientes**: Debe establecerse un calendario regular de auditorías independientes para comprobar la eficacia continua de un programa de cumplimiento de ALD/CFT. Las auditorías deben ser realizadas por terceros cualificados.  
-- **Información y mantenimiento de registros**: La BSA conlleva numerosas obligaciones de información y archivo con FinCen, que se relacionan con perfiles de riesgo específicos.  
+- **Internal systems and controls**: An AML/CTF compliance program should be built around a set of written policies and procedures designed to help employees detect and control money laundering activities and financial crimes.  
+- **Compliance officer**: A senior employee should be appointed to oversee the development and implementation of the institution's program. In addition to overseeing internal controls, the Compliance Officer is responsible for organizing independent audits and examinations of the institution's AML/CTF compliance program.  
+- **BSA training**: Basic BSA-AML compliance training should be provided to all employees. Employees with higher levels of responsibility may require advanced training or certification.  
+- **Independent audits**: A regular schedule of independent audits should be established to verify the ongoing effectiveness of an AML/CTF compliance program. Audits should be conducted by qualified third parties.  
+- **Reporting and record-keeping**: The BSA entails numerous reporting and filing obligations with FinCEN, which relate to specific risk profiles.  
 
-Estas obligaciones incluyen:
+These obligations include:
 
-- **Informes sobre transacciones monetarias (CTR)**: Los informes de transacciones monetarias deben presentarse para las transacciones en efectivo que superen los 10.000 dólares estadounidenses. Este requisito se refiere únicamente al intercambio físico de dinero (efectivo y papel) entre personas.  
-- **Formulario 8300**: Algunas empresas, como los concesionarios de automóviles, las galerías de arte o las compañías de seguros, que reciben más de 10.000 dólares en efectivo en una sola transacción o en varias transacciones relacionadas en un plazo de 24 horas, deben presentar el formulario 8300.  
-- **Informes de actividades sospechosas (SAR)**: Las transacciones que implican presuntas violaciones de la BSA o actividades de financiación del terrorismo y que suman más de 5.000 dólares estadounidenses deben detallarse en un informe de actividades sospechosas. Los SAR pueden presentarse voluntariamente para transacciones sospechosas por debajo del umbral de 5.000 dólares estadounidenses.  
-- **Informe sobre cuentas bancarias y financieras en el extranjero (FBAR)**: Un requisito de presentación anual para las personas que tienen cuentas en bancos extranjeros de 10.000 dólares estadounidenses o más. Mientras que el titular de la cuenta generalmente presenta el FBAR, los profesionales financieros que presentan la declaración en nombre de un cliente deben registrarse para presentarla como institución.  
+- **Currency Transaction Reports (CTR)**: CTRs must be filed for cash transactions exceeding $10,000. This requirement pertains solely to the physical exchange of money (cash and paper) between individuals.  
+- **Form 8300**: Certain businesses, such as car dealerships, art galleries, or insurance companies, that receive more than $10,000 in cash in a single transaction or in multiple related transactions within a 24-hour period, must file Form 8300.  
+- **Suspicious Activity Reports (SAR)**: Transactions involving suspected violations of the BSA or terrorist financing activities totaling more than $5,000 must be detailed in a SAR. SARs can be filed voluntarily for suspicious transactions below the $5,000 threshold.  
+- **Report of Foreign Bank and Financial Accounts (FBAR)**: An annual filing requirement for individuals who have foreign bank accounts totaling $10,000 or more. While the account holder generally files the FBAR, financial professionals filing on behalf of a client must register to file it as an institution.  
 
-> Puede consultarse esta normativa en:  
+> This regulation can be consulted at:  
 > [https://bsaefiling.fincen.treas.gov/main.html](https://bsaefiling.fincen.treas.gov/main.html)
 
 ---
 
-## 🔐 Sistemas comunes de cumplimiento (KYC utilities)
+## 🔐 Common Compliance Systems (KYC Utilities)
 
-Los sujetos obligados deberán procurar establecer sistemas comunes (centralizados o descentralizados) para compartir la información de diligencia debida de los clientes. Son las llamadas “KYC utilities”. Lo cierto es que, la normativa vigente no establece limitaciones que impliquen trabas al desarrollo de este tipo de instrumentos, pero la norma ofrece certidumbre sobre su desarrollo y funcionamiento.
+Obligated entities should strive to establish common systems (centralized or decentralized) to share customer due diligence information. These are known as "KYC utilities." The current regulations do not impose limitations that hinder the development of such tools, but the law provides certainty about their development and operation.
 
-Sin duda, el uso de estas herramientas se antoja un avance fundamental. Primero, para los clientes, que reducirán el número de veces en que tienen que proporcionar su información a las entidades con las que contratan, facilitando y agilizando los procesos. Pero también, desde luego, beneficia a los sujetos obligados, al permitir una reducción de los costes asociados a la obtención y actualización de la información básica de diligencia debida, y generar una mayor homogeneidad de los datos obtenidos, así como un más adecuado proceso de actualización.
+Undoubtedly, the use of these tools is a fundamental advancement. First, for customers, who will reduce the number of times they have to provide their information to the entities they contract with, facilitating and streamlining processes. But also, of course, it benefits the obligated entities by allowing a reduction in the costs associated with obtaining and updating basic due diligence information, generating greater homogeneity of the data obtained, and a more appropriate updating process.
 
-Sin embargo, su puesta en marcha va a requerir un esfuerzo importante para homologar estos procesos de diligencia debida para todos los participantes en los sistemas comunes que se puedan crear. Por otro lado, parece complejo que este tipo de instrumentos puedan sustituir el enfoque individualizado por entidades en relación con los clientes de riesgo superior al promedio, donde el apetito de riesgo de las entidades puede llevar a intensidades de control más dispares que dificulten la homogeneización de criterios que requiere este tipo de sistemas.
-
----
-
-## 🧾 Fichero de titularidades financieras
-
-Por un lado, se modifican los activos sometidos a declaración. Así, se incorporan las cajas de seguridad y las cuentas de pago y se eliminan las cuentas de valores. Derivado de lo anterior, y en concreto de la inclusión de las cuentas de pago, se amplía el número de entidades declarantes, de modo que, junto con las entidades de crédito, las entidades de pago y entidades de dinero electrónico deberán comunicar también las cuentas de pago de sus clientes.
-
-Por último, se modifica el régimen de accesos, incorporando nuevas autoridades y ampliando la capacidad de acceso de otras que ya tenían reconocido el acceso (se elimina el requisito de autorización previa judicial o fiscal para el acceso de la policía). En todos los casos, sin embargo, se mantiene la finalidad restringida para el acceso: investigación de blanqueo de capitales y de la financiación del terrorismo, que solamente se amplía en el caso de las acciones de prevención y lucha contra el fraude.
+However, their implementation will require a significant effort to standardize these due diligence processes for all participants in the common systems that may be created. On the other hand, it seems complex for such tools to replace the individualized approach by entities concerning higher-than-average risk customers, where the entities' risk appetite may lead to varying control intensities that hinder the standardization of criteria required by such systems.
 
 ---
 
-## 📣 ¿Cuál es nuestra postura en esta materia?
+## 🧾 Financial Ownership Registry
 
-Entendemos que para el éxito del modelo de negocio denominado **RACHA (AM RACHA)**, todas las personas físicas jurídicas participantes deben conocer y ser respetuosos con la normativa de prevención del blanqueo de capitales que acabamos de exponer, dada la importancia de construir un modelo de negocio sólido, sostenible y creíble.
+On one hand, the assets subject to declaration are modified. Thus, safety deposit boxes and payment accounts are incorporated, and securities accounts are eliminated. As a result, and specifically due to the inclusion of payment accounts, the number of reporting entities is expanded, so that, along with credit institutions, payment institutions and electronic money institutions must also report their customers' payment accounts.
 
-En relación con lo anterior, resulta importante conocer que deberán presentar declaración previa todas aquellas personas físicas que, actuando por cuenta propia o de tercero, realicen cualquiera de los siguientes movimientos:
+Finally, the access regime is modified, incorporating new authorities and expanding the access capacity of others that already had recognized access (the requirement for prior judicial or fiscal authorization for police access is eliminated). In all cases, however, the restricted purpose for access is maintained: investigation of money laundering and terrorist financing, which is only expanded in the case of actions to prevent and combat fraud.
 
-- Salida o entrada en territorio nacional de medios de pago por importe igual o superior a 10.000 dólares de los Estados Unidos de América o su contravalor en moneda extranjera.  
-- De requerir el ingreso de un monto superior, deberá realizarse una declaración especial en Aduana, mediante el formulario OM 2249A.  
+---
 
-Por su parte, se entenderá por **medios de pago**:
+## 📣 What is our stance on this matter?
 
-a) El papel moneda y la moneda metálica, tanto nacionales como extranjeros. En caso de ser moneda extranjera, puede entenderse que el contravalor será fijado en el momento de su declaración por referencia a los tipos de cambio oficiales del euro establecidos por el Banco Central Europeo.
+We understand that for the success of the business model known as **RACHA (AM RACHA)**, all participating individuals and legal entities must be knowledgeable and respectful of the anti-money laundering regulations we have just outlined, given the importance of building a solid, sustainable, and credible business model.
 
-b) Los cheques bancarios al portador denominados en cualquier moneda. Quedan excluidos de la obligación, por tanto, los cheques nominativos. Esta exclusión es lógica: los cheques nominativos están identificados en todo momento por la entidad emisora y receptora.
+In this regard, it is important to know that all individuals who, acting on their own behalf or on behalf of others, carry out any of the following movements must submit a prior declaration:
 
-Por lo que respecta a los cheques al portador, aunque puede identificarse quién los emite y quién los cobra, sin embargo presentan riesgo en cuanto a la "cadena de operaciones a las que sirve el instrumento entre la emisión y el cobro".
+- Entry or exit from national territory of means of payment amounting to $10,000 or more in United States dollars or its equivalent in foreign currency.  
+- If a higher amount is to be deposited, a special declaration must be made at Customs using form OM 2249A.  
 
-c) Cualquier otro medio físico, incluidos los electrónicos, concebido para ser utilizado como medio de pago al portador.
+For this purpose, **means of payment** are understood as:
 
-Con esta enumeración parece que el Legislador pretende dejar abierta la puerta a posibles instrumentos de pago que puedan surgir en el futuro dentro de la obligación de declarar, de ahí el concepto tan amplio utilizado, que (debe subrayarse) afecta a cualquier medio físico o electrónico que pueda ser utilizado como medio de pago.
+a) Paper money and coins, both national and foreign. In the case of foreign currency, it can be understood that the equivalent will be set at the time of declaration by reference to the official exchange rates of the euro established by the European Central Bank.
 
-Igualmente de aceptarse como medio de pago determinados tipos de bienes (tales como joyas, piedras y metales preciosos, sellos o monedas antiguas, o determinadas obras de arte o antigüedades que puedan ser objeto de transporte físico o movilización), el sujeto podría considerar que queda afectado por la obligación de declaración siempre que esos bienes superen dicho valor. Sin embargo, tales bienes no tienen legalmente la consideración de medios de pago. Se sigue, en este punto, las Recomendaciones del GAFI de febrero de 2012.
+b) Bearer bank checks denominated in any currency. Therefore, nominative checks are excluded from the obligation. This exclusion is logical: nominative checks are identified at all times by the issuing and receiving entity.
 
-Así, dicho precepto precisa que también estarán sujetos a la obligación de declaración los movimientos de efectos negociables al portador, incluidos instrumentos monetarios como los cheques de viaje, instrumentos negociables, incluidos cheques, pagarés y órdenes de pago, ya sean extendidos al portador, endosados sin restricción, extendidos a la orden de un beneficiario ficticio o en otra forma en virtud de la cual la titularidad de los mismos se transmita a la entrega, y los instrumentos incompletos (incluidos cheques, pagarés y órdenes de pago, firmados pero con omisión del nombre del beneficiario).
+Regarding bearer checks, although it is possible to identify who issues and who cashes them, they present a risk concerning the "chain of operations the instrument serves between issuance and cashing."
 
-## 💡 Nota Final
+c) Any other physical means, including electronic ones, designed to be used as a bearer payment method.
 
-Como colofón, y haciendo alusión a una realidad de los nuevos tiempos, resulta preciso hacer notar que, un papel de especial relevancia en materia de prevención del blanqueo de capitales, viene a ser el tratamiento responsable de las transacciones llevadas a cabo mediante **criptoactivos**, respecto de las cuales la diligencia debe ser máxima en orden a prevenir situaciones constitutivas de posible blanqueo de capitales.
+With this enumeration, it seems that the Legislator intends to leave the door open to possible payment instruments that may arise in the future
+::contentReference[oaicite:2]{index=2}
+ 
