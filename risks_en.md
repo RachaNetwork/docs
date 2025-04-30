@@ -1,46 +1,41 @@
-# AVISO LEGAL ACERCA DE LOS RIESGOS DE LAS INVERSIONES EN CRIPTODIVISAS Y CRITOACTIVOS.- 
+# LEGAL NOTICE CONCERNING THE RISKS OF INVESTMENTS IN CRYPTOCURRENCIES AND CRYPTO-ASSETS.-  
 
-El cuenta participe, mediante la firma del presente contrato, declara expresamente conocer de manera clara, consciente y diáfana toda la información que RACHA (AM RACHA) le ha facilitado mediante la publicación en su página web (https://racha.network/), acerca de los riesgos inherentes a las inversiones en criptodivisas y criptoactivos, y ello en cumplimiento de lo dispuesto en la legislación vigente en la materia. 
+The participant account holder, by signing this agreement, expressly acknowledges having clear, conscious, and transparent knowledge of all the information provided by RACHA (AM RACHA) through its publication on its website (https://racha.network/), regarding the risks inherent to investments in cryptocurrencies and crypto-assets, in compliance with current applicable legislation.  
 
-Asimismo el cuenta participe declara conocer, haber leído y comprendido la información completa relativa a los riesgos de las inversiones en criptodivisas y criptoactivos que constan en el siguiente enlace: 
+Likewise, the participant account holder acknowledges having read and understood the complete information relating to the risks of investments in cryptocurrencies and crypto-assets available at the following link:  
 
-https://racha.network/
+https://racha.network/  
 
-Sin perjuicio de lo dispuesto “ut supra”, el cuenta participe declara conocer que las inversiones en criptodivias o criptoactivos entrañan los siguientes riesgos: 
+Without prejudice to the above provisions, the participant account holder acknowledges that investments in cryptocurrencies or crypto-assets involve the following risks:  
 
-## Riesgos desde el punto de vista del ámbito regulatorio:
+## Regulatory Risks:  
 
-No existe todavía en la Unión Europea ni Latinoamérica un marco que regule los criptoactivos como el Bitcoin, y que proporcione garantías y protección similares a las aplicables a los productos financieros. Actualmente, se está negociando a nivel europeo un Reglamento (conocido como MICA) que tiene como objetivo establecer un marco normativo para la emisión de criptoactivos y los proveedores de servicios sobre estos. 
+There is currently no regulatory framework in the European Union or Latin America governing crypto-assets such as Bitcoin that provides guarantees and protections comparable to those applicable to financial products. At the European level, negotiations are ongoing for a Regulation (known as MiCA) aimed at establishing a regulatory framework for the issuance of crypto-assets and service providers related to these.  
 
-## Desde el punto de vista legal, las criptomonedas:
+## Legal Considerations Regarding Cryptocurrencies:  
 
-No tienen la consideración de medio de pago.
+Cryptocurrencies do not constitute legal tender.  
 
-no cuentan con el respaldo de un banco central u otras autoridades públicas no están cubiertas por mecanismos de protección al cliente como el Fondo de Garantía de Depósitos o el Fondo de Garantía de Inversores. 
+They are not backed by a central bank or other public authorities and are not covered by client protection mechanisms such as the Deposit Guarantee Fund or the Investor Guarantee Fund.  
 
-Se estima que hay más de 7.000 criptomonedas en el mercado con características similares a las del Bitcoin. Se trata de instrumentos complejos, que pueden no ser adecuados para pequeños ahorradores, y cuyo precio conlleva un alto componente especulativo que puede suponer incluso la pérdida total de la inversión. 
+It is estimated that there are over 7,000 cryptocurrencies in the market with characteristics similar to Bitcoin. These are complex instruments that may not be suitable for small investors, whose prices carry a high speculative component that could even result in the total loss of the investment.  
 
-Adicionalmente, existen productos derivados apalancados vinculados a criptomonedas que permiten invertir indirectamente en estos, lo que incrementa aún más su complejidad y la posibilidad de sufrir pérdidas superiores a la inversión inicial, por lo que requieren de un gran conocimiento y experiencia. 
+Additionally, leveraged derivative products linked to cryptocurrencies allow indirect investments therein, further increasing their complexity and the possibility of incurring losses exceeding the initial investment, thus requiring substantial knowledge and experience.  
 
-## Riesgos derivados de la formación de precios de las criptodivisas y criptoactivos y de su liquidez: 
+## Risks Arising from Price Formation of Cryptocurrencies and Crypto-Assets and Their Liquidity:  
 
-Los precios de las criptomonedas se forman en ausencia de mecanismos eficaces que impidan su manipulación, como los presentes en los mercados regulados de valores. En muchas ocasiones los precios se forman también sin información pública que los respalde. 
+Cryptocurrency prices are formed in the absence of effective mechanisms preventing manipulation, unlike those present in regulated securities markets. Frequently, prices are also formed without being supported by publicly available information.  
 
-En relación con los riegos derivados de la iliquidez, resulta preciso hacer notar que muchas de las criptomonedas pueden verse carentes de la liquidez necesaria para poder deshacer una inversión sin sufrir pérdidas significativas, especialmente porque su circulación entre inversores, tanto minoristas como profesionales, es muy limitada. 
+Regarding liquidity-related risks, it must be noted that many cryptocurrencies may lack sufficient liquidity to liquidate an investment without suffering significant losses, particularly due to their limited circulation among retail and institutional investors.  
 
-## Riesgos en el uso de criptoactivos como medio de pago:
+## Risks Associated with the Use of Crypto-Assets as a Means of Payment:  
 
-Pese a que existen desde hace más de una década, la aceptación de las criptomonedas como medio de pago es aún muy limitada, lo que contrasta con otros muchos desarrollos digitales que han tenido una aceptación generalizada en mucho menos tiempo. Es necesario recordar que no existe obligación de aceptar Bitcoin o cualquier otro criptoactivo como medio de pago de deudas u otras obligaciones. El Reglamento de MICA no prevé que esto vaya a cambiar. 
+Despite having existed for over a decade, the acceptance of cryptocurrencies as a means of payment remains very limited, contrasting with other digital developments that have achieved widespread adoption in much shorter periods. It is important to emphasize that there is no obligation to accept Bitcoin or any other crypto-asset as a means of payment for debts or other obligations. The MiCA Regulation does not foresee a change in this regard.  
 
-Además, dada su elevada volatilidad, las criptomonedas no cumplen adecuadamente las funciones de unidad de cuenta y depósito de valor. 
+Furthermore, due to their high volatility, cryptocurrencies inadequately fulfill the functions of unit of account and store of value.  
 
-## Riesgos derivados del carácter transfronterizo del fenómeno cripto:
+## Risks Arising from the Cross-Border Nature of Crypto Activities:  
 
-En muchas ocasiones, los distintos actores implicados en la emisión, custodia y comercialización de criptoactivos no se encuentran localizados en España o, en
+In many instances, the various actors involved in the issuance, custody, and marketing of crypto-assets are not located in Spain or, in some cases, cannot even be located, making the resolution of any disputes potentially costly and outside the jurisdiction of Spanish authorities.  
 
-algunos casos, incluso, no es posible su localización, por lo que la resolución de cualquier conflicto podría resultar costosa y quedar fuera del ámbito de competencia de las autoridades españolas. 
-
-En definitiva, al conocer los riesgos inherentes a las inversiones en criptoactivos, el cuenta participe los asume plenamente, liberando a RACHA de cualquier responsabilidad derivada de los mismos. 
-
-
-
+In summary, by acknowledging the risks inherent to investments in crypto-assets, the participant account holder fully assumes them, releasing RACHA from any liability arising therefrom.  
