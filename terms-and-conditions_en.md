@@ -1,211 +1,207 @@
-## CONDICIONES GENERALES DE LA CONTRATACIÓN DEL MODELO DE NEGOCIO DENOMINADO RACHA (AM RACHA). 
+## GENERAL TERMS AND CONDITIONS OF CONTRACTING FOR THE BUSINESS MODEL KNOWN AS RACHA (AM RACHA).
 
-## 1).- DESCRIPCIÓN GENERAL
+## 1).- GENERAL DESCRIPTION
 
-Las presentes CONDICIONES GENERALES, el aviso legal, la Política de Privacidad, la Política de Cookies, el manual de ética, y el instrumento de prevención de blanqueo de capitales y financiación del terrorismo, y cualesquiera otras condiciones específicas publicadas en la presente web para la prestación de servicios por RACHA (AM RACHA), son aplicables a toda persona con capacidad legal que contrate los servicios de RACHA (AM RACHA)a través de la web, de la App (iOS/Android) o de su Plataforma de monedero electrónico (en adelante, la Plataforma). 
+These GENERAL CONDITIONS, the legal notice, the Privacy Policy, the Cookies Policy, the ethics manual, and the instrument for the prevention of money laundering and terrorist financing, and any other specific conditions published on this website for the provision of services by RACHA (AM RACHA), are applicable to any person with legal capacity who contracts the services of RACHA (AM RACHA) through the website, the App (iOS/Android) or its Electronic Wallet Platform (hereinafter, the Platform).
 
-RACHA STT LLC con EIN n.º 99-4733490, y domicilio social en 3833 Powerl ine RD STE 201; FT LAUDERDALE, FL.33309,es la Sociedad responsable de la web https://racha.network/, y de la Plataforma ubicada en dicho dominio, así como de su contenido, siendo su actividad principal el desarrollo del modelo de negocio determinado en el cuerpo del plan de compensación de RACHA (AM RACHA). 
+RACHA STT LLC with EIN No. 99-4733490, and registered office at 3833 Powerline RD STE 201; FT LAUDERDALE, FL. 33309, is the Company responsible for the website https://racha.network/, and the Platform located on said domain, as well as its content, its main activity being the development of the business model specified in the body of the RACHA (AM RACHA) compensation plan.
 
-Las presentes CONDICIONES GENERALES deberán ser aceptadas por el usuario para poder utilizar los servicios de la Plataforma de RACHA (AM RACHA) que requerirán su previa aceptación a través de la web https://racha.network/ (en adelante,Aplicación). 
+These GENERAL CONDITIONS must be accepted by the user to be able to use the services of the RACHA (AM RACHA) Platform, which will require their prior acceptance through the website https://racha.network/ (hereinafter, Application).
 
-En caso de no aceptar estas CONDICIONES GENERALES en los procesos de registro para la contratación de los servicios de RACHA (AM RACHA), se imposibilitará la utilización de los servicios de la Plataforma de https://racha.network/ 
+Failure to accept these GENERAL CONDITIONS in the registration processes for contracting RACHA (AM RACHA) services will make it impossible to use the services of the https://racha.network/ Platform.
 
-Con la aceptación expresa de las presentes CONDICIONES GENERALES, se entiende que el usuario ha aceptado íntegramente 
+With the express acceptance of these GENERAL CONDITIONS, it is understood that the user has accepted them in full
+and that, therefore, they have previously read and understood each and every one of the terms, undertaking to comply with all the specifications established therein.
 
-las mismas y que, por tanto, previamente ha leído y entendido todos y cada uno de los términos, obligándose a cumplir todas las especificaciones establecidas en las mismas. 
+## 2).- PURPOSE OF THE GENERAL CONDITIONS-
 
-## 2).- OBJETO DE LAS CONDICIONES GENERALES-
+The purpose of these general conditions is the regulation of the legal relationship of the user of the business model known as <<RACHA>> (also AM RACHA), which aims to make accessible to users their participation in certain projects related to so-called decentralized finance (DeFi, hereinafter), among which is the "ALL IN" POOL, without prejudice to the future implementation of new products and/or services, which will have their own legal regime and treatment, through their specific terms and conditions, all under the principles of a compensation plan based on multi-level marketing as a form of executing our business model.
 
-Las presentes condiciones generales tienen por objeto la regulación de la relación jurídica del usuario del modelo de negocio denominado &lt;&lt;RACHA&gt;&gt; (también AM RACHA), el cual tiene por objeto hacer accesible a usuarios su participación en determinados proyectos relacionados con las denominadas finanzas descentralizadas (DEFI, en lo sucesivo), entre las que se encuentra el POOL “ALL IN”, sin perjuicio de la implementación futura de nuevos productos y/o servicios, los cuales tendrán un régimen y tratamiento jurídico propios,mediante sus términos y condiciones específico, todo ello bajo los postulados de un plan de compensación basado en el marketing multinivel como forma de ejecución de nuestro modelo de negocio. 
+Users of RACHA (AM RACHA) are expressly informed that the company targets certain projects related to so-called decentralized finance (DeFi, hereinafter), among which is the "ALL IN" POOL, without prejudice to the future development of other products and/or services.
 
-Se informa expresamente a los usuarios de RACHA (AM RACHA)que la empresa tiene como objetivo determinados proyectos relacionados con las denominadas finanzas descentralizadas (DEFI, en lo sucesivo), entre las que se encuentra el POOL “ALL IN”, sin perjuicio del futuro desarrollo de otros productos y/o servicios. 
+In order to achieve these objectives, Racha enters into strategic agreements with trusted third parties, always with the purpose of executing its object within its business model.
 
-En orden a la consecución de tales objetivos Racha suscribe acuerdos estratégicos con terceros de confianza, siempre con la finalidad de ejecutar su objeto dentro de su modelo de negocio. 
+In this context, Racha users must comply with the provisions of these general terms and conditions in order to benefit from the advantages of the RACHA compensation plan, which is described unequivocally on its website.
 
-En este contexto, los usuarios de Racha deberán dar cumplimiento a las disposiciones de los presentes términos y condiciones general en orden a poder beneficiarse de los beneficios del plan de compensación de RACHA, el cual se describe sin ambages en su website. 
+# RACHA GUARANTEE FUND.-
 
-# FONDO DE GARANTÍA DE RACHA.-
+Racha informs independent distributors that it may establish a guarantee fund, to which a part of the rewards and/or profits corresponding to the company will be allocated, in order to safeguard the security and continuity of the project against
+contingencies arising from situations of fortuitous event or force majeure that may occur in the future, under the provisions of the commercial legislation of the North American State of Florida (Florida Revised Limited Liability Company Act).
 
-Racha comunica a los distribuidores independientes que podráconstituir un fondo de garantía, al que irán destinadas una parte de las recompensas y/o beneficios que correspondan a la empresa y ello en orden a salvaguardar la seguridad y continuidad del proyecto respecto de las 
+## 3).- PRODUCTS MARKETED BY THE COMPANY.-
 
-contingencias derivadas de las situaciones de caso fortuito o fuerza mayor que puedan sobrevenir en el futuro, y ello al amparo de lo dispuesto en la legislación comercial del Estado norteamericano de Florida (Florida Revised Limited Liability Company Act). 
-
-## 3).- PRODUCTOS COMERCIALIZADOS POR LA EMPRESA.-
-
-En cumplimiento de la legislación vigente se hace constar en los presentes términos y condiciones que RACHA (AM RACHA)comercializará los productos y/o servicios descritos en su página web, y concretamente en la dirección que a continuación se cita: 
+In compliance with current legislation, it is stated in these terms and conditions that RACHA (AM RACHA) will market the products and/or services described on its website, specifically at the address cited below:
 
 ## https://racha.network/
 
-El usuario de RACHA (AM RACHA)declara en este acto que conoce los productos descritos en la anterior dirección web, y que asimismo está dispuesto a comercializarlos, en su caso. 
+The user of RACHA (AM RACHA) hereby declares that they are aware of the products described at the aforementioned web address, and that they are also willing to market them, as applicable.
 
-## 4).- MARCA Y NOMBRE COMERCIAL DE LOS PRODUCTOS DE LA EMPRESA.-
+## 4).- TRADEMARK AND TRADE NAME OF THE COMPANY'S PRODUCTS.-
 
-LA EMPRESA comercializará los productos bajo el nombre comercial y marca registrada denominada literalmente RACHA (AM RACHA), cuya imagen, símbolo, letras y logotipos, han sido registrados como marca, siendo los que se exhiben a continuación: 
+THE COMPANY will market the products under the trade name and registered trademark literally known as RACHA (AM RACHA), whose image, symbol, letters, and logos have been registered as a trademark, being those displayed below:
 
 ![](https://raw.githubusercontent.com/RachaNetwork/docs/refs/heads/master/logo1.png)
 ![](https://raw.githubusercontent.com/RachaNetwork/docs/refs/heads/master/logo2.png)
 
+## 5).- USER'S RESPONSIBLE DECLARATION FOR RACHA (AM RACHA).-
 
-## 5).- DECLARACIÓN RESPONSABLE DEL USUARIO DE RACHA (AM RACHA).-
+The USER declares that they have read, understand, and unequivocally accept:
 
-El USUARIO declara que ha leído, entiende y acepta sin ambages:
+The entire wording of this contract, in addition to: - The terms contained in the Ethics Manual.- The full content of the procedural policies. - ​The document for the prevention of money laundering. - The general and special conditions of the Compensation or Referral Plan, which can be accessed via the web address: https://racha.network/
 
-La totalidad del clausulado del presente contrato,además de: - Los términos de que consta el Manual de Ética.- El contenido íntegro de las políticas de procedimientos. - ​El documento de prevención del blanqueo de capitales. - Las condiciones generales y especiales del Plan de compensación o referidos, al que puede tener acceso a través de la dirección web: https://racha.network/
+THE USER expressly accepts future modifications to this contract, as well as to the other documents cited in this clause, freely giving their express consent at this time. Such modifications will in all cases be published on THE COMPANY's website at least 5 calendar days in advance.
 
-EL USUARIO acepta expresamente las modificaciones futuras del presente contrato, así como de los demás documentos que se citan en la presente cláusula, prestando libremente en este momento su expreso consentimiento. Dichas modificaciones serán en todo caso publicadas en la página web de LA EMPRESA con una antelación mínima de 5 días naturales. 
+## 6).- USER'S OWN MANAGEMENT AND RESPONSIBILITY.-
 
-## 6).- GESTIÓN Y RESPONSABILIDAD PROPIA DEL USUARIO.-
+The user will manage their own business, without having any employment relationship whatsoever with THE COMPANY, being responsible for their business acts, as well as their relations with Public Administrations, promoting the distribution of the products and/or services object of this contract, complying with all the rules of the Ethics Manual, procedural policies, compensation plan, and document for the prevention of money laundering, which integrate this Contract, as well as complying with all regulations in force in the country at any given time, especially tax regulations and relations with the State Tax Administration Agencies.
 
-El usuario administrará su propio negocio, sin tener relación en ningún caso de carácter laboral alguna con LA EMPRESA,siendo responsable de sus actos negóciales, así como de sus relaciones con las Administraciones Públicas, promoviendo la distribución de los productos, y/o servicios objeto del presente contrato, cumpliendo todas las normas del Manual de Ética, políticas de procedimientos, plan de compensación, y documento de prevención del blanqueo de capitales, los cuales integran el presente Contrato, así como cumpliendo todas las normas vigentes en el país en vigor en cada momento,especialmente las fiscales y las relaciones con las Agencias Estatales de Administración Tributaria. 
+## 7).- USER'S LEGAL STATUS.-
 
-## 7).- SITUACIÓN JURÍDICA DEL USUARIO.-
+The relationship between THE COMPANY and THE USER is based on the complete independence of these two entities, according to the conditions of this contract, so that, for all effects and purposes, including tax purposes, there is no employment link subject to social jurisdiction between the present parties.
 
-La relación entre LA EMPRESA y EL USUARIO está basada en la total independencia de estas dos entidades, conforme las condiciones de este contrato, por lo que, para todos los efectos y fines, inclusive fiscales, no existe entre las presentes partes ningún vínculo laboral sujeto a la jurisdicción social. 
+THE USER shall under no circumstances hold, assume, or present themselves to third parties as an employee, representative, or franchisee of THE COMPANY, under penalty that the latter may, in the event of non-compliance with the foregoing, terminate this contract with just cause.
 
-EL USUARIO bajo ningún concepto ostentará, asumirá o se presentará ante terceros en condición de empleado,representante o franquiciado de LA EMPRESA, bajo pena de que esta última podrá, en el supuesto de incumplimiento de lo anteriormente reseñado, rescindir el presente contrato con justa causa. 
+THE USER declares that, as a distributor of THE COMPANY's products and/or services, they are completely Independent for all purposes, including tax purposes, being solely responsible for the payment of all expenses necessary for carrying out the business related to this Independent Distributor Agreement.
 
-EL USUARIO declara que, como distribuidor de los productos y/o servicios de LA EMPRESA, es completamente Independiente para todos los fines, inclusive fiscales, siendo el único responsable del pago de todos los gastos necesarios para la realización de los negocios relacionados con este Contrato de Distribuidor Independiente. 
+RACHA STT LLC. does not permit a user to open more than one account in their name, taking into account the need to adapt the business model to the legal requirements established by the legislation on the prevention of money laundering.
 
-RACHA STT LLC., no permite que un usuario apertura más de una cuenta a su nombre, habida cuenta de las necesidades de adaptar el modelo de negocio a las exigencias legales establecidas por la legislación de prevención de blanqueo de capitales. 
+THE USER, from the moment of signing this contract, whether in person or electronically, initiates a legal-contractual relationship solely with the commercial company RACHA STT LLC.
 
-EL USUARIO, a partir del momento de la firma del presente contrato, de modo presencial o electrónico, inicia una relación jurídico-contractual únicamente con la sociedad mercantil RACHA STT LLC. 
+## 8).- DURATION OF THE CONTRACT.-
 
-## 8).- DURACIÓN DEL CONTRATO.-
+This contract is of an indefinite nature, provided that THE USER complies with the clauses of this contract, as well as with the other documents described in the fourth clause.
 
-El presente contrato es de naturaleza indefinida, siempre que el USUARIO cumpla con las cláusulas de este contrato, asícomo con los demás documentos descritos en la cláusula cuarta. 
+## 9).- TERMINATION OF THE CONTRACT AT THE USER'S WILL.-
 
-## 9).- RESCISIÓN DEL CONTRATO POR VOLUNTAD DEL USUARIO.-
+THE USER may terminate this distribution contract at any time, provided they do so 30 days in advance of the intended termination date, through written communication addressed to the registered office by any means that provide reliable proof of receipt by THE COMPANY, i.e., certified mail with return receipt, burofax, or telegram.
 
-EL USUARIO puede rescindir el presente contrato de distribución en cualquier momento, siempre que lo haga con 30días de antelación en relación al término pretendido, a través de comunicación escrita dirigida al domicilio social por alguno de los medios que dejen constancia fehaciente de su recepción por parte de LA EMPRESA, esto es, correo certificado con acuse de recibo, burofax o telegrama. 
+## 10).- OBJECTIVE CAUSES FOR TERMINATION OF THE CONTRACT AT THE COMPANY'S REQUEST.-
 
-## 10).- CAUSAS OBJETIVAS DE RESCISIÓN DEL CONTRATO A INSTANCIA DE LA EMPRESA.- 
+❖​ Non-compliance with any of the clauses of this contract.
 
-❖​ El incumplimiento de cualquier de las cláusulas del presente contrato. 
+ Non-observance of the terms contained in the Ethics Manual.
 
- La inobservancia de los términos de que consta el Manual de Ética. 
+❖​ Violations of the provisions in the document for the prevention of money laundering.
 
-❖​ Las vulneraciones de lo dispuesto en el documento de prevención del blanqueo de capitales. 
+❖​ The publication by any means or procedure, through any channel, especially electronic means such as blogs, social networks (Facebook, Twitter, MySpace, to name just a few non-exclusive examples) or similar platforms, of any negative, injurious, or slanderous comments against THE COMPANY or any of its partners or Administrators, against the trade name and trademark "RACHA (AM RACHA)", or against any of the activities, members, or natural or legal persons contracting with THE COMPANY.
 
-❖​ La publicación en por cualquier medio o procedimiento,por cualquier vía, especialmente la electrónica en blogs, redes sociales (facebook, twitter, my space, por citar sólo algunas sin carácter exclusivo ni exhaustivo) o análogas, de cualesquiera comentarios negativos, injuriosos o calumniosos contra LA EMPRESA o cualquiera de sus socios o Administradores, contra el nombre comercial y marca "RACHA (AM RACHA)", o contra cualquiera las actividades, miembros o personas físicas o jurídicas contratantes de LA EMPRESA. 
+❖​ Lack of respect towards the members, consumers, or employees of THE COMPANY.
 
-❖​ Las falta de respeto para con los miembros,consumidores o trabajadores de LA EMPRESA. 
+❖​ Making statements by any means or procedure by THE USER regarding false, misleading, or disproportionate benefits in relation to THE COMPANY's business model.
 
-❖​ Verter por cualquier medio o procedimiento por parte del USUARIO manifestaciones relativas a beneficios falsos, engañosos o desproporcionados en relación con el modelo de negocio de LA EMPRESA. 
+❖​ Failure to respond to requests made by THE COMPANY regarding information or inappropriate conduct.
 
-❖​ No atender a los requerimientos efectuados por LA EMPRESA en relación con informaciones o con conductas inapropiadas. 
+ Any other conduct by the USER that constitutes a minor or serious offense.
 
-Cualquiera otra conducta del USUARIO que por su entidad sea constitutiva de delito leve o grave. 
+In cases of termination of this contract due to the occurrence of any of the above causes, THE USER will lose all rights derived from this contract, including the right to collect commissions, which will be withheld by THE COMPANY.
 
-En los supuestos de rescisión del presente contrato por la concurrencia de alguna de las causas anteriores, el USUARIO perderá todos los derechos derivados del presente contrato,incluido el del cobro de comisiones, las cuales quedarán retenidas por LA EMPRESA. 
+## 11).- EFFECTS OF CONTRACT TERMINATION.-
 
-## 11).- EFECTOS DE LA RESCISIÓN DEL CONTRATO.-
+The termination of this contract for any of its resolution causes will result in the definitive loss, without any right or claim action whatsoever, of all THE USER's rights, being unable to continue in any way with the promotion of THE COMPANY's products and/or services.
 
-La rescisión del presente contrato por cualesquiera de sus causas de resolución, motivará la pérdida definitiva sin derecho ni acción de reclamación alguna de todos los derechos del USUARIO, no pudiendo continuar en modo alguno con la promoción de los productos y/o servicios de LA EMPRESA. 
+THE USER AND THE COMPANY expressly agree that in cases of contract termination, THE USER may not demand any commission or bonus, nor any compensation for clientele resulting from their activity as a USER.
 
-El USUARIO Y LA EMPRESA pactan expresamente que en los supuestos de rescisión del contrato el USUARIO no podráexigir en ningún comisión o bonificación, ni indemnización por clientela alguna resultantes de su actuación como USUARIO. 
+## 12).- PROHIBITION OF CONTRACT ASSIGNMENT.-
 
-## 12).- PROHIBICIÓN DE CESIÓN DEL CONTRATO.-
+THE USER is prohibited from assigning, in whole or in part, their contractual position, under penalty of nullity of this contractual instrument.
 
-EL USUARIO tiene la prohibición de ceder, en todo o en parte su posición contractual, bajo pena de nulidad del presente instrumento contractual. 
+## 13).- NON-EXCLUSIVITY.-
 
-## 13).- NO EXCLUSIVIDAD.-
+THE USER does not acquire through this contract any reservation or exclusivity of commercial activity, for which reason THE COMPANY may formalize with third parties contracts equal or similar to this one and/or directly provide the services related to the object of this contract.
 
-EL USUARIO no adquiere por medio del presente contrato ninguna reserva o exclusividad de actuación comercial, razón por la cual LA EMPRESA podrá formalizar con terceros,contratos iguales o semejantes al presente y/o prestar directamente los servicios relativos al objeto de este contrato. 
+## 14).- USER'S RESPONSIBILITY.-
 
-## 14).- RESPONSABILIDAD DEL USUARIO.-
+In carrying out the activity of distributing products or services to end consumers, THE USER has the duty to ensure the complete satisfaction of the consumer, being personally and exclusively responsible for compliance with the rules established in the legislation relating to consumer protection. Consequently, THE USER accepts civil liability arising from damages and losses incurred by THE COMPANY as a result of the USER's imprudence, lack of skill, or negligence in the distribution of the products object of this contract.
 
-En el desarrollo de la actividad de distribución de los productos o servicios a los consumidores finales, el USUARIO tiene el deber de procurar la satisfacción íntegra del consumidor, siendo personal y exclusivamente responsable del cumplimiento de las normas establecidas en la legislación relativa a la defensa del consumidor. En consecuencia, EL USUARIO acepta la responsabilidad civil derivada de los daños y perjuicios que a LA EMPRESA se le irroguen, como consecuencia de la imprudencia, impericia o negligencia del USUARIO como consecuencia de la distribución de los productos objeto del presente contrato. 
+## 15).- OFFERING THE RACHA (AM RACHA) COMPENSATION PLAN TO THIRD PARTIES.-
 
-## 15).- OFERTA A TERCEROS DEL PLAN DE COMPESACIÓN DE RACHA (AM RACHA).- 
+THE USER may recruit new users within the action plan stipulated by THE COMPANY. In any case, THE USER will be responsible for training and supervising them at their own expense to ensure that their actions are carried out in accordance with the ethical principles, procedural policies, and postulates of this contract, always maintaining a good and constructive relationship among all users.
 
-EL USUARIO puede reclutar nuevos usuarios dentro del plan de actuación estipulado por LA EMPRESA. En cualquier caso, EL USUARIO será responsable de formarles y supervisarles a su costa para garantizar que su actuación sea desarrollada de acuerdo con los principios éticos, políticas de procedimientos y postulados del presente contrato,manteniéndose siempre una buena y constructiva relación entre todos los usuarios. 
+The newly recruited USER must sign the corresponding independent distributor contract.
 
-El nuevo USUARIO reclutado deberá firmar el correspondiente contrato de distribuidor independiente. 
+## 16).- ABSOLUTE PROHIBITIONS.-
 
-## 16).- PROHIBICIONES ABSOLUTAS.-
+It is absolutely forbidden for THE USER to carry out abusive and/or inappropriate actions to recruit other users. THE COMPANY will supervise that competition between USERS is appropriate and will adopt, otherwise, the appropriate legal measures.
 
-Queda absolutamente prohibido que el USUARIO desarrolle acciones abusivas y/o inadecuadas de captación de otros usuarios. LA EMPRESA supervisará que la competencia entre USUARIOS sea adecuada y adoptará en caso contrario las medidas en Derecho que resulten procedentes. 
+## 17).- ACTIVITIES SUBJECT TO COMPANY APPROVAL.-
 
-## 17).- ACTIVIDADES SUJETAS A APROBACIÓN POR LA EMPRESA.-
+THE USER will need prior written approval from THE COMPANY to carry out any of the following activities:
 
-EL USUARIO necesitará aprobación previa y por escrito de LA EMPRESA para llevar a cabo cualquiera de las siguientes actividades: 
+ Advertising, anywhere and by any means, THE COMPANY's products
 
- Hacer publicidad, en cualquier parte y por cualquier medio, de los productos de LA EMPRESA 
+ Incorporating or adopting the trade names of THE COMPANY or its products to carry out the distribution provided for in this Contract.
 
- Incorporar o adoptar los nombres comerciales de LA EMPRESA o de sus productos para ejercer la distribución prevista en este Contrato. 
+ Making use of the RACHA (AM RACHA) trademark, trade name, logo, symbol, or other intellectual and advertising properties belonging to or managed by THE COMPANY.
 
- Hacer uso de la marca RACHA (AM RACHA), nombre comercial, logotipo, símbolo u otras propiedades intelectuales y publicitarias pertenecientes o gestionadas por LA EMPRESA. 
+ The use or creation of advertising material for the brand, with the official symbols of the company, is not permitted without proper express written authorization.
 
- No está permitido el uso o confección de material para publicidad de la marca, con los símbolos oficiales de la empresa, sin la debida autorización expresa y escrita. 
+❖​ THE USER undertakes not to register, either by themselves or through third parties, any trademark that may directly or indirectly compete with THE COMPANY's trademarks, or any trademark or patent that may directly or indirectly compete or be confusingly similar to THE COMPANY's trademarks and patents, under penalty of contract termination and compensation for damages.
 
-❖​ EL USUARIO se compromete a no registrar por sí o por medio de terceros ninguna marca que pueda competir directa o indirectamente con las marcas de LA EMPRESA, o cualquier marca o patente que pueda competir directa o indirectamente o sea confundible con las marcas y patentes de LA EMPRESA, bajo pena de resolución contractual e indemnización de daños y perjuicios. 
+## 18).- INFORMATION FOR THE USER.-
 
-## 18).- INFORMACIÓN AL USUARIO.-
+THE USER will have access to all information regarding instructions on procedures for purchases, sales, profits, commission payments, deliveries, cancellations, compensation plan, and all relevant data through the web address: https://racha.network/
 
-EL USUARIO dispondrá de toda la información relativa a las instrucciones sobre los procedimientos de compras, ventas,lucros, abono de comisiones, entregas, cancelaciones, plan de compensación y todos los datos relevantes a través de la dirección web: https://racha.network/ 
+Any information or presentation regarding earnings or compensation must be based exclusively on the company's official compensation plan. THE COMPANY offers no guarantee of earnings to THE USER under any circumstances, nor will it be responsible for promises of earnings made by its USERS or by third parties on their behalf, as these earnings depend exclusively on the work and effort of the USERS.
 
-Cualquier información o presentación acerca de ganancias o compensaciones debe estar basada exclusivamente en el plan de compensación oficial de la compañía. LA EMPRESA no ofrece en ningún caso garantía de ganancias al USUARIO, ni se responsabilizará de las promesas de ganancias efectuadas por sus USUARIOS o por parte de terceros en su nombre, ya que estas ganancias dependen exclusivamente del trabajo y esfuerzo de los USUARIOS. 
+The professional success of THE USER depends solely on the individual effort of the USER themselves, with no guarantee of receiving any income, benefits, or professional success.
 
-El éxito profesional del USUARIO depende únicamente del esfuerzo individual del propio USUARIO, no teniendo garantizada la percepción de ingresos, beneficios o éxito profesional alguno. 
+THE USER receives variable remuneration based solely on the satisfactory distribution and promotion of THE COMPANY's products and services to customers, with no economic compensation or compensation in kind for promoting THE COMPANY's business opportunity or sponsoring new USERS. As a condition for receiving commissions, THE USER must focus primarily on the promotion AND sale of
 
-EL USUARIO recibe retribuciones variables en función únicamente de la distribución y promoción satisfactoria de los productos y servicios de LA EMPRESA a clientes, no existiendo compensación económica ni en especie por la promoción de la oportunidad de negocio de LA EMPRESA o el patrocinio de nuevos USUARIOS. Como condición para recibir comisiones, el USUARIO deberá centrarse principalmente en la promoción Y venta de 
+Products and Services to customers who are not part of THE COMPANY's commercial network.
 
-Productos y Servicios a clientes que no formen parte de la red comercial de LA EMPRESA. 
+THE COMPANY never compensates its USERS simply for sponsoring others. THE USER must emphasize the sale of products to the end consumer in all presentations about THE COMPANY's Business Opportunity.
 
-LA EMPRESA nunca compensa a sus USUARIOS por el simple hecho de patrocinar a otros. El USUARIO deberá enfatizar la venta de los productos al consumidor final en todas las presentaciones sobre la Oportunidad de negocio de LA EMPRESA. 
+The conditions, products, and services object of the contract, commercial schemes, and compensation systems of direct marketing companies are not subject to prior review and approval by a public body.
 
-Las condiciones, productos y servicios objeto del contrato,esquemas comerciales y sistemas de compensación de empresas de marketing directo no están sujetos a la revisión y aprobación previa por parte de un organismo público. 
+## 19).- PAYMENT OF REWARDS.-
 
-## 19).- ABONO DE RECOMPENSAS.-
+THE USER will receive the rewards to which they are entitled within the payment terms indicated by THE COMPANY.
 
-EL USUARIO percibirá las recompensas a que tenga derecho en los plazos de pago indicados por LA EMPRESA. 
+The user may request the liquidation of their purchased participations, these becoming inactive from the moment said request is sent. THE COMPANY will offer a valuation for them based on liquidity and availability criteria of its suppliers and products. In any case, if the purchase to be liquidated has not met the minimum holding period of 25 cycles, a penalty of 20% will be applied to said valuation. The user will be informed through THE COMPANY's channels of the available period for accepting the appraised value. If the user does not accept the offered valuation, the purchases subject to it will remain active for all purposes.
 
-El usuario podrá solicitar la liquidación de sus participaciones compradas, quedando éstas inactivas desde el envío de dicha solicitud. LA EMPRESA ofrecerá por las mismas una tasación basada en criterios de liquidez y disponibilidad de sus proveedores y productos. En todo caso, si la compra a liquidar no ha cumplido el mínimo de permanencia de 25ciclos, se aplicará una penalización del 20% sobre dicha tasación. El usuario será informado a través de los canales de LA EMPRESA del plazo disponible para la aceptación del valor tasado. En caso de no aceptación por parte del usuario de la tasación ofrecida, las compras objeto de la misma continuarán activas a todos los efectos. 
+## 20).- SUPPLEMENTARY LAW.-
 
-## 20).- DERECHO SUPLETORIO.-
+These general conditions of contracting shall be governed by the clauses contained throughout this document, as well as by the other documents described in the fourth clause.
 
-Las presentes condiciones generales de la contratación se regirán por las cláusulas que constan a lo largo del presente documento, así como por los demás documentos descrito en la cláusula cuarta. 
+Aspects and situations not expressly contemplated herein shall be governed by the Civil and Commercial legislation in force at any given time.
 
-Los aspectos y situaciones que no fueren expresamente contemplados por el mismo, se regirán por medio de la legislación Civil y Mercantil vigente en cada momento. 
+## 21).- ADDRESS FOR COMMUNICATION AND NOTIFICATION PURPOSES.-
 
-## 21).- DOMICILIO A EFECTOS COMUNICACIONES Y NOTIFICACIONES.-
+All contractual communications and notifications shall
+be effective at the indicated addresses, with the parties undertaking to mutually communicate any change to the referred addresses within 15 days from the date the change of address occurs, under penalty that all communications addressed to the indicated addresses will be considered validly made, even if the parties do not receive them.
 
-Todas las comunicaciones y notificaciones contractuales se
+## 22).- PROCESSING AND PROTECTION OF PERSONAL DATA.-
 
-harán efectivas en las direcciones indicadas, obligándose aquellas a comunicar recíprocamente cualquier alteración a las direcciones referidas, en el plazo de 15 días a computar desde que se produzca el cambio de domicilio, bajo pena de que se consideren como válidamente efectuadas todas las comunicaciones dirigidas a las direcciones indicadas, aunque las partes no las reciban. 
+THE COMPANY's policy strictly complies with the provisions of the PERSONAL DATA PROTECTION LAW of the Republic of Argentina of September 19, 2018, number INLEG-2018- 46290265-APN-PTE, which aims at the comprehensive protection of personal data in order to guarantee the full exercise of the rights of their holders, in accordance with the provisions of article 43, third paragraph, of the NATIONAL CONSTITUTION and the Human Rights Treaties to which the ARGENTINE REPUBLIC is a party.
 
-## 22).- TRATAMIENTO Y PROTECCIÓN DE DATOS DE CARÁCTER PERSONAL.-
+In compliance with article 11 of the aforementioned Law, the company's identifying data are displayed via the corporate website, including:
 
-La política de LA EMPRESA cumple estrictamente con lo dispuesto en la LEY DE PROTECCIÓN DE LOS DATOS PERSONALES de la República Argentina de 19 de septiembre de 2018 número INLEG-2018- 46290265-APN-PTE, que tiene por objeto la protección integral de los datos personales a fin de garantizar el ejercicio pleno de los derechos de sus titulares, de conformidad a lo establecido en el artículo 43,párrafo tercero, de la CONSTITUCIÓN NACIONAL y los Tratados de Derechos Humanos en los que la REPÚBLICA ARGENTINA sea parte. 
+​ Company name
 
-En cumplimiento del artículo 11 de la citada Ley, se procede a exponer vía web corporativa los datos identificativos de la empresa, entre los que se incluyen: 
+❖​ Registered office
 
-​ Denominación social
+❖​ Email address
 
-❖​ Domicilio social
+Personal data collected on the websites must be processed in accordance with the provisions of the G.D.P.R., and must be treated confidentially.
 
-❖​ Correo electrónico
+Users may exercise the rights of opposition, access and information, rectification, cancellation, and revocation of their authorization for the use of their personal data.
 
-Los datos personales recogidos en las webs se deberán tratar de acuerdo con lo dispuesto en el R.G.P.D., y deberán ser tratados de manera confidencial. 
+At any time, the INDEPENDENT DISTRIBUTOR may exercise their rights of access, rectification, or cancellation in relation to said data, by directing their request to the address of the owner of the files (the commercial company RACHA STT LLC). Information for exercising your rights can be found in Florida's data protection legislation (Florida Data Privacy Law, https://www.flsenate.gov/Session/Bill/2023/262/BillText/er/PDF). For any litigation related to the terms of this contract, its validity, interpretation, and compliance, the parties agree that the Courts and Tribunals of Florida (United States of America) shall have jurisdiction, expressly waiving any other jurisdiction.
 
-Los usuarios pueden ejercitar los derechos de oposición,acceso e información, rectificación, cancelación y revocación de su autorización a la utilización de sus datos personales. 
+Any legal matter that the independent distributor wishes to raise with THE COMPANY may be formulated via email to the following address: info@racha.network
 
-En cualquier momento el DISTRIBUIDOR INDEPENDIENTE podráejercitar sus derechos de acceso, rectificación o cancelación en relación con dichos datos, dirigiendo su solicitud a la dirección del titular de los ficheros (la sociedad mercantil RACHA STT LLC).Puede encontrar información para el ejercicio de sus derechos en la legislación de protección de datos de Florida (Florida Data Privacy Law,https://www.flsenate.gov/Session/Bill/2023/262/BillText/er/PD F). de cualquier litigio en relación con los términos de este contrato, a su validez, interpretación y cumplimiento,las partes acuerdan que serán competentes los Juzgados y Tribunales de Florida (Estados Unidos de América), con renuncia expresa a cualquier otro fuero. 
+# Acknowledgment and Signature.-
 
-Cualquier cuestión de índole legal que el distribuidor independiente desee plantear a LA EMPRESA, podráformularla mediante correo electrónico a la siguiente dirección: info@racha.network 
+By signing these general conditions of contracting, the independent distributor acknowledges for all legal purposes that:
 
-# Reconocimiento y firma.-
+a)​ I understand that I am entering into a legally binding contract composed of this contract, its clauses, the Policy of Procedures, the Compensation Plan, the document for the prevention of money laundering, and the Ethics Manual, and that I have read, understood, and accept each of these documents.
 
-Con la firma de las presentes condiciones generales de la contratación, el distribuidor independiente reconoce a todos los efectos legales que: 
+b) ​All the information I provide to THE COMPANY is accurate and complete.
 
-a)​ Entiendo que estoy suscribiendo un contrato legalmente vinculante compuesto por el presente contrato,sus cláusulas, la Política de Procedimientos, el Plan de compensación, el documento de prevención del blanqueo de capitales, y el Manual de Ética, así como que he leído y comprendido y que acepto cada uno de estos documentos. 
+c)​ I have sufficient legal capacity to contract and act as a USER.
 
-b) ​Toda la información que facilito a LA EMPRESA es precisa y completa. 
+d).- That the independent distributor is entering into an electronic contract.
 
-c)​ Dispongo de capacidad legal bastante para contratar y para ejercer como USUARIO. 
+As is well known, an electronic contract is perfected once the acceptor's declaration of will is issued by clicking, without it being possible for the offeror to ignore it without acting in bad faith. In this sense, in consumer contracts concluded over the internet, according to Florida commercial legislation, consent exists from the moment acceptance is manifested. Therefore, the contract is perfected, for example, when we complete and accept the automated purchase form, regardless of the offeror's obligation to confirm receipt of acceptance, a confirmation whose value is merely informative and whose absence has no relevance to the perfection of the contract. What is relevant, therefore, is that the offeror can have proof of the acceptance of the offer: at that moment it will be understood that acceptance has been received.
 
-d).- Que el distribuidor independiente está suscribiendo un contrato electrónico. 
-
-Como bien es sabido, el contrato electrónico se perfecciona una vez emitida la declaración de voluntad del aceptante mediante click sin que esta pueda ser ignorada por el oferente sin faltar a la buena fe. En este sentido, en los contratos de consumo celebrados a través de internet, conforme a la legislación comercial de Florida, hay consentimiento desde que se manifiesta la aceptación. Por tanto, el contrato se perfecciona, por ejemplo, cuando cumplimentamos y aceptamos el formulario de compra automatizada, y ello independientemente de la obligación del oferente de confirmar que ha recibido la aceptación, confirmación, cuyo valor es meramente informativo y que de no producirse no tiene relevancia en la perfección del contrato. Lo relevante, por tanto, es que el oferente pueda tener constancia de la aceptación de la oferta: en ese momento se entenderá́ que ha recibido la aceptación. 
-
-Así las cosas, el régimen jurídico del contrato electrónico determina que los contratos celebrados por internet son una especie dentro del género de contratos de consumo celebrados a distancia. Pueden ser definidos como aquellos contratos de consumo que son celebrados -naturalmente, entre un proveedor y un consumidor- mediando «exclusivamente» la utilización de medios de comunicación «electrónicos» y a «distancia»,de manera que la celebración del contrato pueda tener lugar «sin el encuentro físico» simultáneo de las partes contratantes, con «independencia de su objeto». Se trata de contratos celebrados por adhesión a cláusulas generales predispuestas, o simplemente de contratos por adhesión electrónica, ya que el usuario ingresa a los contenidos publicados por los vendedores a través del portal de venta,en el que observa la descripción del producto, fotos, videos,condiciones de entrega, ubicación del vendedor y precio,entre otras cualidades, teniendo que hacer clic en el botón «comprar» para perfeccionar el contrato, sin posibilidad alguna de discutir las cláusulas de contratación. Es decir,que la parte vendedora es quien, mediante la técnica de la predisposición, formula la totalidad de las cláusulas contractuales, ante las cuales el usuario solamente tiene dos opciones: asentir de acuerdo a las cláusulas estipuladas por el vendedor o no prestar su asentimiento, y por ende, no contratar. 
+Thus, the legal regime of the electronic contract determines that contracts concluded over the internet are a species within the genus of distance consumer contracts. They can be defined as those consumer contracts that are concluded - naturally, between a supplier and a consumer - mediated 'exclusively' by the use of 'electronic' and 'distance' communication means, so that the conclusion of the contract can take place 'without the simultaneous physical presence' of the contracting parties, 'regardless of its object'. These are contracts concluded by adhesion to pre-drafted general clauses, or simply contracts by electronic adhesion, since the user accesses the content published by sellers through the sales portal, where they observe the product description, photos, videos, delivery conditions, seller's location, and price, among other qualities, having to click the 'buy' button to perfect the contract, without any possibility of discussing the contracting clauses. That is, the selling party is the one who, through the technique of predisposition, formulates all the contractual clauses, before which the user only has two options: to consent according to the clauses stipulated by the seller or not to give their consent, and therefore, not to contract.
