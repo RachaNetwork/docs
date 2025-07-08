@@ -10,7 +10,6 @@ Las presentes CONDICIONES GENERALES deberán ser aceptadas por el usuario para p
 
 Con la aceptación expresa de las presentes CONDICIONES GENERALES, se entiende que el usuario ha aceptado íntegramente las mismas y que, por tanto, previamente ha leído y entendido todos y cada uno de los términos, obligándose a cumplir todas las especificaciones establecidas en las mismas.
 
----
 
 ## 2. OBJETO DE LAS CONDICIONES GENERALES 
 
@@ -22,7 +21,6 @@ En este contexto, los usuarios de RACHA deberán dar cumplimiento a las disposic
 
 RACHA comunica a los distribuidores independientes que podrá constituir un fondo de garantía, al que irán destinadas una parte de las recompensas y/o beneficios que correspondan a RACHA y ello en orden a salvaguardar la seguridad y continuidad del proyecto respecto de las contingencias derivadas de las situaciones de caso fortuito o fuerza mayor que puedan sobrevenir en el futuro, y ello al amparo de lo dispuesto en la legislación comercial del Estado norteamericano de Florida (Florida Revised Limited Liability Company Act).
 
----
 
 ## 3. PRODUCTOS COMERCIALIZADOS POR RACHA 
 
@@ -32,7 +30,6 @@ En cumplimiento de la legislación vigente se hace constar en los presentes tér
 
 El usuario de RACHA (AM RACHA) declara en este acto que conoce los productos descritos en la anterior dirección web, y que asimismo está dispuesto a comercializarlos, en su caso.
 
----
 
 ## 4. MARCA Y NOMBRE COMERCIAL
 
@@ -40,7 +37,6 @@ RACHA comercializará los productos bajo el nombre comercial y marca registrada 
 ![](https://raw.githubusercontent.com/RachaNetwork/docs/refs/heads/master/logo1.png)
 ![](https://raw.githubusercontent.com/RachaNetwork/docs/refs/heads/master/logo2.png)
 
----
 
 ## 5. DECLARACIÓN RESPONSABLE DEL USUARIO 
 
@@ -54,13 +50,10 @@ EL USUARIO acepta expresamente las modificaciones futuras del presente contrato,
 
 EL USUARIO, a partir del momento de la firma del presente contrato, de modo presencial o electrónico, inicia una relación jurídico-contractual únicamente con la sociedad mercantil **RACHA STT LLC**.
 
----
 
 ## 6. USUARIOS FINALES: PARTICIPANTES EN LA POOL ALL-IN 
 
----
-
-### 6.1. SITUACIÓN JURÍDICA DEL USUARIO {#61-situación-jurídica-del-usuario}
+### 6.1. SITUACIÓN JURÍDICA DEL USUARIO 
 
 La relación entre RACHA y EL USUARIO está basada en la total independencia de estas dos entidades, conforme las condiciones de este contrato, por lo que, para todos los efectos y fines, inclusive fiscales, no existe entre las presentes partes ningún vínculo laboral sujeto a la jurisdicción social.
 
@@ -69,8 +62,6 @@ EL USUARIO bajo ningún concepto ostentará, asumirá o se presentará ante terc
 RACHA STT LLC no permite que un usuario registre y opere más de una cuenta, habida cuenta de las necesidades de adaptar el modelo de negocio a las exigencias legales establecidas por la legislación de prevención de blanqueo de capitales.
 
 EL USUARIO, a partir del momento de la firma del presente contrato, de modo presencial o electrónico, inicia una relación jurídico-contractual únicamente con la sociedad mercantil **RACHA STT LLC**.
-
----
 
 ### 6.2. ADQUISICIÓN DE PARTICIPACIONES 
 
@@ -81,8 +72,6 @@ La participación en RACHA, en sus servicios y productos, implica asumir ciertos
 El valor inicial de cada Participación se establece en: **50 USDC**.  
 Sobre la compra, podrá aplicarse una comisión equivalente al **1%** del importe total de las participaciones, con un límite máximo de **100 USDC por transacción**. Esta comisión tiene como finalidad cubrir costos operativos asociados al proceso de adquisición y gestión de las participaciones.
 
----
-
 ### 6.3. ABONO DE RECOMPENSAS 
 
 Las recompensas se distribuyen una vez alcanzado el umbral del **0,5% del total del valor de las compras de Participaciones**, lo que equivale a **0,25 USDC por Participación activa**. Dichas recompensas se distribuyen en la proporción siguiente:
@@ -90,15 +79,11 @@ Las recompensas se distribuyen una vez alcanzado el umbral del **0,5% del total 
 - **60% para los Socios**, proporcional al número de Participaciones que mantengan activas.  
 - **40% para RACHA**, destinado a cubrir costos operativos, beneficios empresariales y el Plan de Recomendación.
 
----
-
 ### 6.4. PARTICIPACIONES PROMOCIONALES 
 
 RACHA podrá otorgar participaciones promocionales cuando así lo considere oportuno y siempre y cuando estime que no compromete el equilibrio de la “POOL ALL-IN”; dichas promociones vendrán reguladas por sus propios términos y condiciones, en su caso. En ausencia de disposiciones específicas, dichas participaciones no serán retirables ni liquidables, ni computarán para efectos de calificación en el Plan de Compensación. No obstante, podrán generar recompensas mientras se encuentren activas.
 
 RACHA se reserva el derecho a modificar, suspender o dar por finalizada cualquier promoción vigente en cualquier momento, sin necesidad de preaviso, cuando razones operativas, técnicas, comerciales o legales así lo aconsejen.
-
----
 
 ### 6.5. LIQUIDACIÓN DE PARTICIPACIONES 
 
@@ -116,8 +101,6 @@ La liquidación consiste en la solicitud formal del Socio para vender sus Partic
 - **Etapa Liberada (Ciclo 101 en adelante):**  
   Las Participaciones pueden ser vendidas libremente al valor de mercado vigente, cualquiera que sea, superior o inferior al valor de compra y aplicando la fórmula anterior. Se reconoce el 100% del valor acumulado, incluyendo cualquier revalorización.
 
----
-
 #### 6.5.2 Procedimiento de Liquidación 
 
 Las solicitudes de liquidación se tasarán semanalmente, durante la “Ventana de Tasación”, los días lunes entre las **12:00 y las 23:59 (hora peninsular de España)**.
@@ -132,8 +115,6 @@ Se procederá a la realización de las transferencias de los importes oportunos 
 
 En caso de no aceptación de la tasación ofrecida, las Participaciones continuarán activas y generando recompensas.
 
----
-
 #### 6.5.3 Deducción por retiro
 
 De acuerdo con nuestra política de estabilidad, a la tasación descrita anteriormente se le aplicará una deducción del **5%**. Esta deducción se mantendrá dentro de los activos de la “POOL ALL-IN”, con la finalidad de proteger el equilibrio del ecosistema y favoreciendo a los usuarios que deciden permanecer.
@@ -143,17 +124,12 @@ La deducción del 5% actúa como un mecanismo de redistribución interna que tie
 - Reducir la volatilidad interna: al mantener más capital dentro de la “POOL ALL-IN”  
 - Favorecer a quienes apuestan por el largo plazo: la redistribución de esa deducción permanece dentro del sistema, fortaleciendo la posición de los socios que permanecen  
 
----
-
 #### 6.5.4 Suspensión Temporal 
 
 RACHA se reserva el derecho a suspender temporalmente el proceso de liquidación en situaciones excepcionales tales como volatilidad extrema, actualizaciones técnicas críticas, incidentes de seguridad o cambios regulatorios urgentes, debidamente comunicados a través de los canales oficiales.
 
----
 
 ## 7. DISTRIBUIDORES INDEPENDIENTES 
-
----
 
 ### 7.1. SITUACIÓN JURÍDICA DEL USUARIO DISTRIBUIDOR
 
@@ -161,21 +137,15 @@ El usuario que distribuya comercialmente RACHA administra su propio negocio, sin
 
 La relación entre RACHA y EL USUARIO está basada en la total independencia de estas dos entidades, conforme las condiciones de este contrato, por lo que, para todos los efectos y fines, inclusive fiscales, no existe entre las presentes partes ningún vínculo laboral sujeto a la jurisdicción social.
 
----
-
 ### 7.2. GESTIÓN Y RESPONSABILIDAD
 
 EL USUARIO bajo ningún concepto ostentará, asumirá o se presentará ante terceros en condición de empleado, representante o franquiciado de RACHA, bajo pena de que esta última podrá, en el supuesto de incumplimiento de lo anteriormente reseñado, rescindir el presente contrato con justa causa.
 
 EL USUARIO declara que, como distribuidor de los productos y/o servicios de RACHA, es completamente independiente para todos los fines, inclusive fiscales, siendo el único responsable del pago de todos los gastos necesarios para la realización de los negocios relacionados con este Contrato de Distribuidor Independiente.
 
----
-
 ### 7.3. DURACIÓN DEL CONTRATO
 
 El presente contrato es de naturaleza indefinida, siempre que el USUARIO cumpla con las cláusulas de este contrato, así como con los demás documentos descritos en la cláusula cuarta.
-
----
 
 ### 7.4. RESCISIÓN DEL CONTRATO 
 
@@ -194,21 +164,15 @@ RACHA podrá rescindir el contrato en los siguientes supuestos:
 
 En los supuestos de rescisión del presente contrato por la concurrencia de alguna de las causas anteriores, el USUARIO perderá todos los derechos derivados del presente contrato, incluido el cobro de comisiones, las cuales quedarán retenidas por RACHA.
 
----
-
 ### 7.5. EFECTOS DE LA RESCISIÓN 
 
 La rescisión del presente contrato por cualesquiera de sus causas de resolución motivará la pérdida definitiva sin derecho ni acción de reclamación alguna de todos los derechos del USUARIO, no pudiendo continuar en modo alguno con la promoción de los productos y/o servicios de RACHA.
 
 El USUARIO Y RACHA pactan expresamente que en los supuestos de rescisión del contrato el USUARIO no podrá exigir en ningún caso comisión o bonificación, ni indemnización por clientela alguna resultante de su actuación contractual.
 
----
-
 ### 7.6. PROHIBICIONES ABSOLUTAS 
 
 Queda absolutamente prohibido que el USUARIO desarrolle acciones abusivas y/o inadecuadas de captación de otros usuarios. RACHA supervisará que la competencia entre USUARIOS sea adecuada y adoptará en caso contrario las medidas en Derecho que resulten procedentes.
-
----
 
 ### 7.7. ACTIVIDADES SUJETAS A APROBACIÓN 
 
@@ -220,8 +184,6 @@ EL USUARIO necesitará aprobación previa y por escrito de RACHA para llevar a c
 - No está permitido el uso o confección de material para publicidad de la marca, con los símbolos oficiales de RACHA, sin la debida autorización expresa y escrita.
 
 EL USUARIO se compromete a no registrar por sí o por medio de terceros ninguna marca que pueda competir directa o indirectamente con las marcas de RACHA, o cualquier marca o patente que pueda competir directa o indirectamente o sea confundible con las marcas y patentes de RACHA, bajo pena de resolución contractual e indemnización de daños y perjuicios.
-
----
 
 ### 7.8. INFORMACIÓN AL DISTRIBUIDOR 
 
@@ -237,13 +199,10 @@ RACHA nunca compensa a sus USUARIOS por el simple hecho de patrocinar a otros. E
 
 Las condiciones, productos y servicios objeto del contrato, esquemas comerciales y sistemas de compensación de empresas de marketing directo no están sujetos a revisión ni aprobación previa por parte de un organismo público.
 
----
-
 ### 7.9. FORMACIÓN Y CAPTACIÓN 
 
 EL USUARIO puede referir nuevos usuarios dentro del plan de actuación estipulado por RACHA. En cualquier caso, EL USUARIO será responsable de formarlos y supervisarlos a su costa para garantizar que su actuación sea desarrollada de acuerdo con los principios éticos, políticas de procedimientos y postulados del presente contrato, manteniéndose siempre una buena y constructiva relación entre todos los usuarios.
 
----
 
 ## 8. DERECHO SUPLETORIO 
 
@@ -251,13 +210,11 @@ Las presentes condiciones generales de la contratación se regirán por las clá
 
 Los aspectos y situaciones que no fueran expresamente contemplados por el mismo, se regirán por medio de la legislación Civil y Mercantil vigente en cada momento.
 
----
 
 ## 9. DOMICILIO A EFECTOS DE NOTIFICACIONES 
 
 Todas las comunicaciones y notificaciones contractuales se harán efectivas en las direcciones electrónicas indicadas, obligándose aquellas a comunicar recíprocamente cualquier alteración a las direcciones referidas, en el plazo de **15 días a computar desde que se produzca el cambio**, bajo pena de considerar válidamente efectuadas todas las comunicaciones dirigidas a las direcciones indicadas, aunque las partes no las reciban.
 
----
 
 ## 10. TRATAMIENTO Y PROTECCIÓN DE DATOS PERSONALES 
 
@@ -286,7 +243,6 @@ El ejercicio de estos derechos puede realizarse enviando una solicitud formal a 
 
 Cualquier consulta o cuestión legal relacionada con el tratamiento de datos podrá ser dirigida a dicha dirección de contacto.
 
----
 
 ## 11. RECONOCIMIENTO Y FIRMA ELECTRÓNICA 
 
