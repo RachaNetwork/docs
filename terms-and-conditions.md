@@ -96,7 +96,7 @@ La liquidación consiste en la solicitud formal del Socio para vender sus Partic
 
 - **Etapa Limitada (Ciclos 26 a 100):**  
   Se permite la venta únicamente al valor original de compra (50 USDC) o inferior, sin reconocimiento de plusvalía.  
-  La tasación se calculará semanalmente mediante la fórmula: **Valor actual de la cartera ÷ Total de Participaciones Activas**
+  La estimación de su valor (en adelante tasación) se calculará semanalmente mediante la fórmula: **Valor actual de la cartera ÷ Total de Participaciones Activas**
 
 - **Etapa Liberada (Ciclo 101 en adelante):**  
   Las Participaciones pueden ser vendidas libremente al valor de mercado vigente, cualquiera que sea, superior o inferior al valor de compra y aplicando la fórmula anterior. Se reconoce el 100% del valor acumulado, incluyendo cualquier revalorización.
