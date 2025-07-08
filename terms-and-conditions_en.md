@@ -1,207 +1,257 @@
-## GENERAL TERMS AND CONDITIONS OF CONTRACTING FOR THE BUSINESS MODEL KNOWN AS RACHA (AM RACHA).
+# GENERAL TERMS AND CONDITIONS OF THE “RACHA (AM RACHA)” BUSINESS MODEL
 
-## 1).- GENERAL DESCRIPTION
+## 1. GENERAL DESCRIPTION 
 
-These GENERAL CONDITIONS, the legal notice, the Privacy Policy, the Cookies Policy, the ethics manual, and the instrument for the prevention of money laundering and terrorist financing, and any other specific conditions published on this website for the provision of services by RACHA (AM RACHA), are applicable to any person with legal capacity who contracts the services of RACHA (AM RACHA) through the website, the App (iOS/Android) or its Electronic Wallet Platform (hereinafter, the Platform).
+The present **GENERAL TERMS AND CONDITIONS**, Privacy Policy, Legal Notice, Cookie Policy, Ethics Manual, Anti-Money Laundering Instrument (Good Practices), and any other specific conditions published on this website for the provision of services by RACHA (AM RACHA), apply to any legally capable individual who contracts the services of RACHA (AM RACHA) via the web, iOS/Android app, or its electronic wallet platform (hereinafter, the Platform).
 
-RACHA STT LLC with EIN No. 99-4733490, and registered office at 3833 Powerline RD STE 201; FT LAUDERDALE, FL. 33309, is the Company responsible for the website https://racha.network/, and the Platform located on said domain, as well as its content, its main activity being the development of the business model specified in the body of the RACHA (AM RACHA) compensation plan.
+**RACHA STT LLC**, with EIN #99-4733490, and registered office at **3833 Powerline RD STE 201; Fort Lauderdale, FL 33309**, is the company responsible for the web [https://racha.network/ ](https://racha.network/ ), and the platform located under that domain, as well as its content, being its main activity the development of the business model described within the body of RACHA's compensation plan (AM RACHA).
 
-These GENERAL CONDITIONS must be accepted by the user to be able to use the services of the RACHA (AM RACHA) Platform, which will require their prior acceptance through the website https://racha.network/ (hereinafter, Application).
+These GENERAL TERMS AND CONDITIONS must be accepted by the user to access the services provided by the RACHA Platform (AM RACHA), which will require prior acceptance through the web [https://racha.network/ ](https://racha.network/ ) (hereinafter, Application). If these GENERAL TERMS AND CONDITIONS are not accepted during the registration process, the use of the services offered through [https://racha.network/ ](https://racha.network/ ) will be denied.
 
-Failure to accept these GENERAL CONDITIONS in the registration processes for contracting RACHA (AM RACHA) services will make it impossible to use the services of the https://racha.network/ Platform.
+By explicitly accepting these GENERAL TERMS AND CONDITIONS, the user acknowledges full understanding and acceptance of all terms, committing to abide by them.
 
-With the express acceptance of these GENERAL CONDITIONS, it is understood that the user has accepted them in full
-and that, therefore, they have previously read and understood each and every one of the terms, undertaking to comply with all the specifications established therein.
 
-## 2).- PURPOSE OF THE GENERAL CONDITIONS-
+## 2. PURPOSE OF THE GENERAL TERMS AND CONDITIONS 
 
-The purpose of these general conditions is the regulation of the legal relationship of the user of the business model known as <<RACHA>> (also AM RACHA), which aims to make accessible to users their participation in certain projects related to so-called decentralized finance (DeFi, hereinafter), among which is the "ALL IN" POOL, without prejudice to the future implementation of new products and/or services, which will have their own legal regime and treatment, through their specific terms and conditions, all under the principles of a compensation plan based on multi-level marketing as a form of executing our business model.
+The purpose of these general terms and conditions is to regulate the legal relationship between the user of the business model named <<RACHA>> (also AM RACHA), which aims to make accessible to users their participation in certain projects related to decentralized finance (DEFI), including the “POOL ALL-IN”, without prejudice to future implementation of new products and/or services, which may have their own legal regime and treatment, under specific terms and conditions, all under a compensation plan based on multi-level marketing as execution method of our business model.
 
-Users of RACHA (AM RACHA) are expressly informed that the company targets certain projects related to so-called decentralized finance (DeFi, hereinafter), among which is the "ALL IN" POOL, without prejudice to the future development of other products and/or services.
+To achieve such purposes, RACHA signs strategic agreements with trusted third parties, always aiming to execute its core business model.
 
-In order to achieve these objectives, Racha enters into strategic agreements with trusted third parties, always with the purpose of executing its object within its business model.
+In this context, RACHA users must comply with the provisions of these general terms and conditions in order to benefit from RACHA's compensation plan, which is fully described on its website.
 
-In this context, Racha users must comply with the provisions of these general terms and conditions in order to benefit from the advantages of the RACHA compensation plan, which is described unequivocally on its website.
+RACHA informs independent distributors that it may establish a guarantee fund, to which part of the rewards and/or profits corresponding to the company will be allocated, in order to safeguard security and continuity of the project regarding situations of force majeure or unforeseen circumstances that may arise in the future, under the provisions of Florida commercial law (Florida Revised Limited Liability Company Act).
 
-# RACHA GUARANTEE FUND.-
 
-Racha informs independent distributors that it may establish a guarantee fund, to which a part of the rewards and/or profits corresponding to the company will be allocated, in order to safeguard the security and continuity of the project against
-contingencies arising from situations of fortuitous event or force majeure that may occur in the future, under the provisions of the commercial legislation of the North American State of Florida (Florida Revised Limited Liability Company Act).
+## 3. PRODUCTS COMMERCIALIZED BY RACHA 
 
-## 3).- PRODUCTS MARKETED BY THE COMPANY.-
+In compliance with current legislation, we state that RACHA (AM RACHA) will market the products and/or services described on its website, specifically at the following URL:
 
-In compliance with current legislation, it is stated in these terms and conditions that RACHA (AM RACHA) will market the products and/or services described on its website, specifically at the address cited below:
+[https://racha.network/ ](https://racha.network/ )
 
-## https://racha.network/
+The user of RACHA (AM RACHA) hereby declares knowledge of the products described at the aforementioned URL, and willingness to market them if applicable.
 
-The user of RACHA (AM RACHA) hereby declares that they are aware of the products described at the aforementioned web address, and that they are also willing to market them, as applicable.
 
-## 4).- TRADEMARK AND TRADE NAME OF THE COMPANY'S PRODUCTS.-
+## 4. TRADEMARK AND COMMERCIAL NAME 
 
-THE COMPANY will market the products under the trade name and registered trademark literally known as RACHA (AM RACHA), whose image, symbol, letters, and logos have been registered as a trademark, being those displayed below:
-
+RACHA will market its products under the commercial name and registered trademark "RACHA (AM RACHA)", whose image, symbol, letters and logos have been registered as brand.
 ![](https://raw.githubusercontent.com/RachaNetwork/docs/refs/heads/master/logo1.png)
 ![](https://raw.githubusercontent.com/RachaNetwork/docs/refs/heads/master/logo2.png)
 
-## 5).- USER'S RESPONSIBLE DECLARATION FOR RACHA (AM RACHA).-
+## 5. USER'S STATEMENT OF RESPONSIBILITY 
 
-The USER declares that they have read, understand, and unequivocally accept:
+The USER declares having read, understood and accepted in full:
 
-The entire wording of this contract, in addition to: - The terms contained in the Ethics Manual.- The full content of the procedural policies. - ​The document for the prevention of money laundering. - The general and special conditions of the Compensation or Referral Plan, which can be accessed via the web address: https://racha.network/
+- The complete clauses of this agreement  
+- All documents and policies referenced in Clause 1  
+- The general and special conditions of the Compensation Plan, which can be accessed via: [https://racha.network/ ](https://racha.network/ )
 
-THE USER expressly accepts future modifications to this contract, as well as to the other documents cited in this clause, freely giving their express consent at this time. Such modifications will in all cases be published on THE COMPANY's website at least 5 calendar days in advance.
+The USER expressly accepts future modifications of this agreement, as well as other documents referenced in this clause, freely granting explicit consent at this time. These modifications will be communicated via corporate web or official communication channels, with a minimum notice period of 15 days.
 
-## 6).- USER'S OWN MANAGEMENT AND RESPONSIBILITY.-
+The USER begins a legal relationship exclusively with RACHA STT LLC upon signing this contract, whether in person or electronically.
 
-The user will manage their own business, without having any employment relationship whatsoever with THE COMPANY, being responsible for their business acts, as well as their relations with Public Administrations, promoting the distribution of the products and/or services object of this contract, complying with all the rules of the Ethics Manual, procedural policies, compensation plan, and document for the prevention of money laundering, which integrate this Contract, as well as complying with all regulations in force in the country at any given time, especially tax regulations and relations with the State Tax Administration Agencies.
 
-## 7).- USER'S LEGAL STATUS.-
+## 6. END USERS: PARTICIPANTS IN POOL ALL-IN 
 
-The relationship between THE COMPANY and THE USER is based on the complete independence of these two entities, according to the conditions of this contract, so that, for all effects and purposes, including tax purposes, there is no employment link subject to social jurisdiction between the present parties.
+### 6.1. LEGAL STATUS OF THE USER 
 
-THE USER shall under no circumstances hold, assume, or present themselves to third parties as an employee, representative, or franchisee of THE COMPANY, under penalty that the latter may, in the event of non-compliance with the foregoing, terminate this contract with just cause.
+The relationship between RACHA and the USER is based on mutual independence, according to the conditions of this contract, and therefore, for all effects and purposes, including tax-related, there is no employment link or subordination under social jurisdiction.
 
-THE USER declares that, as a distributor of THE COMPANY's products and/or services, they are completely Independent for all purposes, including tax purposes, being solely responsible for the payment of all expenses necessary for carrying out the business related to this Independent Distributor Agreement.
+The USER shall never hold, assume or present himself/herself before third parties as employee, representative or franchisee of RACHA, under penalty of RACHA being able to terminate the contract for cause in case of breach.
 
-RACHA STT LLC. does not permit a user to open more than one account in their name, taking into account the need to adapt the business model to the legal requirements established by the legislation on the prevention of money laundering.
+RACHA STT LLC does not allow a single user to register and operate more than one account, due to the need to align the business model with anti-money laundering regulations.
 
-THE USER, from the moment of signing this contract, whether in person or electronically, initiates a legal-contractual relationship solely with the commercial company RACHA STT LLC.
+### 6.2. PURCHASE OF SHARES 
 
-## 8).- DURATION OF THE CONTRACT.-
+Each Share represents a contract between the User (henceforth, the "Partner") and the “Pool ALL-IN” (set of businesses and providers of RACHA), granting the right to receive periodic rewards distributed across cycles or reward rounds, according to the number of active shares held.
 
-This contract is of an indefinite nature, provided that THE USER complies with the clauses of this contract, as well as with the other documents described in the fourth clause.
+Participation in RACHA, its services and products implies assuming certain risks: high volatility, regulatory changes, possible smart contract failures, and global movements that may affect the generation of rewards. Under no circumstances does RACHA guarantee financial gains to the USER.
 
-## 9).- TERMINATION OF THE CONTRACT AT THE USER'S WILL.-
+The initial value of each share is set at **50 USDC**.  
+Upon purchase, a commission equivalent to **1%** of the total value of shares may be applied, with a maximum limit of **100 USDC per transaction**, intended to cover operational costs associated with acquisition and management.
 
-THE USER may terminate this distribution contract at any time, provided they do so 30 days in advance of the intended termination date, through written communication addressed to the registered office by any means that provide reliable proof of receipt by THE COMPANY, i.e., certified mail with return receipt, burofax, or telegram.
+### 6.3. PAYMENT OF REWARDS 
 
-## 10).- OBJECTIVE CAUSES FOR TERMINATION OF THE CONTRACT AT THE COMPANY'S REQUEST.-
+Rewards are distributed once the threshold of **0.5% of the total value of share purchases** is reached, equivalent to **0.25 USDC per active share**. These rewards are distributed as follows:
 
-❖​ Non-compliance with any of the clauses of this contract.
+- **60% to Partners**, proportionally to the number of active shares they hold.  
+- **40% to RACHA**, covering operational costs, business profits and the Referral Program.
 
- Non-observance of the terms contained in the Ethics Manual.
+### 6.4. PROMOTIONAL SHARES 
 
-❖​ Violations of the provisions in the document for the prevention of money laundering.
+RACHA may grant promotional shares when deemed appropriate, provided they do not compromise the balance of the “POOL ALL-IN”. These promotions will be governed by their own terms and conditions where applicable. In absence of specific provisions, these shares will not be redeemable or withdrawable, nor count toward qualification in the Compensation Plan. However, they may generate rewards while active.
 
-❖​ The publication by any means or procedure, through any channel, especially electronic means such as blogs, social networks (Facebook, Twitter, MySpace, to name just a few non-exclusive examples) or similar platforms, of any negative, injurious, or slanderous comments against THE COMPANY or any of its partners or Administrators, against the trade name and trademark "RACHA (AM RACHA)", or against any of the activities, members, or natural or legal persons contracting with THE COMPANY.
+RACHA reserves the right to modify, suspend or terminate ongoing promotions at any time, without prior notice, when operational, technical, commercial or legal reasons so dictate.
 
-❖​ Lack of respect towards the members, consumers, or employees of THE COMPANY.
+### 6.5. SHARE REDEMPTION 
 
-❖​ Making statements by any means or procedure by THE USER regarding false, misleading, or disproportionate benefits in relation to THE COMPANY's business model.
+Redemption consists of the formal request by the Partner to sell their shares, subject to the following conditions:
 
-❖​ Failure to respond to requests made by THE COMPANY regarding information or inappropriate conduct.
+#### 6.5.1 Stages of Ownership and Evaluation 
 
- Any other conduct by the USER that constitutes a minor or serious offense.
+- **Blocked Stage (Cycles 0 to 25):**  
+  Sale of shares is not allowed. The Partner may not request redemption during this stage.
 
-In cases of termination of this contract due to the occurrence of any of the above causes, THE USER will lose all rights derived from this contract, including the right to collect commissions, which will be withheld by THE COMPANY.
+- **Limited Stage (Cycles 26 to 100):**  
+  Sales are only allowed at original purchase value (50 USDC) or lower, without appreciation recognition.  
+  The evaluation will be calculated weekly using the formula: **Current portfolio value ÷ Total active shares**
 
-## 11).- EFFECTS OF CONTRACT TERMINATION.-
+- **Unlocked Stage (Cycle 101 onward):**  
+  Shares can be sold freely at the current market value, higher or lower than the purchase price, applying the previous formula. 100% of accumulated value, including any appreciation, will be recognized.
 
-The termination of this contract for any of its resolution causes will result in the definitive loss, without any right or claim action whatsoever, of all THE USER's rights, being unable to continue in any way with the promotion of THE COMPANY's products and/or services.
+#### 6.5.2 REDEMPTION PROCEDURE 
 
-THE USER AND THE COMPANY expressly agree that in cases of contract termination, THE USER may not demand any commission or bonus, nor any compensation for clientele resulting from their activity as a USER.
+Requests for redemption will be evaluated weekly during the "Valuation Window", on Mondays from **12:00 to 23:59 (Peninsular Spain Time)**.
 
-## 12).- PROHIBITION OF CONTRACT ASSIGNMENT.-
+Once submitted and eligibility confirmed according to the stage, the valuation will be communicated to the Partner.
 
-THE USER is prohibited from assigning, in whole or in part, their contractual position, under penalty of nullity of this contractual instrument.
+The Partner must accept the valuation formally within 24 hours of receipt, for payment to be made to the registered wallet in the application.
 
-## 13).- NON-EXCLUSIVITY.-
+Transfers will be executed within an estimated **48-hour period**, if this timeframe cannot be met due to external factors, the user will be properly notified.
 
-THE USER does not acquire through this contract any reservation or exclusivity of commercial activity, for which reason THE COMPANY may formalize with third parties contracts equal or similar to this one and/or directly provide the services related to the object of this contract.
+**RACHA reserves the right to perform a new valuation and even cancel or suspend it if, during the period between acceptance and asset transfer, any of the circumstances described in section 6.5.4 occur.**
 
-## 14).- USER'S RESPONSIBILITY.-
+If the valuation is not accepted, the shares will remain active and continue generating rewards.
 
-In carrying out the activity of distributing products or services to end consumers, THE USER has the duty to ensure the complete satisfaction of the consumer, being personally and exclusively responsible for compliance with the rules established in the legislation relating to consumer protection. Consequently, THE USER accepts civil liability arising from damages and losses incurred by THE COMPANY as a result of the USER's imprudence, lack of skill, or negligence in the distribution of the products object of this contract.
+#### 6.5.3 WITHDRAWAL DEDUCTION 
 
-## 15).- OFFERING THE RACHA (AM RACHA) COMPENSATION PLAN TO THIRD PARTIES.-
+According to our stability policy, a deduction of **5%** will be applied to valuations. This deduction is kept within the assets of the “POOL ALL-IN”, protecting the ecosystem and favoring those who choose to stay.
 
-THE USER may recruit new users within the action plan stipulated by THE COMPANY. In any case, THE USER will be responsible for training and supervising them at their own expense to ensure that their actions are carried out in accordance with the ethical principles, procedural policies, and postulates of this contract, always maintaining a good and constructive relationship among all users.
+The 5% deduction acts as an internal redistribution mechanism with three clear objectives:
+- Cover market fluctuations negatively affecting valuation  
+- Reduce internal volatility by keeping capital inside the “POOL ALL-IN”  
+- Encourage long-term commitment: redistribution remains in the system, strengthening the position of those who stay  
 
-The newly recruited USER must sign the corresponding independent distributor contract.
+#### 6.5.4 TEMPORARY SUSPENSION 
 
-## 16).- ABSOLUTE PROHIBITIONS.-
+RACHA reserves the right to temporarily suspend the redemption process in exceptional situations such as extreme volatility, critical technical updates, security incidents, or urgent regulatory changes, to be communicated through official channels.
 
-It is absolutely forbidden for THE USER to carry out abusive and/or inappropriate actions to recruit other users. THE COMPANY will supervise that competition between USERS is appropriate and will adopt, otherwise, the appropriate legal measures.
 
-## 17).- ACTIVITIES SUBJECT TO COMPANY APPROVAL.-
+## 7. INDEPENDENT DISTRIBUTORS 
 
-THE USER will need prior written approval from THE COMPANY to carry out any of the following activities:
+### 7.1. LEGAL STATUS OF THE DISTRIBUTOR 
 
- Advertising, anywhere and by any means, THE COMPANY's products
+The distributor manages his/her own business, having no employment relation whatsoever with RACHA, being personally responsible for commercial actions, relationships with public administrations, promoting the distribution of the products and services defined in this contract, complying with all rules stated in the Ethics Manual, Compensation Plan, and Anti-Money Laundering document, as well as any other policies published on the web and referenced in clause 1.
 
- Incorporating or adopting the trade names of THE COMPANY or its products to carry out the distribution provided for in this Contract.
+For all legal and fiscal purposes, there is no labor link between RACHA and the USER.
 
- Making use of the RACHA (AM RACHA) trademark, trade name, logo, symbol, or other intellectual and advertising properties belonging to or managed by THE COMPANY.
+### 7.2. MANAGEMENT AND ACCOUNTABILITY 
 
- The use or creation of advertising material for the brand, with the official symbols of the company, is not permitted without proper express written authorization.
+The USER shall never act as an employee, representative or franchisee of RACHA, under penalty of immediate termination for cause.
 
-❖​ THE USER undertakes not to register, either by themselves or through third parties, any trademark that may directly or indirectly compete with THE COMPANY's trademarks, or any trademark or patent that may directly or indirectly compete or be confusingly similar to THE COMPANY's trademarks and patents, under penalty of contract termination and compensation for damages.
+The USER declares that, as a distributor of RACHA products and services, he/she is fully independent for all purposes, being solely responsible for paying all expenses required to carry out business activities under this Independent Distributor Agreement.
 
-## 18).- INFORMATION FOR THE USER.-
+### 7.3. CONTRACT DURATION 
 
-THE USER will have access to all information regarding instructions on procedures for purchases, sales, profits, commission payments, deliveries, cancellations, compensation plan, and all relevant data through the web address: https://racha.network/
+This contract has an indefinite duration, provided the USER complies with the clauses of this contract, as well as with other documents described in clause fourth.
 
-Any information or presentation regarding earnings or compensation must be based exclusively on the company's official compensation plan. THE COMPANY offers no guarantee of earnings to THE USER under any circumstances, nor will it be responsible for promises of earnings made by its USERS or by third parties on their behalf, as these earnings depend exclusively on the work and effort of the USERS.
+### 7.4. TERMINATION OF THE CONTRACT 
 
-The professional success of THE USER depends solely on the individual effort of the USER themselves, with no guarantee of receiving any income, benefits, or professional success.
+The USER may terminate the distribution contract at any time, provided a **30-day prior written notice** is given via email to **operaciones@racha.network**.
 
-THE USER receives variable remuneration based solely on the satisfactory distribution and promotion of THE COMPANY's products and services to customers, with no economic compensation or compensation in kind for promoting THE COMPANY's business opportunity or sponsoring new USERS. As a condition for receiving commissions, THE USER must focus primarily on the promotion AND sale of
+RACHA may terminate the contract in the following cases:
 
-Products and Services to customers who are not part of THE COMPANY's commercial network.
+- Breach of any clause  
+- Non-compliance with the Ethics Manual  
+- Violation of the Anti-Money Laundering document  
+- Publishing negative, defamatory or injurious comments about RACHA, its members or administrators, its commercial name and trademark "RACHA (AM RACHA)"  
+- Lack of respect toward employees, customers or workers of RACHA  
+- Making false, misleading or disproportionate earnings claims regarding the RACHA business model  
+- Ignoring communications or improper behavior  
+- Any conduct that constitutes a minor or serious offense  
 
-THE COMPANY never compensates its USERS simply for sponsoring others. THE USER must emphasize the sale of products to the end consumer in all presentations about THE COMPANY's Business Opportunity.
+In such cases, the USER will lose all rights derived from the contract, including unpaid commissions.
 
-The conditions, products, and services object of the contract, commercial schemes, and compensation systems of direct marketing companies are not subject to prior review and approval by a public body.
+### 7.5. EFFECTS OF TERMINATION 
 
-## 19).- PAYMENT OF REWARDS.-
+Termination of the contract entails definitive loss of all rights, with no entitlement to claim anything from RACHA, nor to continue promoting its products and services.
 
-THE USER will receive the rewards to which they are entitled within the payment terms indicated by THE COMPANY.
+It is expressly agreed that in the event of termination, the USER will not be entitled to any commission, bonus, or compensation resulting from contractual performance.
 
-The user may request the liquidation of their purchased participations, these becoming inactive from the moment said request is sent. THE COMPANY will offer a valuation for them based on liquidity and availability criteria of its suppliers and products. In any case, if the purchase to be liquidated has not met the minimum holding period of 25 cycles, a penalty of 20% will be applied to said valuation. The user will be informed through THE COMPANY's channels of the available period for accepting the appraised value. If the user does not accept the offered valuation, the purchases subject to it will remain active for all purposes.
+### 7.6. ABSOLUTE PROHIBITIONS 
 
-## 20).- SUPPLEMENTARY LAW.-
+It is strictly forbidden for the USER to engage in abusive or inappropriate recruitment of other users. RACHA will monitor fair competition among users and take legal action if necessary.
 
-These general conditions of contracting shall be governed by the clauses contained throughout this document, as well as by the other documents described in the fourth clause.
+### 7.7. ACTIVITIES SUBJECT TO APPROVAL 
 
-Aspects and situations not expressly contemplated herein shall be governed by the Civil and Commercial legislation in force at any given time.
+The USER will need prior written approval from RACHA to carry out any of the following activities:
 
-## 21).- ADDRESS FOR COMMUNICATION AND NOTIFICATION PURPOSES.-
+- Advertising RACHA products anywhere and through any means  
+- Using RACHA’s commercial names or product names for distribution  
+- Using the RACHA (AM RACHA) trademark, logo, symbol or intellectual property  
+- Creating or publishing promotional material using RACHA’s official symbols without proper written authorization  
 
-All contractual communications and notifications shall
-be effective at the indicated addresses, with the parties undertaking to mutually communicate any change to the referred addresses within 15 days from the date the change of address occurs, under penalty that all communications addressed to the indicated addresses will be considered validly made, even if the parties do not receive them.
+The USER agrees not to register any mark directly or indirectly competing with RACHA trademarks, or any mark or patent that may be confused with them, under penalty of contractual resolution and damages.
 
-## 22).- PROCESSING AND PROTECTION OF PERSONAL DATA.-
+### 7.8. INFORMATION FOR DISTRIBUTORS 
 
-THE COMPANY's policy strictly complies with the provisions of the PERSONAL DATA PROTECTION LAW of the Republic of Argentina of September 19, 2018, number INLEG-2018- 46290265-APN-PTE, which aims at the comprehensive protection of personal data in order to guarantee the full exercise of the rights of their holders, in accordance with the provisions of article 43, third paragraph, of the NATIONAL CONSTITUTION and the Human Rights Treaties to which the ARGENTINE REPUBLIC is a party.
+The USER will have access to all instructions regarding purchase procedures, sales, profits, commission payments, cancellations, and the compensation plan through [https://racha.network/ ](https://racha.network/ )
 
-In compliance with article 11 of the aforementioned Law, the company's identifying data are displayed via the corporate website, including:
+Any information or presentation regarding earnings must be based solely on the official compensation plan. RACHA makes no earnings guarantees, nor assumes responsibility for income promises made by users or third parties, since all results depend exclusively on personal effort.
 
-​ Company name
+Professional success depends entirely on individual effort, with no guaranteed income, profit or professional achievement.
 
-❖​ Registered office
+Compensation is variable and tied solely to successful distribution and promotion of RACHA products to end users. There is no economic or in-kind compensation for promoting the business opportunity of RACHA or sponsoring new users. As a condition to receiving commissions, the USER must focus mainly on selling to non-RACHA network clients.
 
-❖​ Email address
+RACHA never pays its users simply for sponsoring others. The USER must emphasize end-user sales in all business opportunity presentations.
 
-Personal data collected on the websites must be processed in accordance with the provisions of the G.D.P.R., and must be treated confidentially.
+Terms, products, services, commercial schemes and compensation systems of direct marketing companies are not subject to review or prior approval by a public agency.
 
-Users may exercise the rights of opposition, access and information, rectification, cancellation, and revocation of their authorization for the use of their personal data.
+### 7.9. TRAINING AND RECRUITMENT 
 
-At any time, the INDEPENDENT DISTRIBUTOR may exercise their rights of access, rectification, or cancellation in relation to said data, by directing their request to the address of the owner of the files (the commercial company RACHA STT LLC). Information for exercising your rights can be found in Florida's data protection legislation (Florida Data Privacy Law, https://www.flsenate.gov/Session/Bill/2023/262/BillText/er/PDF). For any litigation related to the terms of this contract, its validity, interpretation, and compliance, the parties agree that the Courts and Tribunals of Florida (United States of America) shall have jurisdiction, expressly waiving any other jurisdiction.
+The USER may refer new users within the business plan established by RACHA. In any case, the USER will be responsible for training and monitoring them at their own expense, ensuring their actions follow ethical principles, procedure policies and contractual guidelines, maintaining a constructive relationship among all users.
 
-Any legal matter that the independent distributor wishes to raise with THE COMPANY may be formulated via email to the following address: info@racha.network
 
-# Acknowledgment and Signature.-
+## 8. SUBSIDIARY LAW 
 
-By signing these general conditions of contracting, the independent distributor acknowledges for all legal purposes that:
+These general terms and conditions will be governed by the clauses contained in this document, as well as by the other documents listed in clause 1.
 
-a)​ I understand that I am entering into a legally binding contract composed of this contract, its clauses, the Policy of Procedures, the Compensation Plan, the document for the prevention of money laundering, and the Ethics Manual, and that I have read, understood, and accept each of these documents.
+All aspects not covered here will be governed by current civil and commercial laws.
 
-b) ​All the information I provide to THE COMPANY is accurate and complete.
 
-c)​ I have sufficient legal capacity to contract and act as a USER.
+## 9. ADDRESS FOR NOTIFICATIONS 
 
-d).- That the independent distributor is entering into an electronic contract.
+All contractual communications and notifications will be effective at the indicated electronic addresses, requiring reciprocal notification of any change within **15 days of occurrence**, under penalty of considering communications sent to previous contacts as validly delivered, even if not received.
 
-As is well known, an electronic contract is perfected once the acceptor's declaration of will is issued by clicking, without it being possible for the offeror to ignore it without acting in bad faith. In this sense, in consumer contracts concluded over the internet, according to Florida commercial legislation, consent exists from the moment acceptance is manifested. Therefore, the contract is perfected, for example, when we complete and accept the automated purchase form, regardless of the offeror's obligation to confirm receipt of acceptance, a confirmation whose value is merely informative and whose absence has no relevance to the perfection of the contract. What is relevant, therefore, is that the offeror can have proof of the acceptance of the offer: at that moment it will be understood that acceptance has been received.
 
-Thus, the legal regime of the electronic contract determines that contracts concluded over the internet are a species within the genus of distance consumer contracts. They can be defined as those consumer contracts that are concluded - naturally, between a supplier and a consumer - mediated 'exclusively' by the use of 'electronic' and 'distance' communication means, so that the conclusion of the contract can take place 'without the simultaneous physical presence' of the contracting parties, 'regardless of its object'. These are contracts concluded by adhesion to pre-drafted general clauses, or simply contracts by electronic adhesion, since the user accesses the content published by sellers through the sales portal, where they observe the product description, photos, videos, delivery conditions, seller's location, and price, among other qualities, having to click the 'buy' button to perfect the contract, without any possibility of discussing the contracting clauses. That is, the selling party is the one who, through the technique of predisposition, formulates all the contractual clauses, before which the user only has two options: to consent according to the clauses stipulated by the seller or not to give their consent, and therefore, not to contract.
+## 10. PERSONAL DATA PROTECTION 
+
+RACHA's privacy policy strictly complies with data protection laws in the State of Florida.
+
+Users are informed of identifying data via the corporate site:
+
+- Corporate name: **RACHA STT LLC**  
+- Registered address: **3833 Powerline RD, STE 201, Fort Lauderdale, FL, 33309, United States**  
+- Email: **operaciones@racha.network**
+
+Personal data collected on our websites will be processed in accordance with Florida data protection laws.
+
+The USER consents for RACHA STT LLC to store voluntarily provided personal data in a database, and to use them for business development and commercial purposes, either alone or in collaboration with third parties.
+
+Users may:
+
+- Request access to their personal data  
+- Request correction or deletion  
+- Request information about collection, usage and disclosure  
+- Object to certain processing  
+- Request their data not be sold or shared with third parties  
+
+Such rights may be exercised by sending a formal request to RACHA STT LLC via email to: **operaciones@racha.network**. RACHA will respond within the legal timeframes.
+
+Any legal issue concerning data processing can be directed to the above contact address.
+
+
+## 11. ACKNOWLEDGEMENT AND ELECTRONIC SIGNATURE 
+
+By signing these general terms and conditions, the independent distributor recognizes for all legal purposes that:
+
+a) He/she understands that he/she is entering into a legally binding contract composed of this agreement, its clauses, the Procedure Policies, the Compensation Plan, the Anti-Money Laundering document, and the Ethics Manual, and that he/she has read, understood and accepted each of these documents.
+
+b) All information provided to RACHA is accurate and complete.
+
+c) He/she has sufficient legal capacity to enter into contracts and to act as a USER.
+
+d) That the independent distributor is entering into an electronic contract.
+
+As widely known, the electronic contract is perfected once the will declaration of the accepting party is issued via click, without being ignored by the offeror without breaching good faith. Therefore, in consumer contracts entered via internet, under Florida commercial law, there is consent upon manifestation. Thus, the contract is perfected, for example, when completing and accepting the automated purchase form, regardless of the seller confirming reception, which is merely informative. What matters is that the offeror can verify the acceptance: at that moment it will be considered received.
+
+Thus, the legal framework of electronic contracts determines that internet-entered consumer contracts are a species within the category of distance-sold consumer contracts. They may be defined as consumer contracts naturally entered between a provider and a consumer, using exclusively electronic communication and remote interaction, allowing contract formation without simultaneous physical meeting, independently of its object. These are contracts of adherence to pre-set clauses, or simply electronic adhesion contracts, as the user accesses the content published by sellers through the sales portal, observing product description, photos, videos, delivery conditions, vendor location and price, and clicking the "buy" button to finalize the contract, with no possibility of negotiating clauses. That is, the seller sets the entire contractual framework, and the user only has two options: agree or reject.
