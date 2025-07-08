@@ -30,9 +30,9 @@ Los datos personales comunicados por el usuario a *RACHA STT LLC* pueden ser alm
 
 No obstante, el usuario debe ser consciente de que las medidas de seguridad de los sistemas informáticos en Internet no son enteramente fiables y que, por tanto *RACHA STT LLC* no puede garantizar la inexistencia de malware u otros elementos que puedan producir alteraciones en los sistemas informáticos (software y hardware) del usuario o en sus documentos electrónicos y ficheros contenidos en los mismos, aunque se ponen todos los medios necesarios y las medidas de seguridad oportunas para evitar la presencia de estos elementos dañinos.
 
-## Datos personales que recabamos y cómo lo hacemos
+## Política de privacidad: Datos personales que recabamos y cómo lo hacemos
 
-Puedes consultar toda la información relativa a los datos personales que recogemos en la página de [política de privacidad](#).
+Puedes consultar toda la información relativa a los datos personales que recogemos y su tratamiento en los [TÉRMINOS Y CONDICIONES GENERALES DEL MODELO DE NEGOCIO “RACHA (AM RACHA)”](https://racha.network/tyc) y [Política de Cookies](https://racha.network/cookies).
 
 ## Contenidos
 
