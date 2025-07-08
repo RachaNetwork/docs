@@ -1,211 +1,339 @@
-## CONDICIONES GENERALES DE LA CONTRATACIÓN DEL MODELO DE NEGOCIO DENOMINADO RACHA (AM RACHA). 
+# TÉRMINOS Y CONDICIONES GENERALES DEL MODELO DE NEGOCIO “RACHA (AM RACHA)”
 
-## 1).- DESCRIPCIÓN GENERAL
+## ÍNDICE DE CONTENIDOS
 
-Las presentes CONDICIONES GENERALES, el Aviso Legal, la Política de Privacidad, la Política de Cookies, el manual de ética, y el instrumento de prevención de blanqueo de capitales y financiación del terrorismo, y cualesquiera otras condiciones específicas publicadas en la presente web para la prestación de servicios por RACHA (AM RACHA), son aplicables a toda persona con capacidad legal que contrate los servicios de RACHA (AM RACHA)a través de la web, de la App (iOS/Android) o de su Plataforma de monedero electrónico (en adelante, la Plataforma). 
+1. [Descripción General](#1-descripción-general)  
+2. [Objeto de las Condiciones Generales](#2-objeto-de-las-condiciones-generales)  
+3. [Productos Comercializados por RACHA](#3-productos-comercializados-por-racha)  
+4. [Marca y Nombre Comercial](#4-marca-y-nombre-comercial)  
+5. [Declaración Responsable del USUARIO](#5-declaración-responsable-del-usuario)  
+6. [Usuarios Finales: Participantes en la Pool ALL-IN](#6-usuarios-finales-participantes-en-la-pool-all-in)  
+ 6.1. [Situación Jurídica del Usuario](#61-situación-jurídica-del-usuario)  
+ 6.2. [Adquisición de Participaciones](#62-adquisición-de-participaciones)  
+ 6.3. [Abono de Recompensas](#63-abono-de-recompensas)  
+ 6.4. [Participaciones Promocionales](#64-participaciones-promocionales)  
+ 6.5. [Liquidación de Participaciones](#65-liquidación-de-participaciones)  
+  6.5.1. [Etapas de Tenencia y Tasación](#651-etapas-de-tenencia-y-tasación)  
+  6.5.2. [Procedimiento de Liquidación](#652-procedimiento-de-liquidación)  
+  6.5.3. [Deducción por retiro](#653-deducción-por-retiro)  
+  6.5.4. [Suspensión Temporal](#654-suspensión-temporal)  
+7. [Distribuidores Independientes](#7-distribuidores-independientes)  
+ 7.1. [Situación Jurídica del Usuario Distribuidor](#71-situación-jurídica-del-usuario-distribuidor)  
+ 7.2. [Gestión y Responsabilidad](#72-gestión-y-responsabilidad)  
+ 7.3. [Duración del Contrato](#73-duración-del-contrato)  
+ 7.4. [Rescisión del Contrato](#74-rescisión-del-contrato)  
+ 7.5. [Efectos de la Rescisión](#75-efectos-de-la-rescisión)  
+ 7.6. [Prohibiciones Absolutas](#76-prohibiciones-absolutas)  
+ 7.7. [Actividades Sujetas a Aprobación](#77-actividades-sujetasa-aprobación)  
+ 7.8. [Información al Distribuidor](#78-información-al-distribuidor)  
+ 7.9. [Formación y Captación](#79-formación-y-captación)  
+8. [Derecho Supletorio](#8-derecho-supletorio)  
+9. [Domicilio a Efectos de Notificaciones](#9-domicilio-a-efectos-de-notificaciones)  
+10. [Tratamiento y Protección de Datos Personales](#10-tratamiento-y-protección-de-datos-personales)  
+11. [Reconocimiento y Firma Electrónica](#11-reconocimiento-y-firma-electrónica)
 
-RACHA STT LLC con EIN n.º 99-4733490, y domicilio social en 3833 Powerl ine RD STE 201; FT LAUDERDALE, FL.33309,es la Sociedad responsable de la web https://racha.network/, y de la Plataforma ubicada en dicho dominio, así como de su contenido, siendo su actividad principal el desarrollo del modelo de negocio determinado en el cuerpo del plan de compensación de RACHA (AM RACHA). 
+---
 
-Las presentes CONDICIONES GENERALES deberán ser aceptadas por el usuario para poder utilizar los servicios de la Plataforma de RACHA (AM RACHA) que requerirán su previa aceptación a través de la web https://racha.network/ (en adelante,Aplicación). 
+## 1. DESCRIPCIÓN GENERAL {#1-descripción-general}
 
-En caso de no aceptar estas CONDICIONES GENERALES en los procesos de registro para la contratación de los servicios de RACHA (AM RACHA), se imposibilitará la utilización de los servicios de la Plataforma de https://racha.network/ 
+Las presentes **CONDICIONES GENERALES**, el Aviso Legal, la Política de Privacidad, la Política de Cookies, el Manual de Ética, y el Instrumento de Prevención de Blanqueo de Capitales y Financiación del terrorismo (Buenas Prácticas), así como cualesquiera otras condiciones específicas publicadas en la presente web para la prestación de servicios por RACHA (AM RACHA), son aplicables a toda persona con capacidad legal que contrate los servicios de RACHA (AM RACHA) a través de la web, de la App (iOS/Android) o de su Plataforma de monedero electrónico (en adelante, la Plataforma).
 
-Con la aceptación expresa de las presentes CONDICIONES GENERALES, se entiende que el usuario ha aceptado íntegramente 
+**RACHA STT LLC**, con EIN n.º 99-4733490, y domicilio social en **3833 Powerline RD STE 201; Fort Lauderdale, FL. 33309, United States**, es la Sociedad responsable de la web [https://racha.network/ ](https://racha.network/ ), y de la Plataforma ubicada en dicho dominio, así como de su contenido, siendo su actividad principal el desarrollo del modelo de negocio determinado en el cuerpo del plan de compensación de RACHA (AM RACHA).
 
-las mismas y que, por tanto, previamente ha leído y entendido todos y cada uno de los términos, obligándose a cumplir todas las especificaciones establecidas en las mismas. 
+Las presentes CONDICIONES GENERALES deberán ser aceptadas por el usuario para poder utilizar los servicios de la Plataforma de RACHA (AM RACHA) que requerirán su previa aceptación a través de la web [https://racha.network/ ](https://racha.network/ ) (en adelante, Aplicación). En caso de no aceptar estas CONDICIONES GENERALES en los procesos de registro para la contratación de los servicios de RACHA (AM RACHA), se imposibilita la utilización de los servicios de la Plataforma de [https://racha.network/ ](https://racha.network/ )
 
-## 2).- OBJETO DE LAS CONDICIONES GENERALES-
+Con la aceptación expresa de las presentes CONDICIONES GENERALES, se entiende que el usuario ha aceptado íntegramente las mismas y que, por tanto, previamente ha leído y entendido todos y cada uno de los términos, obligándose a cumplir todas las especificaciones establecidas en las mismas.
 
-Las presentes condiciones generales tienen por objeto la regulación de la relación jurídica del usuario del modelo de negocio denominado &lt;&lt;RACHA&gt;&gt; (también AM RACHA), el cual tiene por objeto hacer accesible a usuarios su participación en determinados proyectos relacionados con las denominadas finanzas descentralizadas (DEFI, en lo sucesivo), entre las que se encuentra el POOL “ALL IN”, sin perjuicio de la implementación futura de nuevos productos y/o servicios, los cuales tendrán un régimen y tratamiento jurídico propios,mediante sus términos y condiciones específico, todo ello bajo los postulados de un plan de compensación basado en el marketing multinivel como forma de ejecución de nuestro modelo de negocio. 
+---
 
-Se informa expresamente a los usuarios de RACHA (AM RACHA)que la empresa tiene como objetivo determinados proyectos relacionados con las denominadas finanzas descentralizadas (DEFI, en lo sucesivo), entre las que se encuentra el POOL “ALL IN”, sin perjuicio del futuro desarrollo de otros productos y/o servicios. 
+## 2. OBJETO DE LAS CONDICIONES GENERALES {#2-objeto-de-las-condiciones-generales}
 
-En orden a la consecución de tales objetivos Racha suscribe acuerdos estratégicos con terceros de confianza, siempre con la finalidad de ejecutar su objeto dentro de su modelo de negocio. 
+Las presentes condiciones generales tienen por objeto la regulación de la relación jurídica del usuario del modelo de negocio denominado <<RACHA>> (también AM RACHA), el cual tiene por objeto hacer accesible a usuarios su participación en determinados proyectos relacionados con las denominadas finanzas descentralizadas (DEFI, en lo sucesivo), entre las que se encuentra la “POOL ALL-IN”, sin perjuicio de la implementación futura de nuevos productos y/o servicios, los cuales podrían tener un régimen y tratamiento jurídico propios, mediante sus términos y condiciones específicos, todo ello bajo los postulados de un plan de compensación basado en el marketing multinivel como forma de ejecución de nuestro modelo de negocio.
 
-En este contexto, los usuarios de Racha deberán dar cumplimiento a las disposiciones de los presentes términos y condiciones general en orden a poder beneficiarse de los beneficios del plan de compensación de RACHA, el cual se describe sin ambages en su website. 
+En orden a la consecución de tales objetivos, RACHA suscribe acuerdos estratégicos con terceros de confianza, siempre con la finalidad de ejecutar su objeto dentro de su modelo de negocio.
 
-# FONDO DE GARANTÍA DE RACHA.-
+En este contexto, los usuarios de RACHA deberán dar cumplimiento a las disposiciones de los presentes términos y condiciones generales en orden a poder beneficiarse del plan de compensación de RACHA, el cual se describe sin ambages en su web.
 
-Racha comunica a los distribuidores independientes que podráconstituir un fondo de garantía, al que irán destinadas una parte de las recompensas y/o beneficios que correspondan a la empresa y ello en orden a salvaguardar la seguridad y continuidad del proyecto respecto de las 
+RACHA comunica a los distribuidores independientes que podrá constituir un fondo de garantía, al que irán destinadas una parte de las recompensas y/o beneficios que correspondan a RACHA y ello en orden a salvaguardar la seguridad y continuidad del proyecto respecto de las contingencias derivadas de las situaciones de caso fortuito o fuerza mayor que puedan sobrevenir en el futuro, y ello al amparo de lo dispuesto en la legislación comercial del Estado norteamericano de Florida (Florida Revised Limited Liability Company Act).
 
-contingencias derivadas de las situaciones de caso fortuito o fuerza mayor que puedan sobrevenir en el futuro, y ello al amparo de lo dispuesto en la legislación comercial del Estado norteamericano de Florida (Florida Revised Limited Liability Company Act). 
+---
 
-## 3).- PRODUCTOS COMERCIALIZADOS POR LA EMPRESA.-
+## 3. PRODUCTOS COMERCIALIZADOS POR RACHA {#3-productos-comercializados-por-racha}
 
-En cumplimiento de la legislación vigente se hace constar en los presentes términos y condiciones que RACHA (AM RACHA)comercializará los productos y/o servicios descritos en su página web, y concretamente en la dirección que a continuación se cita: 
+En cumplimiento de la legislación vigente se hace constar en los presentes términos y condiciones que RACHA (AM RACHA) comercializará los productos y/o servicios descritos en su página web, y concretamente en la dirección que a continuación se cita:
 
-## https://racha.network/
+[https://racha.network/ ](https://racha.network/ )
 
-El usuario de RACHA (AM RACHA)declara en este acto que conoce los productos descritos en la anterior dirección web, y que asimismo está dispuesto a comercializarlos, en su caso. 
+El usuario de RACHA (AM RACHA) declara en este acto que conoce los productos descritos en la anterior dirección web, y que asimismo está dispuesto a comercializarlos, en su caso.
 
-## 4).- MARCA Y NOMBRE COMERCIAL DE LOS PRODUCTOS DE LA EMPRESA.-
+---
 
-LA EMPRESA comercializará los productos bajo el nombre comercial y marca registrada denominada literalmente RACHA (AM RACHA), cuya imagen, símbolo, letras y logotipos, han sido registrados como marca, siendo los que se exhiben a continuación: 
+## 4. MARCA Y NOMBRE COMERCIAL {#4-marca-y-nombre-comercial}
 
+RACHA comercializará los productos bajo el nombre comercial y marca registrada denominada literalmente **RACHA (AM RACHA)**, cuya imagen, símbolo, letras y logotipos, han sido registrados como marca, siendo los que se exhiben a continuación:
 ![](https://raw.githubusercontent.com/RachaNetwork/docs/refs/heads/master/logo1.png)
 ![](https://raw.githubusercontent.com/RachaNetwork/docs/refs/heads/master/logo2.png)
 
+---
 
-## 5).- DECLARACIÓN RESPONSABLE DEL USUARIO DE RACHA (AM RACHA).-
+## 5. DECLARACIÓN RESPONSABLE DEL USUARIO {#5-declaración-responsable-del-usuario}
 
 El USUARIO declara que ha leído, entiende y acepta sin ambages:
 
-La totalidad del clausulado del presente contrato,además de: - Los términos de que consta el Manual de Ética.- El contenido íntegro de las políticas de procedimientos. - ​El documento de prevención del blanqueo de capitales. - Las condiciones generales y especiales del Plan de compensación o referidos, al que puede tener acceso a través de la dirección web: https://racha.network/
+● La totalidad del clausulado del presente contrato  
+● La totalidad de documentos y políticas citados en la cláusula primera  
+● Las condiciones generales y especiales del Plan de Compensación o referidos, al que puede tener acceso a través de la dirección web: [https://racha.network/ ](https://racha.network/ )
 
-EL USUARIO acepta expresamente las modificaciones futuras del presente contrato, así como de los demás documentos que se citan en la presente cláusula, prestando libremente en este momento su expreso consentimiento. Dichas modificaciones serán en todo caso publicadas en la página web de LA EMPRESA con una antelación mínima de 5 días naturales. 
+EL USUARIO acepta expresamente las modificaciones futuras del presente contrato, así como de los demás documentos que se citan en la presente cláusula, prestando libremente en este momento su expreso consentimiento. Dichas modificaciones serán informadas desde la página web de RACHA y/o comunicadas por los canales oficiales de RACHA con una antelación mínima de 15 días naturales.
 
-## 6).- GESTIÓN Y RESPONSABILIDAD PROPIA DEL USUARIO.-
+EL USUARIO, a partir del momento de la firma del presente contrato, de modo presencial o electrónico, inicia una relación jurídico-contractual únicamente con la sociedad mercantil **RACHA STT LLC**.
 
-El usuario administrará su propio negocio, sin tener relación en ningún caso de carácter laboral alguna con LA EMPRESA,siendo responsable de sus actos negóciales, así como de sus relaciones con las Administraciones Públicas, promoviendo la distribución de los productos, y/o servicios objeto del presente contrato, cumpliendo todas las normas del Manual de Ética, políticas de procedimientos, plan de compensación, y documento de prevención del blanqueo de capitales, los cuales integran el presente Contrato, así como cumpliendo todas las normas vigentes en el país en vigor en cada momento,especialmente las fiscales y las relaciones con las Agencias Estatales de Administración Tributaria. 
+---
 
-## 7).- SITUACIÓN JURÍDICA DEL USUARIO.-
+## 6. USUARIOS FINALES: PARTICIPANTES EN LA POOL ALL-IN {#6-usuarios-finales-participantes-en-la-pool-all-in}
 
-La relación entre LA EMPRESA y EL USUARIO está basada en la total independencia de estas dos entidades, conforme las condiciones de este contrato, por lo que, para todos los efectos y fines, inclusive fiscales, no existe entre las presentes partes ningún vínculo laboral sujeto a la jurisdicción social. 
+---
 
-EL USUARIO bajo ningún concepto ostentará, asumirá o se presentará ante terceros en condición de empleado,representante o franquiciado de LA EMPRESA, bajo pena de que esta última podrá, en el supuesto de incumplimiento de lo anteriormente reseñado, rescindir el presente contrato con justa causa. 
+### 6.1. SITUACIÓN JURÍDICA DEL USUARIO {#61-situación-jurídica-del-usuario}
 
-EL USUARIO declara que, como distribuidor de los productos y/o servicios de LA EMPRESA, es completamente Independiente para todos los fines, inclusive fiscales, siendo el único responsable del pago de todos los gastos necesarios para la realización de los negocios relacionados con este Contrato de Distribuidor Independiente. 
+La relación entre RACHA y EL USUARIO está basada en la total independencia de estas dos entidades, conforme las condiciones de este contrato, por lo que, para todos los efectos y fines, inclusive fiscales, no existe entre las presentes partes ningún vínculo laboral sujeto a la jurisdicción social.
 
-RACHA STT LLC., no permite que un usuario apertura más de una cuenta a su nombre, habida cuenta de las necesidades de adaptar el modelo de negocio a las exigencias legales establecidas por la legislación de prevención de blanqueo de capitales. 
+EL USUARIO bajo ningún concepto ostentará, asumirá o se presentará ante terceros en condición de empleado, representante o franquiciado de RACHA, bajo pena de que esta última podrá, en el supuesto de incumplimiento de lo anteriormente reseñado, rescindir el presente contrato con justa causa.
 
-EL USUARIO, a partir del momento de la firma del presente contrato, de modo presencial o electrónico, inicia una relación jurídico-contractual únicamente con la sociedad mercantil RACHA STT LLC. 
+RACHA STT LLC no permite que un usuario registre y opere más de una cuenta, habida cuenta de las necesidades de adaptar el modelo de negocio a las exigencias legales establecidas por la legislación de prevención de blanqueo de capitales.
 
-## 8).- DURACIÓN DEL CONTRATO.-
+EL USUARIO, a partir del momento de la firma del presente contrato, de modo presencial o electrónico, inicia una relación jurídico-contractual únicamente con la sociedad mercantil **RACHA STT LLC**.
 
-El presente contrato es de naturaleza indefinida, siempre que el USUARIO cumpla con las cláusulas de este contrato, asícomo con los demás documentos descritos en la cláusula cuarta. 
+---
 
-## 9).- RESCISIÓN DEL CONTRATO POR VOLUNTAD DEL USUARIO.-
+### 6.2. ADQUISICIÓN DE PARTICIPACIONES {#62-adquisición-de-participaciones}
 
-EL USUARIO puede rescindir el presente contrato de distribución en cualquier momento, siempre que lo haga con 30días de antelación en relación al término pretendido, a través de comunicación escrita dirigida al domicilio social por alguno de los medios que dejen constancia fehaciente de su recepción por parte de LA EMPRESA, esto es, correo certificado con acuse de recibo, burofax o telegrama. 
+Cada Participación representa un contrato entre el Usuario (en adelante, el "Socio") y la “Pool ALL-IN” (conjunto de Negocios y Proveedores de RACHA), otorgándole derecho a percibir recompensas periódicas distribuidas en Ciclos o repartos de recompensas, conforme al número de Participaciones activas que posea.
 
-## 10).- CAUSAS OBJETIVAS DE RESCISIÓN DEL CONTRATO A INSTANCIA DE LA EMPRESA.- 
+La participación en RACHA, en sus servicios y productos, implica asumir ciertos riesgos: alta volatilidad, cambios regulatorios, posibles fallos en contratos inteligentes y movimientos globales que pueden afectar a la generación de recompensas. En ningún caso RACHA garantiza beneficios al USUARIO.
 
-❖​ El incumplimiento de cualquier de las cláusulas del presente contrato. 
+El valor inicial de cada Participación se establece en: **50 USDC**.  
+Sobre la compra, podrá aplicarse una comisión equivalente al **1%** del importe total de las participaciones, con un límite máximo de **100 USDC por transacción**. Esta comisión tiene como finalidad cubrir costos operativos asociados al proceso de adquisición y gestión de las participaciones.
 
- La inobservancia de los términos de que consta el Manual de Ética. 
+---
 
-❖​ Las vulneraciones de lo dispuesto en el documento de prevención del blanqueo de capitales. 
+### 6.3. ABONO DE RECOMPENSAS {#63-abono-de-recompensas}
 
-❖​ La publicación en por cualquier medio o procedimiento,por cualquier vía, especialmente la electrónica en blogs, redes sociales (facebook, twitter, my space, por citar sólo algunas sin carácter exclusivo ni exhaustivo) o análogas, de cualesquiera comentarios negativos, injuriosos o calumniosos contra LA EMPRESA o cualquiera de sus socios o Administradores, contra el nombre comercial y marca "RACHA (AM RACHA)", o contra cualquiera las actividades, miembros o personas físicas o jurídicas contratantes de LA EMPRESA. 
+Las recompensas se distribuyen una vez alcanzado el umbral del **0,5% del total del valor de las compras de Participaciones**, lo que equivale a **0,25 USDC por Participación activa**. Dichas recompensas se distribuyen en la proporción siguiente:
 
-❖​ Las falta de respeto para con los miembros,consumidores o trabajadores de LA EMPRESA. 
+- **60% para los Socios**, proporcional al número de Participaciones que mantengan activas.  
+- **40% para RACHA**, destinado a cubrir costos operativos, beneficios empresariales y el Plan de Recomendación.
 
-❖​ Verter por cualquier medio o procedimiento por parte del USUARIO manifestaciones relativas a beneficios falsos, engañosos o desproporcionados en relación con el modelo de negocio de LA EMPRESA. 
+---
 
-❖​ No atender a los requerimientos efectuados por LA EMPRESA en relación con informaciones o con conductas inapropiadas. 
+### 6.4. PARTICIPACIONES PROMOCIONALES {#64-participaciones-promocionales}
 
-Cualquiera otra conducta del USUARIO que por su entidad sea constitutiva de delito leve o grave. 
+RACHA podrá otorgar participaciones promocionales cuando así lo considere oportuno y siempre y cuando estime que no compromete el equilibrio de la “POOL ALL-IN”; dichas promociones vendrán reguladas por sus propios términos y condiciones, en su caso. En ausencia de disposiciones específicas, dichas participaciones no serán retirables ni liquidables, ni computarán para efectos de calificación en el Plan de Compensación. No obstante, podrán generar recompensas mientras se encuentren activas.
 
-En los supuestos de rescisión del presente contrato por la concurrencia de alguna de las causas anteriores, el USUARIO perderá todos los derechos derivados del presente contrato,incluido el del cobro de comisiones, las cuales quedarán retenidas por LA EMPRESA. 
+RACHA se reserva el derecho a modificar, suspender o dar por finalizada cualquier promoción vigente en cualquier momento, sin necesidad de preaviso, cuando razones operativas, técnicas, comerciales o legales así lo aconsejen.
 
-## 11).- EFECTOS DE LA RESCISIÓN DEL CONTRATO.-
+---
 
-La rescisión del presente contrato por cualesquiera de sus causas de resolución, motivará la pérdida definitiva sin derecho ni acción de reclamación alguna de todos los derechos del USUARIO, no pudiendo continuar en modo alguno con la promoción de los productos y/o servicios de LA EMPRESA. 
+### 6.5. LIQUIDACIÓN DE PARTICIPACIONES {#65-liquidación-de-participaciones}
 
-El USUARIO Y LA EMPRESA pactan expresamente que en los supuestos de rescisión del contrato el USUARIO no podráexigir en ningún comisión o bonificación, ni indemnización por clientela alguna resultantes de su actuación como USUARIO. 
+La liquidación consiste en la solicitud formal del Socio para vender sus Participaciones, sujeta a las siguientes condiciones:
 
-## 12).- PROHIBICIÓN DE CESIÓN DEL CONTRATO.-
+#### 6.5.1 Etapas de Tenencia y Tasación {#651-etapas-de-tenencia-y-tasación}
 
-EL USUARIO tiene la prohibición de ceder, en todo o en parte su posición contractual, bajo pena de nulidad del presente instrumento contractual. 
+- **Etapa Bloqueada (Ciclos 0 a 25):**  
+  No se permite la venta de Participaciones. El Socio no podrá solicitar liquidación alguna durante este periodo.
 
-## 13).- NO EXCLUSIVIDAD.-
+- **Etapa Limitada (Ciclos 26 a 100):**  
+  Se permite la venta únicamente al valor original de compra (50 USDC) o inferior, sin reconocimiento de plusvalía.  
+  La tasación se calculará semanalmente mediante la fórmula: **Valor actual de la cartera ÷ Total de Participaciones Activas**
 
-EL USUARIO no adquiere por medio del presente contrato ninguna reserva o exclusividad de actuación comercial, razón por la cual LA EMPRESA podrá formalizar con terceros,contratos iguales o semejantes al presente y/o prestar directamente los servicios relativos al objeto de este contrato. 
+- **Etapa Liberada (Ciclo 101 en adelante):**  
+  Las Participaciones pueden ser vendidas libremente al valor de mercado vigente, cualquiera que sea, superior o inferior al valor de compra y aplicando la fórmula anterior. Se reconoce el 100% del valor acumulado, incluyendo cualquier revalorización.
 
-## 14).- RESPONSABILIDAD DEL USUARIO.-
+---
 
-En el desarrollo de la actividad de distribución de los productos o servicios a los consumidores finales, el USUARIO tiene el deber de procurar la satisfacción íntegra del consumidor, siendo personal y exclusivamente responsable del cumplimiento de las normas establecidas en la legislación relativa a la defensa del consumidor. En consecuencia, EL USUARIO acepta la responsabilidad civil derivada de los daños y perjuicios que a LA EMPRESA se le irroguen, como consecuencia de la imprudencia, impericia o negligencia del USUARIO como consecuencia de la distribución de los productos objeto del presente contrato. 
+#### 6.5.2 Procedimiento de Liquidación {#652-procedimiento-de-liquidación}
 
-## 15).- OFERTA A TERCEROS DEL PLAN DE COMPESACIÓN DE RACHA (AM RACHA).- 
+Las solicitudes de liquidación se tasarán semanalmente, durante la “Ventana de Tasación”, los días lunes entre las **12:00 y las 23:59 (hora peninsular de España)**.
 
-EL USUARIO puede reclutar nuevos usuarios dentro del plan de actuación estipulado por LA EMPRESA. En cualquier caso, EL USUARIO será responsable de formarles y supervisarles a su costa para garantizar que su actuación sea desarrollada de acuerdo con los principios éticos, políticas de procedimientos y postulados del presente contrato,manteniéndose siempre una buena y constructiva relación entre todos los usuarios. 
+Una vez presentada la solicitud y validada la elegibilidad del Socio según la etapa correspondiente, se procederá a notificarle la tasación aplicable.
 
-El nuevo USUARIO reclutado deberá firmar el correspondiente contrato de distribuidor independiente. 
+El Socio deberá aceptar expresamente dicha tasación para que se realice el abono en su wallet registrada en la Aplicación, dentro de las 24 horas siguientes a la recepción de la misma.
 
-## 16).- PROHIBICIONES ABSOLUTAS.-
+Se procederá a la realización de las transferencias de los importes oportunos en un plazo estimado de **48 horas**, si dicho plazo no pudiera observarse por causas ajenas a RACHA, el Usuario sería debidamente informado.
 
-Queda absolutamente prohibido que el USUARIO desarrolle acciones abusivas y/o inadecuadas de captación de otros usuarios. LA EMPRESA supervisará que la competencia entre USUARIOS sea adecuada y adoptará en caso contrario las medidas en Derecho que resulten procedentes. 
+**RACHA se reserva el derecho a realizar una nueva tasación e incluso cancelarla o suspenderla si, durante el periodo transcurrido entre la aceptación del precio de venta y la efectiva transferencia de los activos, se produjera alguna de las circunstancias descritas en la cláusula 6.5.4.**
 
-## 17).- ACTIVIDADES SUJETAS A APROBACIÓN POR LA EMPRESA.-
+En caso de no aceptación de la tasación ofrecida, las Participaciones continuarán activas y generando recompensas.
 
-EL USUARIO necesitará aprobación previa y por escrito de LA EMPRESA para llevar a cabo cualquiera de las siguientes actividades: 
+---
 
- Hacer publicidad, en cualquier parte y por cualquier medio, de los productos de LA EMPRESA 
+#### 6.5.3 Deducción por retiro {#653-deducción-por-retiro}
 
- Incorporar o adoptar los nombres comerciales de LA EMPRESA o de sus productos para ejercer la distribución prevista en este Contrato. 
+De acuerdo con nuestra política de estabilidad, a la tasación descrita anteriormente se le aplicará una deducción del **5%**. Esta deducción se mantendrá dentro de los activos de la “POOL ALL-IN”, con la finalidad de proteger el equilibrio del ecosistema y favoreciendo a los usuarios que deciden permanecer.
 
- Hacer uso de la marca RACHA (AM RACHA), nombre comercial, logotipo, símbolo u otras propiedades intelectuales y publicitarias pertenecientes o gestionadas por LA EMPRESA. 
+La deducción del 5% actúa como un mecanismo de redistribución interna que tiene tres objetivos muy claros:
+- Cubrir movimientos de mercado que afecten negativamente la tasación  
+- Reducir la volatilidad interna: al mantener más capital dentro de la “POOL ALL-IN”  
+- Favorecer a quienes apuestan por el largo plazo: la redistribución de esa deducción permanece dentro del sistema, fortaleciendo la posición de los socios que permanecen  
 
- No está permitido el uso o confección de material para publicidad de la marca, con los símbolos oficiales de la empresa, sin la debida autorización expresa y escrita. 
+---
 
-❖​ EL USUARIO se compromete a no registrar por sí o por medio de terceros ninguna marca que pueda competir directa o indirectamente con las marcas de LA EMPRESA, o cualquier marca o patente que pueda competir directa o indirectamente o sea confundible con las marcas y patentes de LA EMPRESA, bajo pena de resolución contractual e indemnización de daños y perjuicios. 
+#### 6.5.4 Suspensión Temporal {#654-suspensión-temporal}
 
-## 18).- INFORMACIÓN AL USUARIO.-
+RACHA se reserva el derecho a suspender temporalmente el proceso de liquidación en situaciones excepcionales tales como volatilidad extrema, actualizaciones técnicas críticas, incidentes de seguridad o cambios regulatorios urgentes, debidamente comunicados a través de los canales oficiales.
 
-EL USUARIO dispondrá de toda la información relativa a las instrucciones sobre los procedimientos de compras, ventas,lucros, abono de comisiones, entregas, cancelaciones, plan de compensación y todos los datos relevantes a través de la dirección web: https://racha.network/ 
+---
 
-Cualquier información o presentación acerca de ganancias o compensaciones debe estar basada exclusivamente en el plan de compensación oficial de la compañía. LA EMPRESA no ofrece en ningún caso garantía de ganancias al USUARIO, ni se responsabilizará de las promesas de ganancias efectuadas por sus USUARIOS o por parte de terceros en su nombre, ya que estas ganancias dependen exclusivamente del trabajo y esfuerzo de los USUARIOS. 
+## 7. DISTRIBUIDORES INDEPENDIENTES {#7-distribuidores-independientes}
 
-El éxito profesional del USUARIO depende únicamente del esfuerzo individual del propio USUARIO, no teniendo garantizada la percepción de ingresos, beneficios o éxito profesional alguno. 
+---
 
-EL USUARIO recibe retribuciones variables en función únicamente de la distribución y promoción satisfactoria de los productos y servicios de LA EMPRESA a clientes, no existiendo compensación económica ni en especie por la promoción de la oportunidad de negocio de LA EMPRESA o el patrocinio de nuevos USUARIOS. Como condición para recibir comisiones, el USUARIO deberá centrarse principalmente en la promoción Y venta de 
+### 7.1. SITUACIÓN JURÍDICA DEL USUARIO DISTRIBUIDOR {#71-situación-jurídica-del-usuario-distribuidor}
 
-Productos y Servicios a clientes que no formen parte de la red comercial de LA EMPRESA. 
+El usuario que distribuya comercialmente RACHA administra su propio negocio, sin tener relación en ningún caso de carácter laboral alguna con RACHA, siendo responsable de sus actos negociales, así como de sus relaciones con las Administraciones Públicas, promoviendo la distribución de los productos, y/o servicios objeto del presente contrato, cumpliendo todas las normas del Manual de Ética, Plan de Compensación, y documento de prevención del blanqueo de capitales, así como cualquier otro documento o política publicada en la web de RACHA y/o citada en la cláusula primera de los presentes términos, los cuales integran el presente Contrato, así como cumpliendo todas las normas vigentes en el país en vigor en cada momento, especialmente las fiscales.
 
-LA EMPRESA nunca compensa a sus USUARIOS por el simple hecho de patrocinar a otros. El USUARIO deberá enfatizar la venta de los productos al consumidor final en todas las presentaciones sobre la Oportunidad de negocio de LA EMPRESA. 
+La relación entre RACHA y EL USUARIO está basada en la total independencia de estas dos entidades, conforme las condiciones de este contrato, por lo que, para todos los efectos y fines, inclusive fiscales, no existe entre las presentes partes ningún vínculo laboral sujeto a la jurisdicción social.
 
-Las condiciones, productos y servicios objeto del contrato,esquemas comerciales y sistemas de compensación de empresas de marketing directo no están sujetos a la revisión y aprobación previa por parte de un organismo público. 
+---
 
-## 19).- ABONO DE RECOMPENSAS.-
+### 7.2. GESTIÓN Y RESPONSABILIDAD {#72-gestión-y-responsabilidad}
 
-EL USUARIO percibirá las recompensas a que tenga derecho en los plazos de pago indicados por LA EMPRESA. 
+EL USUARIO bajo ningún concepto ostentará, asumirá o se presentará ante terceros en condición de empleado, representante o franquiciado de RACHA, bajo pena de que esta última podrá, en el supuesto de incumplimiento de lo anteriormente reseñado, rescindir el presente contrato con justa causa.
 
-El usuario podrá solicitar la liquidación de sus participaciones compradas, quedando éstas inactivas desde el envío de dicha solicitud. LA EMPRESA ofrecerá por las mismas una tasación basada en criterios de liquidez y disponibilidad de sus proveedores y productos. En todo caso, si la compra a liquidar no ha cumplido el mínimo de permanencia de 25ciclos, se aplicará una penalización del 20% sobre dicha tasación. El usuario será informado a través de los canales de LA EMPRESA del plazo disponible para la aceptación del valor tasado. En caso de no aceptación por parte del usuario de la tasación ofrecida, las compras objeto de la misma continuarán activas a todos los efectos. 
+EL USUARIO declara que, como distribuidor de los productos y/o servicios de RACHA, es completamente independiente para todos los fines, inclusive fiscales, siendo el único responsable del pago de todos los gastos necesarios para la realización de los negocios relacionados con este Contrato de Distribuidor Independiente.
 
-## 20).- DERECHO SUPLETORIO.-
+---
 
-Las presentes condiciones generales de la contratación se regirán por las cláusulas que constan a lo largo del presente documento, así como por los demás documentos descrito en la cláusula cuarta. 
+### 7.3. DURACIÓN DEL CONTRATO {#73-duración-del-contrato}
 
-Los aspectos y situaciones que no fueren expresamente contemplados por el mismo, se regirán por medio de la legislación Civil y Mercantil vigente en cada momento. 
+El presente contrato es de naturaleza indefinida, siempre que el USUARIO cumpla con las cláusulas de este contrato, así como con los demás documentos descritos en la cláusula cuarta.
 
-## 21).- DOMICILIO A EFECTOS COMUNICACIONES Y NOTIFICACIONES.-
+---
 
-Todas las comunicaciones y notificaciones contractuales se
+### 7.4. RESCISIÓN DEL CONTRATO {#74-rescisión-del-contrato}
 
-harán efectivas en las direcciones indicadas, obligándose aquellas a comunicar recíprocamente cualquier alteración a las direcciones referidas, en el plazo de 15 días a computar desde que se produzca el cambio de domicilio, bajo pena de que se consideren como válidamente efectuadas todas las comunicaciones dirigidas a las direcciones indicadas, aunque las partes no las reciban. 
+EL USUARIO puede rescindir el contrato de distribución en cualquier momento, siempre que lo haga con **30 días de antelación** en relación al término pretendido, a través de comunicación escrita por medio del correo electrónico y solicitando confirmación de lectura a la dirección **operaciones@racha.network**.
 
-## 22).- TRATAMIENTO Y PROTECCIÓN DE DATOS DE CARÁCTER PERSONAL.-
+RACHA podrá rescindir el contrato en los siguientes supuestos:
 
-La política de LA EMPRESA cumple estrictamente con lo dispuesto en la LEY DE PROTECCIÓN DE LOS DATOS PERSONALES de la República Argentina de 19 de septiembre de 2018 número INLEG-2018- 46290265-APN-PTE, que tiene por objeto la protección integral de los datos personales a fin de garantizar el ejercicio pleno de los derechos de sus titulares, de conformidad a lo establecido en el artículo 43,párrafo tercero, de la CONSTITUCIÓN NACIONAL y los Tratados de Derechos Humanos en los que la REPÚBLICA ARGENTINA sea parte. 
+- El incumplimiento de cualquiera de las cláusulas del presente contrato.
+- La inobservancia de los términos de que consta el Manual de Ética.
+- Las vulneraciones de lo dispuesto en el documento de prevención del blanqueo de capitales.
+- La publicación por cualquier medio o procedimiento, especialmente electrónica en blogs, redes sociales o análogas, de comentarios negativos, injuriosos o calumniosos contra RACHA o cualquiera de sus socios o Administradores, contra el nombre comercial y marca "RACHA (AM RACHA)", o contra cualquier actividad, miembro o persona física o jurídica contratante de RACHA.
+- Las faltas de respeto para con los miembros, consumidores o trabajadores de RACHA.
+- Manifestaciones falsas, engañosas o desproporcionadas sobre beneficios relacionados con el modelo de negocio de RACHA.
+- No atender a los requerimientos efectuados por RACHA en relación con información o conductas inapropiadas.
+- Cualquier otra conducta del USUARIO que por su entidad sea constitutiva de delito leve o grave.
 
-En cumplimiento del artículo 11 de la citada Ley, se procede a exponer vía web corporativa los datos identificativos de la empresa, entre los que se incluyen: 
+En los supuestos de rescisión del presente contrato por la concurrencia de alguna de las causas anteriores, el USUARIO perderá todos los derechos derivados del presente contrato, incluido el cobro de comisiones, las cuales quedarán retenidas por RACHA.
 
-​ Denominación social
+---
 
-❖​ Domicilio social
+### 7.5. EFECTOS DE LA RESCISIÓN {#75-efectos-de-la-rescisión}
 
-❖​ Correo electrónico
+La rescisión del presente contrato por cualesquiera de sus causas de resolución motivará la pérdida definitiva sin derecho ni acción de reclamación alguna de todos los derechos del USUARIO, no pudiendo continuar en modo alguno con la promoción de los productos y/o servicios de RACHA.
 
-Los datos personales recogidos en las webs se deberán tratar de acuerdo con lo dispuesto en el R.G.P.D., y deberán ser tratados de manera confidencial. 
+El USUARIO Y RACHA pactan expresamente que en los supuestos de rescisión del contrato el USUARIO no podrá exigir en ningún caso comisión o bonificación, ni indemnización por clientela alguna resultante de su actuación contractual.
 
-Los usuarios pueden ejercitar los derechos de oposición,acceso e información, rectificación, cancelación y revocación de su autorización a la utilización de sus datos personales. 
+---
 
-En cualquier momento el DISTRIBUIDOR INDEPENDIENTE podráejercitar sus derechos de acceso, rectificación o cancelación en relación con dichos datos, dirigiendo su solicitud a la dirección del titular de los ficheros (la sociedad mercantil RACHA STT LLC).Puede encontrar información para el ejercicio de sus derechos en la legislación de protección de datos de Florida (Florida Data Privacy Law,https://www.flsenate.gov/Session/Bill/2023/262/BillText/er/PD F). de cualquier litigio en relación con los términos de este contrato, a su validez, interpretación y cumplimiento,las partes acuerdan que serán competentes los Juzgados y Tribunales de Florida (Estados Unidos de América), con renuncia expresa a cualquier otro fuero. 
+### 7.6. PROHIBICIONES ABSOLUTAS {#76-prohibiciones-absolutas}
 
-Cualquier cuestión de índole legal que el distribuidor independiente desee plantear a LA EMPRESA, podráformularla mediante correo electrónico a la siguiente dirección: info@racha.network 
+Queda absolutamente prohibido que el USUARIO desarrolle acciones abusivas y/o inadecuadas de captación de otros usuarios. RACHA supervisará que la competencia entre USUARIOS sea adecuada y adoptará en caso contrario las medidas en Derecho que resulten procedentes.
 
-# Reconocimiento y firma.-
+---
 
-Con la firma de las presentes condiciones generales de la contratación, el distribuidor independiente reconoce a todos los efectos legales que: 
+### 7.7. ACTIVIDADES SUJETAS A APROBACIÓN {#77-actividades-sujetasa-aprobación}
 
-a)​ Entiendo que estoy suscribiendo un contrato legalmente vinculante compuesto por el presente contrato,sus cláusulas, la Política de Procedimientos, el Plan de compensación, el documento de prevención del blanqueo de capitales, y el Manual de Ética, así como que he leído y comprendido y que acepto cada uno de estos documentos. 
+EL USUARIO necesitará aprobación previa y por escrito de RACHA para llevar a cabo cualquiera de las siguientes actividades:
 
-b) ​Toda la información que facilito a LA EMPRESA es precisa y completa. 
+- Hacer publicidad, en cualquier parte y por cualquier medio, de los productos de RACHA  
+- Incorporar o adoptar los nombres comerciales de RACHA o de sus productos para ejercer la distribución prevista en este Contrato.  
+- Hacer uso de la marca RACHA (AM RACHA), nombre comercial, logotipo, símbolo u otras propiedades intelectuales y publicitarias pertenecientes o gestionadas por RACHA.  
+- No está permitido el uso o confección de material para publicidad de la marca, con los símbolos oficiales de RACHA, sin la debida autorización expresa y escrita.
 
-c)​ Dispongo de capacidad legal bastante para contratar y para ejercer como USUARIO. 
+EL USUARIO se compromete a no registrar por sí o por medio de terceros ninguna marca que pueda competir directa o indirectamente con las marcas de RACHA, o cualquier marca o patente que pueda competir directa o indirectamente o sea confundible con las marcas y patentes de RACHA, bajo pena de resolución contractual e indemnización de daños y perjuicios.
 
-d).- Que el distribuidor independiente está suscribiendo un contrato electrónico. 
+---
 
-Como bien es sabido, el contrato electrónico se perfecciona una vez emitida la declaración de voluntad del aceptante mediante click sin que esta pueda ser ignorada por el oferente sin faltar a la buena fe. En este sentido, en los contratos de consumo celebrados a través de internet, conforme a la legislación comercial de Florida, hay consentimiento desde que se manifiesta la aceptación. Por tanto, el contrato se perfecciona, por ejemplo, cuando cumplimentamos y aceptamos el formulario de compra automatizada, y ello independientemente de la obligación del oferente de confirmar que ha recibido la aceptación, confirmación, cuyo valor es meramente informativo y que de no producirse no tiene relevancia en la perfección del contrato. Lo relevante, por tanto, es que el oferente pueda tener constancia de la aceptación de la oferta: en ese momento se entenderá́ que ha recibido la aceptación. 
+### 7.8. INFORMACIÓN AL DISTRIBUIDOR {#78-información-al-distribuidor}
 
-Así las cosas, el régimen jurídico del contrato electrónico determina que los contratos celebrados por internet son una especie dentro del género de contratos de consumo celebrados a distancia. Pueden ser definidos como aquellos contratos de consumo que son celebrados -naturalmente, entre un proveedor y un consumidor- mediando «exclusivamente» la utilización de medios de comunicación «electrónicos» y a «distancia»,de manera que la celebración del contrato pueda tener lugar «sin el encuentro físico» simultáneo de las partes contratantes, con «independencia de su objeto». Se trata de contratos celebrados por adhesión a cláusulas generales predispuestas, o simplemente de contratos por adhesión electrónica, ya que el usuario ingresa a los contenidos publicados por los vendedores a través del portal de venta,en el que observa la descripción del producto, fotos, videos,condiciones de entrega, ubicación del vendedor y precio,entre otras cualidades, teniendo que hacer clic en el botón «comprar» para perfeccionar el contrato, sin posibilidad alguna de discutir las cláusulas de contratación. Es decir,que la parte vendedora es quien, mediante la técnica de la predisposición, formula la totalidad de las cláusulas contractuales, ante las cuales el usuario solamente tiene dos opciones: asentir de acuerdo a las cláusulas estipuladas por el vendedor o no prestar su asentimiento, y por ende, no contratar. 
+EL USUARIO dispondrá de toda la información relativa a las instrucciones sobre los procedimientos de compras, ventas, lucros, abono de comisiones, entregas, cancelaciones, plan de compensación y todos los datos relevantes a través de la dirección web: [https://racha.network/ ](https://racha.network/ )
+
+Cualquier información o presentación acerca de ganancias o compensaciones debe estar basada exclusivamente en el plan de compensación oficial de la compañía. RACHA no ofrece en ningún caso garantía de ganancias al USUARIO, ni se responsabilizará de las promesas de ganancias efectuadas por sus USUARIOS o por parte de terceros en su nombre, ya que estas ganancias dependen exclusivamente del trabajo y esfuerzo de los USUARIOS.
+
+El éxito profesional del USUARIO depende únicamente del esfuerzo individual del propio USUARIO, no teniendo garantizada la percepción de ingresos, beneficios o éxito profesional alguno.
+
+EL USUARIO recibe retribuciones variables en función únicamente de la distribución y promoción satisfactoria de los productos y servicios de RACHA a clientes, no existiendo compensación económica ni en especie por la promoción de la oportunidad de negocio de RACHA o el patrocinio de nuevos USUARIOS. Como condición para recibir comisiones, el USUARIO deberá centrarse principalmente en la promoción y venta de productos y servicios a clientes que no formen parte de la red comercial de RACHA.
+
+RACHA nunca compensa a sus USUARIOS por el simple hecho de patrocinar a otros. EL USUARIO deberá enfatizar la venta de los productos al consumidor final en todas las presentaciones sobre la Oportunidad de negocio de RACHA.
+
+Las condiciones, productos y servicios objeto del contrato, esquemas comerciales y sistemas de compensación de empresas de marketing directo no están sujetos a revisión ni aprobación previa por parte de un organismo público.
+
+---
+
+### 7.9. FORMACIÓN Y CAPTACIÓN {#79-formación-y-captación}
+
+EL USUARIO puede referir nuevos usuarios dentro del plan de actuación estipulado por RACHA. En cualquier caso, EL USUARIO será responsable de formarlos y supervisarlos a su costa para garantizar que su actuación sea desarrollada de acuerdo con los principios éticos, políticas de procedimientos y postulados del presente contrato, manteniéndose siempre una buena y constructiva relación entre todos los usuarios.
+
+---
+
+## 8. DERECHO SUPLETORIO {#8-derecho-supletorio}
+
+Las presentes condiciones generales de la contratación se regirán por las cláusulas que constan a lo largo del presente documento, así como por los demás documentos descritos en la cláusula primera.
+
+Los aspectos y situaciones que no fueran expresamente contemplados por el mismo, se regirán por medio de la legislación Civil y Mercantil vigente en cada momento.
+
+---
+
+## 9. DOMICILIO A EFECTOS DE NOTIFICACIONES {#9-domicilio-a-efectos-de-notificaciones}
+
+Todas las comunicaciones y notificaciones contractuales se harán efectivas en las direcciones electrónicas indicadas, obligándose aquellas a comunicar recíprocamente cualquier alteración a las direcciones referidas, en el plazo de **15 días a computar desde que se produzca el cambio**, bajo pena de considerar válidamente efectuadas todas las comunicaciones dirigidas a las direcciones indicadas, aunque las partes no las reciban.
+
+---
+
+## 10. TRATAMIENTO Y PROTECCIÓN DE DATOS PERSONALES {#10-tratamiento-y-protección-de-datos-personales}
+
+La política de privacidad de RACHA se ajusta estrictamente a lo dispuesto por la legislación vigente en el estado de Florida en materia de protección de datos, en particular la **Florida Digital Bill of Rights (Sección 501.701 – 501.738, Florida Statutes)**, disponible en:  
+[https://www.flsenate.gov/Session/Bill/2023/262/BillText/er/PDF ](https://www.flsenate.gov/Session/Bill/2023/262/BillText/er/PDF )
+
+En cumplimiento de dicha normativa, se informa a los usuarios, a través del sitio web corporativo, de los datos identificativos de RACHA:
+
+- Denominación social: **RACHA STT LLC**  
+- Domicilio social: **3833 Powerline RD, STE 201, Fort Lauderdale, FL, 33309, United States**  
+- Correo electrónico: **operaciones@racha.network**
+
+Los datos personales recopilados en nuestros sitios web serán tratados conforme a lo establecido por la legislación de protección de datos del estado de Florida.
+
+El USUARIO presta su consentimiento expreso para que RACHA STT LLC almacene en una base de datos los datos personales que voluntariamente proporciona, pudiendo hacer uso de ellos para el desarrollo de su modelo de negocio, así como para actividades y fines comerciales propias o en colaboración con terceros.
+
+Los usuarios podrán:
+
+- Solicitar el acceso a sus datos personales  
+- Solicitar la corrección o eliminación de los datos personales que mantenemos sobre ellos  
+- Solicitar información sobre la recopilación, uso y divulgación de sus datos  
+- Oponerse a ciertos tratamientos de sus datos  
+- Solicitar que sus datos no sean vendidos ni compartidos con terceros  
+
+El ejercicio de estos derechos puede realizarse enviando una solicitud formal a **RACHA STT LLC** mediante correo electrónico a la dirección: **operaciones@racha.network**. RACHA responderá en los plazos establecidos por la legislación vigente.
+
+Cualquier consulta o cuestión legal relacionada con el tratamiento de datos podrá ser dirigida a dicha dirección de contacto.
+
+---
+
+## 11. RECONOCIMIENTO Y FIRMA ELECTRÓNICA {#11-reconocimiento-y-firma-electrónica}
+
+Con la firma de las presentes condiciones generales de la contratación, el distribuidor independiente reconoce a todos los efectos legales que:
+
+a) Entiendo que estoy suscribiendo un contrato legalmente vinculante compuesto por el presente contrato, sus cláusulas, la Política de Procedimientos, el Plan de compensación, el documento de prevención del blanqueo de capitales, y el Manual de Ética, así como que he leído y comprendido y que acepto cada uno de estos documentos.  
+
+b) Toda la información que facilité a RACHA es precisa y completa.  
+
+c) Dispongo de capacidad legal bastante para contratar y para ejercer como USUARIO.  
+
+d) Que el distribuidor independiente está suscribiendo un contrato electrónico.  
+
+Como bien es sabido, el contrato electrónico se perfecciona una vez emitida la declaración de voluntad del aceptante mediante click sin que esta pueda ser ignorada por el oferente sin faltar a la buena fe. En este sentido, en los contratos de consumo celebrados a través de internet, conforme a la legislación comercial de Florida, hay consentimiento desde que se manifiesta la aceptación. Por tanto, el contrato se perfecciona, por ejemplo, cuando cumplimentamos y aceptamos el formulario de compra automatizada, y ello independientemente de la obligación del oferente de confirmar que ha recibido la aceptación, confirmación cuyo valor es meramente informativo y que de no producirse no tiene relevancia en la perfección del contrato. Lo relevante, por tanto, es que el oferente pueda tener constancia de la aceptación de la oferta: en ese momento se entenderá que ha recibido la aceptación.
+
+Así las cosas, el régimen jurídico del contrato electrónico determina que los contratos celebrados por internet son una especie dentro del género de contratos de consumo celebrados a distancia. Pueden definirse como aquellos contratos de consumo celebrados naturalmente entre un proveedor y un consumidor, mediando exclusivamente la utilización de medios de comunicación electrónicos y a distancia, de manera que la celebración del contrato pueda tener lugar sin el encuentro físico simultáneo de las partes contratantes, con independencia de su objeto. Se trata de contratos celebrados por adhesión a cláusulas generales predispuestas, o simplemente de contratos por adhesión electrónica, ya que el usuario ingresa a los contenidos publicados por los vendedores a través del portal de venta, en el que observa la descripción del producto, fotos, videos, condiciones de entrega, ubicación del vendedor y precio, entre otras cualidades, teniendo que hacer clic en el botón «comprar» para perfeccionar el contrato, sin posibilidad alguna de discutir las cláusulas de contratación. Es decir, que la parte vendedora formula la totalidad de las cláusulas contractuales, ante las cuales el usuario solamente tiene dos opciones: asentir o no prestar su asentimiento, y por ende, no contratar.
