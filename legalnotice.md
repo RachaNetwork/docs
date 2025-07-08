@@ -48,7 +48,7 @@ Los contenidos de esta Web tienen únicamente finalidad informativa y bajo ningu
 
 ## Política de cookies
 
-Puede consultar aquí la [política de cookies](#).
+Puede consultar aquí la [política de cookies](cookies.md).
 
 ## Enlaces de acceso a otros sitios web
 
