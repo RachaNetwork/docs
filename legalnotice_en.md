@@ -30,9 +30,9 @@ Personal data provided by the user to *RACHA STT LLC* may be stored in automated
 
 However, users should be aware that security measures for Internet-based computer systems are not entirely reliable, and therefore *RACHA STT LLC* cannot guarantee the absence of malware or other harmful elements that could alter computer systems (software and hardware) or electronic documents and files. Nevertheless, all reasonable efforts and appropriate security measures are implemented to prevent such harmful elements.
 
-## Personal Data We Collect and How We Do It
+## Privacy Policy: Personal Data We Collect and How We Do It
 
-You can find all relevant information regarding the personal data we collect on our [Privacy Policy](#) page.
+You can consult all the information regarding the personal data we collect and its processing in the [GENERAL TERMS AND CONDITIONS OF THE “RACHA (AM RACHA)” BUSINESS MODEL](https://racha.network/tyc) and our [Cookie Policy](https://racha.network/cookies).
 
 ## Content
 
