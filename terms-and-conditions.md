@@ -1,40 +1,6 @@
 # TÉRMINOS Y CONDICIONES GENERALES DEL MODELO DE NEGOCIO “RACHA (AM RACHA)”
 
-## ÍNDICE DE CONTENIDOS
-
-  1. [Descripción General](#1-descripción-general)  
-2. [Objeto de las Condiciones Generales](#2-objeto-de-las-condiciones-generales)  
-3. [Productos Comercializados por RACHA](#3-productos-comercializados-por-racha)  
-4. [Marca y Nombre Comercial](#4-marca-y-nombre-comercial)  
-5. [Declaración Responsable del USUARIO](#5-declaración-responsable-del-usuario)  
-6. [Usuarios Finales: Participantes en la Pool ALL-IN](#6-usuarios-finales-participantes-en-la-pool-all-in)  
- 6.1. [Situación Jurídica del Usuario](#61-situación-jurídica-del-usuario)  
- 6.2. [Adquisición de Participaciones](#62-adquisición-de-participaciones)  
- 6.3. [Abono de Recompensas](#63-abono-de-recompensas)  
- 6.4. [Participaciones Promocionales](#64-participaciones-promocionales)  
- 6.5. [Liquidación de Participaciones](#65-liquidación-de-participaciones)  
-  6.5.1. [Etapas de Tenencia y Tasación](#651-etapas-de-tenencia-y-tasación)  
-  6.5.2. [Procedimiento de Liquidación](#652-procedimiento-de-liquidación)  
-  6.5.3. [Deducción por retiro](#653-deducción-por-retiro)  
-  6.5.4. [Suspensión Temporal](#654-suspensión-temporal)  
-7. [Distribuidores Independientes](#7-distribuidores-independientes)  
- 7.1. [Situación Jurídica del Usuario Distribuidor](#71-situación-jurídica-del-usuario-distribuidor)  
- 7.2. [Gestión y Responsabilidad](#72-gestión-y-responsabilidad)  
- 7.3. [Duración del Contrato](#73-duración-del-contrato)  
- 7.4. [Rescisión del Contrato](#74-rescisión-del-contrato)  
- 7.5. [Efectos de la Rescisión](#75-efectos-de-la-rescisión)  
- 7.6. [Prohibiciones Absolutas](#76-prohibiciones-absolutas)  
- 7.7. [Actividades Sujetas a Aprobación](#77-actividades-sujetasa-aprobación)  
- 7.8. [Información al Distribuidor](#78-información-al-distribuidor)  
- 7.9. [Formación y Captación](#79-formación-y-captación)  
-8. [Derecho Supletorio](#8-derecho-supletorio)  
-9. [Domicilio a Efectos de Notificaciones](#9-domicilio-a-efectos-de-notificaciones)  
-10. [Tratamiento y Protección de Datos Personales](#10-tratamiento-y-protección-de-datos-personales)  
-11. [Reconocimiento y Firma Electrónica](#11-reconocimiento-y-firma-electrónica)
-
----
-
-## 1. DESCRIPCIÓN GENERAL {#1-descripción-general}
+## 1. DESCRIPCIÓN GENERAL 
 
 Las presentes **CONDICIONES GENERALES**, el Aviso Legal, la Política de Privacidad, la Política de Cookies, el Manual de Ética, y el Instrumento de Prevención de Blanqueo de Capitales y Financiación del terrorismo (Buenas Prácticas), así como cualesquiera otras condiciones específicas publicadas en la presente web para la prestación de servicios por RACHA (AM RACHA), son aplicables a toda persona con capacidad legal que contrate los servicios de RACHA (AM RACHA) a través de la web, de la App (iOS/Android) o de su Plataforma de monedero electrónico (en adelante, la Plataforma).
 
@@ -46,7 +12,7 @@ Con la aceptación expresa de las presentes CONDICIONES GENERALES, se entiende q
 
 ---
 
-## 2. OBJETO DE LAS CONDICIONES GENERALES {#2-objeto-de-las-condiciones-generales}
+## 2. OBJETO DE LAS CONDICIONES GENERALES 
 
 Las presentes condiciones generales tienen por objeto la regulación de la relación jurídica del usuario del modelo de negocio denominado <<RACHA>> (también AM RACHA), el cual tiene por objeto hacer accesible a usuarios su participación en determinados proyectos relacionados con las denominadas finanzas descentralizadas (DEFI, en lo sucesivo), entre las que se encuentra la “POOL ALL-IN”, sin perjuicio de la implementación futura de nuevos productos y/o servicios, los cuales podrían tener un régimen y tratamiento jurídico propios, mediante sus términos y condiciones específicos, todo ello bajo los postulados de un plan de compensación basado en el marketing multinivel como forma de ejecución de nuestro modelo de negocio.
 
@@ -58,7 +24,7 @@ RACHA comunica a los distribuidores independientes que podrá constituir un fond
 
 ---
 
-## 3. PRODUCTOS COMERCIALIZADOS POR RACHA {#3-productos-comercializados-por-racha}
+## 3. PRODUCTOS COMERCIALIZADOS POR RACHA 
 
 En cumplimiento de la legislación vigente se hace constar en los presentes términos y condiciones que RACHA (AM RACHA) comercializará los productos y/o servicios descritos en su página web, y concretamente en la dirección que a continuación se cita:
 
@@ -68,7 +34,7 @@ El usuario de RACHA (AM RACHA) declara en este acto que conoce los productos des
 
 ---
 
-## 4. MARCA Y NOMBRE COMERCIAL {#4-marca-y-nombre-comercial}
+## 4. MARCA Y NOMBRE COMERCIAL
 
 RACHA comercializará los productos bajo el nombre comercial y marca registrada denominada literalmente **RACHA (AM RACHA)**, cuya imagen, símbolo, letras y logotipos, han sido registrados como marca, siendo los que se exhiben a continuación:
 ![](https://raw.githubusercontent.com/RachaNetwork/docs/refs/heads/master/logo1.png)
@@ -76,7 +42,7 @@ RACHA comercializará los productos bajo el nombre comercial y marca registrada 
 
 ---
 
-## 5. DECLARACIÓN RESPONSABLE DEL USUARIO {#5-declaración-responsable-del-usuario}
+## 5. DECLARACIÓN RESPONSABLE DEL USUARIO 
 
 El USUARIO declara que ha leído, entiende y acepta sin ambages:
 
@@ -90,7 +56,7 @@ EL USUARIO, a partir del momento de la firma del presente contrato, de modo pres
 
 ---
 
-## 6. USUARIOS FINALES: PARTICIPANTES EN LA POOL ALL-IN {#6-usuarios-finales-participantes-en-la-pool-all-in}
+## 6. USUARIOS FINALES: PARTICIPANTES EN LA POOL ALL-IN 
 
 ---
 
@@ -106,7 +72,7 @@ EL USUARIO, a partir del momento de la firma del presente contrato, de modo pres
 
 ---
 
-### 6.2. ADQUISICIÓN DE PARTICIPACIONES {#62-adquisición-de-participaciones}
+### 6.2. ADQUISICIÓN DE PARTICIPACIONES 
 
 Cada Participación representa un contrato entre el Usuario (en adelante, el "Socio") y la “Pool ALL-IN” (conjunto de Negocios y Proveedores de RACHA), otorgándole derecho a percibir recompensas periódicas distribuidas en Ciclos o repartos de recompensas, conforme al número de Participaciones activas que posea.
 
@@ -117,7 +83,7 @@ Sobre la compra, podrá aplicarse una comisión equivalente al **1%** del import
 
 ---
 
-### 6.3. ABONO DE RECOMPENSAS {#63-abono-de-recompensas}
+### 6.3. ABONO DE RECOMPENSAS 
 
 Las recompensas se distribuyen una vez alcanzado el umbral del **0,5% del total del valor de las compras de Participaciones**, lo que equivale a **0,25 USDC por Participación activa**. Dichas recompensas se distribuyen en la proporción siguiente:
 
@@ -126,7 +92,7 @@ Las recompensas se distribuyen una vez alcanzado el umbral del **0,5% del total 
 
 ---
 
-### 6.4. PARTICIPACIONES PROMOCIONALES {#64-participaciones-promocionales}
+### 6.4. PARTICIPACIONES PROMOCIONALES 
 
 RACHA podrá otorgar participaciones promocionales cuando así lo considere oportuno y siempre y cuando estime que no compromete el equilibrio de la “POOL ALL-IN”; dichas promociones vendrán reguladas por sus propios términos y condiciones, en su caso. En ausencia de disposiciones específicas, dichas participaciones no serán retirables ni liquidables, ni computarán para efectos de calificación en el Plan de Compensación. No obstante, podrán generar recompensas mientras se encuentren activas.
 
@@ -134,11 +100,11 @@ RACHA se reserva el derecho a modificar, suspender o dar por finalizada cualquie
 
 ---
 
-### 6.5. LIQUIDACIÓN DE PARTICIPACIONES {#65-liquidación-de-participaciones}
+### 6.5. LIQUIDACIÓN DE PARTICIPACIONES 
 
 La liquidación consiste en la solicitud formal del Socio para vender sus Participaciones, sujeta a las siguientes condiciones:
 
-#### 6.5.1 Etapas de Tenencia y Tasación {#651-etapas-de-tenencia-y-tasación}
+#### 6.5.1 Etapas de Tenencia y Tasación 
 
 - **Etapa Bloqueada (Ciclos 0 a 25):**  
   No se permite la venta de Participaciones. El Socio no podrá solicitar liquidación alguna durante este periodo.
@@ -152,7 +118,7 @@ La liquidación consiste en la solicitud formal del Socio para vender sus Partic
 
 ---
 
-#### 6.5.2 Procedimiento de Liquidación {#652-procedimiento-de-liquidación}
+#### 6.5.2 Procedimiento de Liquidación 
 
 Las solicitudes de liquidación se tasarán semanalmente, durante la “Ventana de Tasación”, los días lunes entre las **12:00 y las 23:59 (hora peninsular de España)**.
 
@@ -168,7 +134,7 @@ En caso de no aceptación de la tasación ofrecida, las Participaciones continua
 
 ---
 
-#### 6.5.3 Deducción por retiro {#653-deducción-por-retiro}
+#### 6.5.3 Deducción por retiro
 
 De acuerdo con nuestra política de estabilidad, a la tasación descrita anteriormente se le aplicará una deducción del **5%**. Esta deducción se mantendrá dentro de los activos de la “POOL ALL-IN”, con la finalidad de proteger el equilibrio del ecosistema y favoreciendo a los usuarios que deciden permanecer.
 
@@ -179,17 +145,17 @@ La deducción del 5% actúa como un mecanismo de redistribución interna que tie
 
 ---
 
-#### 6.5.4 Suspensión Temporal {#654-suspensión-temporal}
+#### 6.5.4 Suspensión Temporal 
 
 RACHA se reserva el derecho a suspender temporalmente el proceso de liquidación en situaciones excepcionales tales como volatilidad extrema, actualizaciones técnicas críticas, incidentes de seguridad o cambios regulatorios urgentes, debidamente comunicados a través de los canales oficiales.
 
 ---
 
-## 7. DISTRIBUIDORES INDEPENDIENTES {#7-distribuidores-independientes}
+## 7. DISTRIBUIDORES INDEPENDIENTES 
 
 ---
 
-### 7.1. SITUACIÓN JURÍDICA DEL USUARIO DISTRIBUIDOR {#71-situación-jurídica-del-usuario-distribuidor}
+### 7.1. SITUACIÓN JURÍDICA DEL USUARIO DISTRIBUIDOR
 
 El usuario que distribuya comercialmente RACHA administra su propio negocio, sin tener relación en ningún caso de carácter laboral alguna con RACHA, siendo responsable de sus actos negociales, así como de sus relaciones con las Administraciones Públicas, promoviendo la distribución de los productos, y/o servicios objeto del presente contrato, cumpliendo todas las normas del Manual de Ética, Plan de Compensación, y documento de prevención del blanqueo de capitales, así como cualquier otro documento o política publicada en la web de RACHA y/o citada en la cláusula primera de los presentes términos, los cuales integran el presente Contrato, así como cumpliendo todas las normas vigentes en el país en vigor en cada momento, especialmente las fiscales.
 
@@ -197,7 +163,7 @@ La relación entre RACHA y EL USUARIO está basada en la total independencia de 
 
 ---
 
-### 7.2. GESTIÓN Y RESPONSABILIDAD {#72-gestión-y-responsabilidad}
+### 7.2. GESTIÓN Y RESPONSABILIDAD
 
 EL USUARIO bajo ningún concepto ostentará, asumirá o se presentará ante terceros en condición de empleado, representante o franquiciado de RACHA, bajo pena de que esta última podrá, en el supuesto de incumplimiento de lo anteriormente reseñado, rescindir el presente contrato con justa causa.
 
@@ -205,13 +171,13 @@ EL USUARIO declara que, como distribuidor de los productos y/o servicios de RACH
 
 ---
 
-### 7.3. DURACIÓN DEL CONTRATO {#73-duración-del-contrato}
+### 7.3. DURACIÓN DEL CONTRATO
 
 El presente contrato es de naturaleza indefinida, siempre que el USUARIO cumpla con las cláusulas de este contrato, así como con los demás documentos descritos en la cláusula cuarta.
 
 ---
 
-### 7.4. RESCISIÓN DEL CONTRATO {#74-rescisión-del-contrato}
+### 7.4. RESCISIÓN DEL CONTRATO 
 
 EL USUARIO puede rescindir el contrato de distribución en cualquier momento, siempre que lo haga con **30 días de antelación** en relación al término pretendido, a través de comunicación escrita por medio del correo electrónico y solicitando confirmación de lectura a la dirección **operaciones@racha.network**.
 
@@ -230,7 +196,7 @@ En los supuestos de rescisión del presente contrato por la concurrencia de algu
 
 ---
 
-### 7.5. EFECTOS DE LA RESCISIÓN {#75-efectos-de-la-rescisión}
+### 7.5. EFECTOS DE LA RESCISIÓN 
 
 La rescisión del presente contrato por cualesquiera de sus causas de resolución motivará la pérdida definitiva sin derecho ni acción de reclamación alguna de todos los derechos del USUARIO, no pudiendo continuar en modo alguno con la promoción de los productos y/o servicios de RACHA.
 
@@ -238,13 +204,13 @@ El USUARIO Y RACHA pactan expresamente que en los supuestos de rescisión del co
 
 ---
 
-### 7.6. PROHIBICIONES ABSOLUTAS {#76-prohibiciones-absolutas}
+### 7.6. PROHIBICIONES ABSOLUTAS 
 
 Queda absolutamente prohibido que el USUARIO desarrolle acciones abusivas y/o inadecuadas de captación de otros usuarios. RACHA supervisará que la competencia entre USUARIOS sea adecuada y adoptará en caso contrario las medidas en Derecho que resulten procedentes.
 
 ---
 
-### 7.7. ACTIVIDADES SUJETAS A APROBACIÓN {#77-actividades-sujetasa-aprobación}
+### 7.7. ACTIVIDADES SUJETAS A APROBACIÓN 
 
 EL USUARIO necesitará aprobación previa y por escrito de RACHA para llevar a cabo cualquiera de las siguientes actividades:
 
@@ -257,7 +223,7 @@ EL USUARIO se compromete a no registrar por sí o por medio de terceros ninguna 
 
 ---
 
-### 7.8. INFORMACIÓN AL DISTRIBUIDOR {#78-información-al-distribuidor}
+### 7.8. INFORMACIÓN AL DISTRIBUIDOR 
 
 EL USUARIO dispondrá de toda la información relativa a las instrucciones sobre los procedimientos de compras, ventas, lucros, abono de comisiones, entregas, cancelaciones, plan de compensación y todos los datos relevantes a través de la dirección web: [https://racha.network/ ](https://racha.network/ )
 
@@ -273,13 +239,13 @@ Las condiciones, productos y servicios objeto del contrato, esquemas comerciales
 
 ---
 
-### 7.9. FORMACIÓN Y CAPTACIÓN {#79-formación-y-captación}
+### 7.9. FORMACIÓN Y CAPTACIÓN 
 
 EL USUARIO puede referir nuevos usuarios dentro del plan de actuación estipulado por RACHA. En cualquier caso, EL USUARIO será responsable de formarlos y supervisarlos a su costa para garantizar que su actuación sea desarrollada de acuerdo con los principios éticos, políticas de procedimientos y postulados del presente contrato, manteniéndose siempre una buena y constructiva relación entre todos los usuarios.
 
 ---
 
-## 8. DERECHO SUPLETORIO {#8-derecho-supletorio}
+## 8. DERECHO SUPLETORIO 
 
 Las presentes condiciones generales de la contratación se regirán por las cláusulas que constan a lo largo del presente documento, así como por los demás documentos descritos en la cláusula primera.
 
@@ -287,13 +253,13 @@ Los aspectos y situaciones que no fueran expresamente contemplados por el mismo,
 
 ---
 
-## 9. DOMICILIO A EFECTOS DE NOTIFICACIONES {#9-domicilio-a-efectos-de-notificaciones}
+## 9. DOMICILIO A EFECTOS DE NOTIFICACIONES 
 
 Todas las comunicaciones y notificaciones contractuales se harán efectivas en las direcciones electrónicas indicadas, obligándose aquellas a comunicar recíprocamente cualquier alteración a las direcciones referidas, en el plazo de **15 días a computar desde que se produzca el cambio**, bajo pena de considerar válidamente efectuadas todas las comunicaciones dirigidas a las direcciones indicadas, aunque las partes no las reciban.
 
 ---
 
-## 10. TRATAMIENTO Y PROTECCIÓN DE DATOS PERSONALES {#10-tratamiento-y-protección-de-datos-personales}
+## 10. TRATAMIENTO Y PROTECCIÓN DE DATOS PERSONALES 
 
 La política de privacidad de RACHA se ajusta estrictamente a lo dispuesto por la legislación vigente en el estado de Florida en materia de protección de datos, en particular la **Florida Digital Bill of Rights (Sección 501.701 – 501.738, Florida Statutes)**, disponible en:  
 [https://www.flsenate.gov/Session/Bill/2023/262/BillText/er/PDF ](https://www.flsenate.gov/Session/Bill/2023/262/BillText/er/PDF )
@@ -322,7 +288,7 @@ Cualquier consulta o cuestión legal relacionada con el tratamiento de datos pod
 
 ---
 
-## 11. RECONOCIMIENTO Y FIRMA ELECTRÓNICA {#11-reconocimiento-y-firma-electrónica}
+## 11. RECONOCIMIENTO Y FIRMA ELECTRÓNICA 
 
 Con la firma de las presentes condiciones generales de la contratación, el distribuidor independiente reconoce a todos los efectos legales que:
 
