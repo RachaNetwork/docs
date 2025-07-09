@@ -2,7 +2,7 @@
 
 ## 1. DESCRIPCIÓN GENERAL 
 
-Las presentes **CONDICIONES GENERALES**, el Aviso Legal, la Política de Privacidad, la Política de Cookies, el Manual de Ética, y el Instrumento de Prevención de Blanqueo de Capitales y Financiación del terrorismo (Buenas Prácticas), así como cualesquiera otras condiciones específicas publicadas en la presente web para la prestación de servicios por RACHA (AM RACHA), son aplicables a toda persona con capacidad legal que contrate los servicios de RACHA (AM RACHA) a través de la web, de la App (iOS/Android) o de su Plataforma de monedero electrónico (en adelante, la Plataforma).
+Las presentes CONDICIONES GENERALES y Política de privacidad, el Aviso Legal, la Política de Cookies, el Manual de Ética, Aviso legal acerca de los riesgos de las inversiones en criptodivisas y criptoactivos y el Instrumento de Prevención de Blanqueo de Capitales y Financiación del terrorismo (Buenas Prácticas) , y cualesquiera otras condiciones específicas publicadas en la presente web para la prestación de servicios por RACHA (AM RACHA), son aplicables a toda persona con capacidad legal que contrate los servicios de RACHA (AM RACHA) a través de la web, de la App (iOS/Android) o de su Plataforma de monedero electrónico (en adelante, la Plataforma).
 
 **RACHA STT LLC**, con EIN n.º 99-4733490, y domicilio social en **3833 Powerline RD STE 201; Fort Lauderdale, FL. 33309, United States**, es la Sociedad responsable de la web [https://racha.network/ ](https://racha.network/ ), y de la Plataforma ubicada en dicho dominio, así como de su contenido, siendo su actividad principal el desarrollo del modelo de negocio determinado en el cuerpo del plan de compensación de RACHA (AM RACHA).
 
