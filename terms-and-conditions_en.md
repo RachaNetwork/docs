@@ -100,15 +100,17 @@ Redemption consists of the formal request by the Partner to sell their shares, s
 
 #### 6.5.2 REDEMPTION PROCEDURE 
 
-Requests for redemption will be evaluated weekly during the "Valuation Window", on Mondays from **12:00 to 23:59 (Peninsular Spain Time)**.
+Settlement requests will be evaluated and priced weekly during the "Pricing Window", which will take place every Monday from 12:00 to 23:59 hours (Peninsular Spain time).
 
-Once submitted and eligibility confirmed according to the stage, the valuation will be communicated to the Partner.
+Any request submitted before the start of the "Pricing Window" will be evaluated during that window, unless it is submitted on a Monday, in which case it will be evaluated during the following Monday's window.
 
-The Partner must accept the valuation formally within 24 hours of receipt, for payment to be made to the registered wallet in the application.
+Once the request has been submitted and the Partner's eligibility for the corresponding phase has been verified, the applicable valuation will be communicated to them.
 
-Transfers will be executed within an estimated **48-hour period**, if this timeframe cannot be met due to external factors, the user will be properly notified.
+The Partner must explicitly accept this valuation in order for the amount to be credited to their registered wallet within the Application, once accepted and within the timeframe set by the current "Pricing Window".
 
-**RACHA reserves the right to perform a new valuation and even cancel or suspend it if, during the period between acceptance and asset transfer, any of the circumstances described in section 6.5.4 occur.**
+Transfers of the corresponding amounts will be made within an estimated period of 48 hours. If this deadline cannot be met due to circumstances beyond RACHA’s control, the User will be duly informed.
+
+RACHA reserves the right to carry out a new valuation or even cancel or suspend it if, during the period between the acceptance of the sale price and the actual transfer of assets, any of the circumstances described in clause 6.5.4 should occur.
 
 If the valuation is not accepted, the shares will remain active and continue generating rewards.
 
