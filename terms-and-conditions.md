@@ -103,15 +103,17 @@ La liquidación consiste en la solicitud formal del Socio para vender sus Partic
 
 #### 6.5.2 Procedimiento de Liquidación 
 
-Las solicitudes de liquidación se tasarán semanalmente, durante la “Ventana de Tasación”, los días lunes entre las **12:00 y las 23:59 (hora peninsular de España)**.
+Las solicitudes de liquidación se evaluarán y tasarán semanalmente, durante la “Ventana de Tasación”, que tendrá lugar todos los días lunes entre las 12:00 y las 23:59 horas (hora peninsular de España).
+
+Cualquier solicitud presentada antes del comienzo de la "Ventana de Tasación" será evaluada durante dicha ventana, excepto si se presenta un lunes, en este caso pasaría a ser evaluada el siguiente lunes.
 
 Una vez presentada la solicitud y validada la elegibilidad del Socio según la etapa correspondiente, se procederá a notificarle la tasación aplicable.
 
-El Socio deberá aceptar expresamente dicha tasación para que se realice el abono en su wallet registrada en la Aplicación, dentro de las 24 horas siguientes a la recepción de la misma.
+El Socio deberá aceptar expresamente dicha tasación, para que se realice el abono en su wallet registrada en la Aplicación, una vez recibida la misma y dentro del periodo marcado por la "Ventana de Tasación" en curso.
 
-Se procederá a la realización de las transferencias de los importes oportunos en un plazo estimado de **48 horas**, si dicho plazo no pudiera observarse por causas ajenas a RACHA, el Usuario sería debidamente informado.
+Se procederá a la realización de las transferencias de los importes oportunos en un plazo estimado de 48 horas, si dicho plazo no pudiera observarse por causas ajenas a RACHA, el Usuario sería debidamente informado.
 
-**RACHA se reserva el derecho a realizar una nueva tasación e incluso cancelarla o suspenderla si, durante el periodo transcurrido entre la aceptación del precio de venta y la efectiva transferencia de los activos, se produjera alguna de las circunstancias descritas en la cláusula 6.5.4.**
+RACHA se reserva el derecho a realizar una nueva tasación e incluso cancelarla o suspenderla si, durante el periodo transcurrido entre la aceptación del precio de venta y la efectiva transferencia de los activos, se produjera alguna de las circunstancias descritas en la cláusula 6.5.4.
 
 En caso de no aceptación de la tasación ofrecida, las Participaciones continuarán activas y generando recompensas.
 
