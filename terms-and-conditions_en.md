@@ -84,7 +84,7 @@ RACHA reserves the right to modify, suspend or terminate ongoing promotions at a
 
 ### 6.5. SHARE REDEMPTION 
 
-Redemption consists of the formal request by the Partner to sell their shares, subject to the following conditions:
+The redemption process involves a formal request submitted by the Partner for the sale of their Shares, with each Share being individually subject to the following conditions:
 
 #### 6.5.1 Stages of Ownership and Evaluation 
 
