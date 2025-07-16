@@ -87,7 +87,7 @@ RACHA se reserva el derecho a modificar, suspender o dar por finalizada cualquie
 
 ### 6.5. LIQUIDACIÓN DE PARTICIPACIONES 
 
-La liquidación consiste en la solicitud formal del Socio para vender sus Participaciones, sujeta a las siguientes condiciones:
+La liquidación consiste en la solicitud formal del Socio para vender sus Participaciones, quedando cada participación sujeta de manera independiente a las siguientes condiciones:
 
 #### 6.5.1 Etapas de Tenencia y Tasación 
 
