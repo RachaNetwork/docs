@@ -257,3 +257,87 @@ d) That the independent distributor is entering into an electronic contract.
 As widely known, the electronic contract is perfected once the will declaration of the accepting party is issued via click, without being ignored by the offeror without breaching good faith. Therefore, in consumer contracts entered via internet, under Florida commercial law, there is consent upon manifestation. Thus, the contract is perfected, for example, when completing and accepting the automated purchase form, regardless of the seller confirming reception, which is merely informative. What matters is that the offeror can verify the acceptance: at that moment it will be considered received.
 
 Thus, the legal framework of electronic contracts determines that internet-entered consumer contracts are a species within the category of distance-sold consumer contracts. They may be defined as consumer contracts naturally entered between a provider and a consumer, using exclusively electronic communication and remote interaction, allowing contract formation without simultaneous physical meeting, independently of its object. These are contracts of adherence to pre-set clauses, or simply electronic adhesion contracts, as the user accesses the content published by sellers through the sales portal, observing product description, photos, videos, delivery conditions, vendor location and price, and clicking the "buy" button to finalize the contract, with no possibility of negotiating clauses. That is, the seller sets the entire contractual framework, and the user only has two options: agree or reject.
+
+---
+
+## SPECIAL ADDENDUM TO THE GENERAL TERMS AND CONDITIONS  
+**Regarding the product “POOL JACKPOT”**
+
+In accordance with the contractual framework, and pursuant to clause 2 of the General Terms and Conditions of RACHA STT LLC, which provides for the possibility of launching new products with specific conditions, RACHA STT LLC, EIN No. 99-4733490, with registered office at 3833 Powerline RD STE 201, Fort Lauderdale, FL 33309, United States, hereby notifies users of this Special Addendum regarding the product “POOL JACKPOT”, which becomes an integral and inseparable part of the General Terms and Conditions of the RACHA business model, effective from the moment any user participates in this product.
+
+This Addendum shall be mandatory for all users who acquire participation in the “POOL JACKPOT” product, and it is understood that such participation implies the express, full, and unconditional acceptance of each and every condition established herein.
+
+### 1. PURPOSE OF THE ADDENDUM
+
+This Addendum aims to regulate the specific conditions of participation, operation, rewards, duration, and termination of the product named “POOL JACKPOT”, offered by RACHA as part of its ecosystem of decentralized finance (DeFi)-based products, whose nature, structure, and dynamics differ from the “POOL ALL-IN” product regulated in the main body of the General Terms and Conditions.
+
+### 2. NATURE OF THE “POOL JACKPOT” PRODUCT
+
+The “POOL JACKPOT” product is a temporary participation instrument with an approximate duration of 90 days, designed to allow users to obtain rewards derived from the performance of collectively managed digital assets, as well as a final distribution of the collateral at the end of the cycle, with no possibility of early liquidation.
+
+This product operates under a model of fully locked capital for its entire duration, with no partial access or early withdrawal of funds, and is structured as a short-to-medium-term investment experience with intermediate rewards and a final proportional payout.
+
+### 3. RISK DISCLOSURE
+
+The User participating in the “POOL JACKPOT” product expressly declares and acknowledges that:  
+● Participation in this product involves significant risks, arising from the volatile nature of the crypto assets and digital markets on which it is based.  
+● The underlying assets may experience substantial value fluctuations, both positive and negative, due to factors such as regulatory changes, global market movements, technical failures, smart contract risks, or macroeconomic events.  
+● RACHA does not guarantee any profit, nor the recovery of the invested capital, as it may be entirely lost. The value of the collateral at the end of the cycle may be lower than the entry value, and Members may incur total or partial losses of their investment. Past performance does not guarantee future results in any way.  
+● The product structure is designed to be resilient to volatility, but not immune to it. The generation of rewards and the amount of the final payout depend exclusively on the performance of the ecosystem and market conditions during the cycle.
+
+Therefore, the User agrees to participate in the “POOL JACKPOT” at their own risk, with full knowledge of the inherent risks associated with crypto assets and DeFi products, and waives any claims against RACHA for losses arising from such risks, except in cases of willful misconduct or gross negligence by RACHA.
+
+### 4. ACQUISITION OF SHARES
+
+4.1. Each Share in the “POOL JACKPOT” has a value equivalent to 100 USDC at the time of purchase, according to the price set on the marketplace of the Platform https://racha.network.  
+4.2. The minimum purchase of Shares in the “POOL JACKPOT” shall be 100 USDC, equivalent to 1 Share.  
+4.3. A 1% entry fee will be applied to the total purchase amount, with a maximum cap of 100 USDC per transaction, intended to cover operational costs related to processing, management, and security of the product.  
+4.4. Acquired Shares are non-transferable, non-divisible, and can only be managed by the account holder in whose name they were registered.
+
+### 5. INTERMEDIATE REWARDS
+
+5.1. Rewards in the “POOL JACKPOT” will be distributed periodically, provided that the Wallet or “Split Wallet” associated with the product reaches a balance equal to or greater than 1% of the total value of purchases made in “POOL JACKPOT” Shares. This equates to 1 USDC per active Share.  
+5.2. Such rewards will be distributed exclusively among active Members at the time of distribution, according to the following allocation: 60% to active Members or Users, proportionally to the number of Shares they have acquired, and 40% to RACHA, intended to cover operational costs, business profits, and the Referral Plan.  
+5.3. The calculation and distribution of rewards will be automatically managed by smart contracts and/or associated technical systems, and will be credited directly to the registered wallets of the Members.
+
+### 6. DURATION AND TERMINATION OF THE PRODUCT
+
+6.1. The “POOL JACKPOT” cycle will have an operational duration of approximately 90 days, counted from the official launch date of the product, as communicated through RACHA’s official channels.  
+6.2. Upon completion of this period, positions will be closed, assets liquidated, and the remaining collateral distributed among all Members proportionally to the number of Shares each has acquired.  
+6.3. The final distribution will not be subject to any additional fee, charge, or deduction, either by RACHA or third parties, ensuring the full return of the net collateral corresponding to each Member.  
+6.4. Once the operational period is completed and the collateral distribution finalized, the product will be considered concluded and will not be reactivated without a new communication and express acceptance by users.
+
+### 7. INCOMPATIBILITY WITH EARLY LIQUIDATION
+
+7.1. The “POOL JACKPOT” does not allow early liquidation, sale, or partial withdrawal of funds during its lifecycle.  
+7.2. Acquired Shares will remain locked for the entire approximately 90-day cycle, with no possibility of redemption, valuation, or transfer to third parties.  
+7.3. This feature is essential for the proper functioning of the product and to ensure the stability of the managed capital during the investment period.
+
+### 8. MODIFICATIONS AND COMMUNICATIONS
+
+8.1. RACHA reserves the right to modify, suspend, or terminate the “POOL JACKPOT” product early, in order to preserve the paramount interest of RACHA STT LLC’s users, in the event of exceptional circumstances such as:  
+● Extreme volatility in crypto asset markets  
+● Security incidents or technical vulnerabilities  
+● Regulatory changes affecting its viability  
+● Any other force majeure or unforeseen event  
+
+8.2. In such cases, RACHA will inform Members through official channels and proceed with the proportional distribution of the available collateral, based on its status at that time.
+
+### 9. EXPRESS ACCEPTANCE BY THE USER
+
+The User acquiring Shares in the “POOL JACKPOT” expressly declares and accepts:  
+● Having read, understood, and fully accepted this Addendum.  
+● Being aware of the risks inherent in investing in crypto assets and DeFi products.  
+● Not expecting any profit guarantee from RACHA.  
+● Accepting the temporary, locked, and non-liquidatable nature of the product.  
+● Authorizing RACHA to manage their participation according to the rules established herein.
+
+Such acceptance shall be deemed granted upon the purchase of at least one Share in the “POOL JACKPOT” through the official Platform.
+
+### 10. FINAL PROVISION
+
+For any matters not covered in this Addendum, the general provisions of RACHA’s General Terms and Conditions shall apply, to the extent they do not conflict with the provisions herein. In case of conflict, the terms of this Addendum shall prevail with respect to the “POOL JACKPOT” product.
+
+This Addendum takes effect on the date of its publication on the Platform https://racha.network and shall remain in force for as long as the “POOL JACKPOT” product is active, or until its natural or early termination.
+
+**Fort Lauderdale, FL, United States**
