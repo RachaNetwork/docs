@@ -74,7 +74,9 @@ Upon purchase, a commission equivalent to **1%** of the total value of shares ma
 Rewards are distributed once the threshold of **0.5% of the total value of share purchases** is reached, equivalent to **0.25 USDC per active share**. These rewards are distributed as follows:
 
 - **60% to Partners**, proportionally to the number of active shares they hold.  
-- **40% to RACHA**, covering operational costs, business profits and the Referral Program.
+- **40% to RACHA**, covering operational costs (website development and maintenance, servers, personnel in charge of RACHA, supplies and expenses), business profits and the Referral Program.
+
+For efficient asset management, certain products may include service administration fees, which could be deducted in advance from the generated value or from the total contributed participations, as determined by RACHA on a case-by-case basis.
 
 ### 6.4. PROMOTIONAL SHARES 
 
