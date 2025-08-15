@@ -77,7 +77,9 @@ Sobre la compra, podrá aplicarse una comisión equivalente al **1%** del import
 Las recompensas se distribuyen una vez alcanzado el umbral del **0,5% del total del valor de las compras de Participaciones**, lo que equivale a **0,25 USDC por Participación activa**. Dichas recompensas se distribuyen en la proporción siguiente:
 
 - **60% para los Socios**, proporcional al número de Participaciones que mantengan activas.  
-- **40% para RACHA**, destinado a cubrir costos operativos, beneficios empresariales y el Plan de Recomendación.
+- **40% para RACHA**, destinado a cubrir costos operativos (desarrollo y mantenimiento web, servidores, personal a cargo de RACHA, suplidos y gastos), beneficios empresariales y el Plan de Recomendación.
+
+Para la gestión eficiente de los activos, ciertos productos pueden incluir comisiones por servicios de administración, las cuales se podrían deducir previamente del valor generado o del total de participaciones aportadas, según lo definido por RACHA para cada caso concreto.
 
 ### 6.4. PARTICIPACIONES PROMOCIONALES 
 
