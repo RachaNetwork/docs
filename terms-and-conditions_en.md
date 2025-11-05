@@ -146,7 +146,7 @@ The USER declares that, as a distributor of RACHA products and services, he/she 
 
 ### 7.3. CONTRACT DURATION 
 
-This contract has an indefinite duration, provided the USER complies with the clauses of this contract, as well as with other documents described in clause fourth.
+This contract has an indefinite duration, provided the USER complies with the clauses of this contract, as well as with other documents described in clause 5.
 
 ### 7.4. TERMINATION OF THE CONTRACT 
 
