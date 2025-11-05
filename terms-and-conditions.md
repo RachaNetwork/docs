@@ -149,7 +149,7 @@ EL USUARIO declara que, como distribuidor de los productos y/o servicios de RACH
 
 ### 7.3. DURACIÓN DEL CONTRATO
 
-El presente contrato es de naturaleza indefinida, siempre que el USUARIO cumpla con las cláusulas de este contrato, así como con los demás documentos descritos en la cláusula cuarta.
+El presente contrato es de naturaleza indefinida, siempre que el USUARIO cumpla con las cláusulas de este contrato, así como con los demás documentos descritos en la cláusula quinta.
 
 ### 7.4. RESCISIÓN DEL CONTRATO 
 
