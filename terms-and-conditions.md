@@ -105,9 +105,7 @@ La liquidación consiste en la solicitud formal del Socio para vender sus Partic
 
 #### 6.5.2 Procedimiento de Liquidación 
 
-Las solicitudes de liquidación se evaluarán y tasarán semanalmente, durante la “Ventana de Tasación”, que tendrá lugar todos los días lunes entre las 12:00 y las 23:59 horas (hora peninsular de España).
-
-Cualquier solicitud presentada antes del comienzo de la "Ventana de Tasación" será evaluada durante dicha ventana, excepto si se presenta un lunes, en este caso pasaría a ser evaluada el siguiente lunes.
+Las solicitudes de liquidación deben enviarse antes de los miércoles a las 12:00 (hora peninsular de España). A partir de esa hora, se prepararán las tasaciones correspondientes a todas las solicitudes recibidas correctamente dentro del plazo establecido.
 
 Una vez presentada la solicitud y validada la elegibilidad del Socio según la etapa correspondiente, se procederá a notificarle la tasación aplicable.
 
