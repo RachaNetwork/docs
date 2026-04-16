@@ -132,8 +132,15 @@ El Usuario reconoce que las transacciones blockchain son irreversibles.
 
 ### 7.1. Comisión de compra
 
-RACHA podrá aplicar una comisión de compra del **1%** sobre el importe total de adquisición.  
-Dicha comisión podrá ser reducida, eliminada o restablecida durante períodos promocionales.
+RACHA podrá aplicar una comisión de compra de hasta el 1% sobre el importe total de cada adquisición.
+
+Asimismo, en la primera compra del usuario se aplicará una comisión fija de activación de 30 USDC. A estos efectos, se considerará “primera compra” aquella realizada por un usuario que no tenga participaciones activas en ninguno de los productos de RACHA en ese momento.
+
+La comisión de activación se aplicará una única vez, siempre que el usuario mantenga al menos una participación activa en cualquier producto de RACHA. En caso contrario, RACHA se reserva el derecho de volver a aplicarla si el usuario adquiere nuevamente productos en el futuro.
+
+RACHA podrá, a su discreción, ceder total o parcialmente la comisión de activación al referidor del usuario en pos de fomentar la actividad comercial.
+
+Todas las comisiones descritas podrán ser modificadas (incluyendo su reducción, incremento, eliminación o restablecimiento) en el marco de campañas promocionales o por decisión de RACHA. Cualquier cambio será debidamente comunicado a los usuarios a través de los canales oficiales y reflejado en los presentes Términos y Condiciones.
 
 ### 7.2. Comisión sobre recompensas
 
