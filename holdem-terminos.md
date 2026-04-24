@@ -46,6 +46,7 @@ El usuario reconoce que participa bajo su propio riesgo y acepta la posibilidad 
 
 ### 3.2. Comisión de compra
 - Comisión del **1%**, con un máximo de **100 USDC** por transacción.
+- Asimismo, en la primera compra del usuario se aplicará una comisión fija de activación de 30 USDC. A estos efectos, se considerará “primera compra” aquella realizada por un usuario que no tenga participaciones activas en ninguno de los productos de RACHA en ese momento. La comisión de activación se aplicará una única vez, siempre que el usuario mantenga al menos una participación activa en cualquier producto de RACHA. En caso contrario, RACHA se reserva el derecho de volver a aplicarla si el usuario adquiere nuevamente productos en el futuro. RACHA podrá, a su discreción, ceder total o parcialmente la comisión de activación al referidor del usuario en pos de fomentar la actividad comercial. Todas las comisiones descritas podrán ser modificadas (incluyendo su reducción, incremento, eliminación o restablecimiento) en el marco de campañas promocionales o por decisión de RACHA. Cualquier cambio será debidamente comunicado a los usuarios a través de los canales oficiales y reflejado en los presentes Términos y Condiciones.
 
 ### 3.3. Naturaleza contractual
 Cada Participación representa un contrato individual y autónomo que otorga derecho a recibir recompensas según el número de Participaciones activas.

@@ -132,8 +132,15 @@ The User acknowledges that blockchain transactions are irreversible.
 
 ### 7.1. Purchase commission
 
-RACHA may apply a purchase commission of **1%** on the total acquisition amount.  
-Said commission may be reduced, eliminated or restored during promotional periods.
+RACHA may apply a purchase fee of up to 1% on the total amount of each acquisition.
+
+Additionally, a fixed activation fee of 30 USDC will be applied to the user’s first purchase. For these purposes, a “first purchase” is defined as any purchase made by a user who does not hold any active participation in any RACHA products at that time.
+
+The activation fee will be applied only once, provided that the user maintains at least one active participation in any RACHA product. Otherwise, RACHA reserves the right to apply the activation fee again if the user makes a new purchase in the future.
+
+At its sole discretion, RACHA may assign all or part of the activation fee to the referring user in order to encourage commercial activity.
+
+All fees described above may be modified (including reduced, increased, removed, or reinstated) as part of promotional campaigns or at RACHA’s discretion. Any changes will be duly communicated to users through official channels and reflected in these Terms and Conditions.
 
 ### 7.2. Commission on rewards
 

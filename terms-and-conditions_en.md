@@ -102,9 +102,7 @@ The redemption process involves a formal request submitted by the Partner for th
 
 #### 6.5.2 REDEMPTION PROCEDURE 
 
-Settlement requests will be evaluated and priced weekly during the "Pricing Window", which will take place every Monday from 12:00 to 23:59 hours (Peninsular Spain time).
-
-Any request submitted before the start of the "Pricing Window" will be evaluated during that window, unless it is submitted on a Monday, in which case it will be evaluated during the following Monday's window.
+Liquidation requests must be submitted before Wednesdays at 12:00 (mainland Spain time). After that time, the corresponding appraisals will be prepared for all requests correctly received within the established deadline.
 
 Once the request has been submitted and the Partner's eligibility for the corresponding phase has been verified, the applicable valuation will be communicated to them.
 
