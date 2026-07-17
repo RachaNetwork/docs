@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RACHA · Compra USDC en Arbitrum</title>
+  <meta name="description" content="Compra USDC en la red Arbitrum con tarjeta o transferencia SEPA. Servicio operado por Ramp Network, proveedor autorizado bajo MiCA." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    /* ══════════════════════════════════════════════════
+       PERSONALIZACIÓN — edita solo estas variables
+       ══════════════════════════════════════════════════ */
+    :root {
+      --racha: #FE6625;            /* naranja corporativo RACHA (logo y CTA) */
+      --racha-dark: #E5520F;       /* naranja para hover                     */
+      --usdc: #2775CA;             /* azul USDC                              */
+      --arbitrum: #12AAFF;         /* azul Arbitrum (acentos y badges)       */
+      --bg: #0A1322;               /* fondo azul marino profundo             */
+      --panel: #101D33;            /* fondo del panel central                */
+      --line: #1D2E4C;             /* bordes y separadores                   */
+      --text: #EAF1FB;             /* texto principal                        */
+      --text-dim: #8FA3C2;         /* texto secundario                       */
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background:
+        radial-gradient(1100px 560px at 72% -10%, rgba(18,170,255,.12), transparent 60%),
+        radial-gradient(900px 500px at -10% 110%, rgba(254,102,37,.06), transparent 55%),
+        var(--bg);
+      color: var(--text);
+      font-family: 'Inter', system-ui, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 20px clamp(20px, 5vw, 56px);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+      color: var(--text);
+    }
+    .logo img { height: 30px; width: auto; display: block; }
+    .logo span {
+      font-family: 'Sora', sans-serif;
+      font-weight: 700;
+      font-size: 22px;
+      letter-spacing: .06em;
+    }
+
+    .net-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-dim);
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 7px 14px;
+    }
+    .net-badge::before {
+      content: "";
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: var(--arbitrum);
+      box-shadow: 0 0 8px var(--arbitrum);
+    }
+
+    main {
+      flex: 1;
+      width: 100%;
+      max-width: 1080px;
+      margin: 0 auto;
+      padding: clamp(28px, 5vw, 56px) 20px 40px;
+      display: grid;
+      grid-template-columns: minmax(0, 400px) minmax(0, 1fr);
+      gap: clamp(28px, 4vw, 64px);
+      align-items: start;
+    }
+
+    .eyebrow {
+      font-size: 12.5px;
+      font-weight: 600;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+      color: var(--racha);
+      margin-bottom: 12px;
+    }
+
+    .intro h1 {
+      font-family: 'Sora', sans-serif;
+      font-size: clamp(28px, 4vw, 40px);
+      line-height: 1.15;
+      margin-bottom: 16px;
+    }
+    .intro h1 em {
+      font-style: normal;
+      background: linear-gradient(100deg, var(--usdc), var(--arbitrum));
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+    .intro p {
+      color: var(--text-dim);
+      font-size: 15.5px;
+      line-height: 1.65;
+      margin-bottom: 14px;
+    }
+
+    .steps { list-style: none; margin-top: 26px; }
+    .steps li {
+      display: flex;
+      gap: 14px;
+      padding: 13px 0;
+      border-top: 1px solid var(--line);
+      font-size: 14.5px;
+      color: var(--text-dim);
+      line-height: 1.5;
+    }
+    .steps li strong { color: var(--text); font-weight: 600; }
+    .steps .n {
+      flex: none;
+      width: 26px; height: 26px;
+      border-radius: 50%;
+      border: 1px solid var(--arbitrum);
+      color: var(--arbitrum);
+      font-size: 13px;
+      font-weight: 600;
+      display: grid;
+      place-items: center;
+      margin-top: 1px;
+    }
+
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 14px;
+      box-shadow:
+        0 -1px 0 rgba(18,170,255,.35) inset,
+        0 24px 60px rgba(0,0,0,.35);
+    }
+
+    .launch { padding: clamp(28px, 4vw, 48px); }
+    .launch-inner {
+      min-height: 480px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      gap: 18px;
+    }
+
+    .pair { display: flex; align-items: center; gap: 16px; }
+    .coin {
+      width: 62px; height: 62px;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      font-family: 'Sora', sans-serif;
+      font-size: 26px;
+      font-weight: 700;
+      color: #fff;
+    }
+    .coin--eur { background: linear-gradient(145deg, #24406B, #16294A); border: 1px solid var(--line); }
+    .coin--usdc { background: linear-gradient(145deg, var(--usdc), #1B5AA0); box-shadow: 0 0 24px rgba(39,117,202,.35); }
+    .arrow { color: var(--arbitrum); font-size: 24px; }
+
+    .launch h2 {
+      font-family: 'Sora', sans-serif;
+      font-size: 22px;
+      letter-spacing: .01em;
+    }
+    .launch p {
+      color: var(--text-dim);
+      font-size: 15px;
+      line-height: 1.65;
+      max-width: 380px;
+    }
+
+    .cta {
+      display: inline-block;
+      font-family: 'Inter', sans-serif;
+      font-size: 16px;
+      font-weight: 600;
+      color: #1A0A02;
+      background: var(--racha);
+      border-radius: 12px;
+      padding: 15px 38px;
+      text-decoration: none;
+      margin-top: 6px;
+      transition: background .15s ease, transform .15s ease;
+    }
+    .cta:hover { background: var(--racha-dark); transform: translateY(-1px); }
+    .cta:focus-visible { outline: 2px solid var(--text); outline-offset: 3px; }
+
+    .fineprint {
+      font-size: 12px !important;
+      color: var(--text-dim);
+      opacity: .8;
+      max-width: 360px;
+    }
+
+    footer {
+      border-top: 1px solid var(--line);
+      padding: 22px clamp(20px, 5vw, 56px);
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px 28px;
+      justify-content: space-between;
+      font-size: 12.5px;
+      color: var(--text-dim);
+      line-height: 1.6;
+    }
+    footer a { color: var(--text-dim); }
+
+    @media (max-width: 900px) {
+      main { grid-template-columns: 1fr; }
+      .intro { max-width: 560px; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      * { transition: none !important; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <a class="logo" href="https://racha.network">
+      <img src="https://raw.githubusercontent.com/RachaNetwork/docs/refs/heads/master/presentations/racha-logo.png" alt="RACHA" />
+    </a>
+    <span class="net-badge">Red Arbitrum One</span>
+  </header>
+
+  <main>
+    <section class="intro">
+      <p class="eyebrow">Genera, Acumula y Gana</p>
+      <h1>Compra <em>USDC</em> directo a tu wallet</h1>
+      <p>Paga con tarjeta o transferencia SEPA y recibe USDC en la red Arbitrum, sin pasos intermedios ni exchanges.</p>
+      <p>El servicio lo opera Ramp Network, proveedor de servicios de criptoactivos autorizado en la Unión Europea conforme al reglamento MiCA.</p>
+      <ol class="steps">
+        <li><span class="n">1</span><span><strong>Elige el importe</strong> en euros que quieres comprar.</span></li>
+        <li><span class="n">2</span><span><strong>Pega la dirección de tu wallet en RACHA.</strong> Revisa los primeros y últimos caracteres antes de continuar.</span></li>
+        <li><span class="n">3</span><span><strong>Sigue los pasos indicados.</strong> El USDC llega a tu wallet en cuanto se confirma, normalmente en pocos minutos.</span></li>
+      </ol>
+    </section>
+
+    <section class="panel launch" aria-label="Compra de USDC">
+      <div class="launch-inner">
+        <div class="pair">
+          <span class="coin coin--eur">€</span>
+          <span class="arrow" aria-hidden="true">&#8594;</span>
+          <span class="coin coin--usdc">$</span>
+        </div>
+        <h2>EUR &#8594; USDC · Arbitrum</h2>
+        <p>Compra segura a través de la plataforma oficial de Ramp Network. Se abre en una pestaña nueva; ten a mano tu dirección de wallet.</p>
+        <a class="cta" href="https://app.rampnetwork.com/landing?defaultFlow=ONRAMP&amp;enabledFlows=ONRAMP,OFFRAMP,SWAP&amp;hostApiKey=wn25y7nx6cyb4oqutc5obnnywwwt4gz36yw5fypw&amp;inAsset=EUR&amp;outAsset=ARBITRUM_USDC" target="_blank" rel="noopener">Comprar USDC en Ramp</a>
+        <p class="fineprint">Serás redirigido a app.rampnetwork.com, operado por Ramp Network, entidad autorizada bajo MiCA. RACHA no procesa ni custodia tus fondos.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>© RACHA · racha.network</span>
+    <span>Los criptoactivos conllevan riesgo. La compraventa la ejecuta Ramp Network como entidad regulada; RACHA actúa como integrador.</span>
+  </footer>
+
+</body>
+</html>
