@@ -16,7 +16,7 @@
 - [3. Naturaleza jurídica del Raise Pool](#3-naturaleza-jurídica-del-raise-pool)
 - [4. Ausencia de asesoramiento financiero y garantías](#4-ausencia-de-asesoramiento-financiero-y-garantías)
 - [5. Definición y valor de las participaciones](#5-definición-y-valor-de-las-participaciones)
-  - [5.1. Participaciones (RV)](#51-participaciones-rv)
+  - [5.1. Participaciones](#51-participaciones-rv)
   - [5.2. Compra mínima](#52-compra-mínima)
 - [6. Proceso de adquisición y validación](#6-proceso-de-adquisición-y-validación)
 - [7. Comisiones y costes asociados](#7-comisiones-y-costes-asociados)
