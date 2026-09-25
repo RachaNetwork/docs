@@ -16,7 +16,7 @@
 - [3. Legal nature of Raise Pool](#3-legal-nature-of-raise-pool)
 - [4. Absence of financial advice and guarantees](#4-absence-of-financial-advice-and-guarantees)
 - [5. Definition and value of participations](#5-definition-and-value-of-participations)
-  - [5.1. Participations (RV)](#51-participations-rv)
+  - [5.1. Participations](#51-participations-rv)
   - [5.2. Minimum purchase](#52-minimum-purchase)
 - [6. Acquisition and validation process](#6-acquisition-and-validation-process)
 - [7. Commissions and associated costs](#7-commissions-and-associated-costs)
@@ -102,11 +102,11 @@ RACHA does not guarantee:
 
 ## 5. DEFINITION AND VALUE OF PARTICIPATIONS
 
-### 5.1. Participations (RV)
+### 5.1. Participations
 
-Each Participation of the RAISE POOL (hereinafter, **"RV"**) represents a contractual right of economic participation, expressed in accounting terms on the Platform.
+Each Participation of the RAISE POOL represents a contractual right of economic participation, expressed in accounting terms on the Platform.
 
-The initial reference value of each RV is **10 USDC**, without prejudice to the fact that said value may be modified in the future by RACHA for technical, operational or market reasons.
+The initial reference value of each participation is **10 USDC**, without prejudice to the fact that said value may be modified in the future by RACHA for technical, operational or market reasons.
 
 ### 5.2. Minimum purchase
 
