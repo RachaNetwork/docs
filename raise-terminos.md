@@ -102,16 +102,16 @@ RACHA no garantiza:
 
 ## 5. DEFINICIÓN Y VALOR DE LAS PARTICIPACIONES
 
-### 5.1. Participaciones (RV)
+### 5.1. Participaciones 
 
-Cada Participación del RAISE POOL (en adelante, **“RV”**) representa un derecho contractual de participación económica, expresado contablemente en la Plataforma.
+Cada Participación del RAISE POOL representa un derecho contractual de participación económica, expresado contablemente en la Plataforma.
 
-El valor inicial de referencia de cada RV es de **10 USDC**, sin perjuicio de que dicho valor pueda ser modificado en el futuro por RACHA por razones técnicas, operativas o de mercado.
+El valor inicial de referencia de cada participación es de **10 USDC**, sin perjuicio de que dicho valor pueda ser modificado en el futuro por RACHA por razones técnicas, operativas o de mercado.
 
 ### 5.2. Compra mínima
 
 - **Compra mínima inicial:** 500 USDC.  
-- Una vez alcanzado dicho umbral, el Usuario podrá realizar compras sucesivas en múltiplos del valor unitario vigente de la RV.
+- Una vez alcanzado dicho umbral, el Usuario podrá realizar compras sucesivas en múltiplos del valor unitario vigente de la participación.
 
 ---
 
